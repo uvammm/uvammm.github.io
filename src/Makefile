@@ -3,7 +3,7 @@
 ###
 
 GITHUB_PAGES_BRANCH=gh-pages
-THEME = mmm
+THEME = hugo-finite
 
 MARKDOWN = python3 -m markdown
 BASEDIR = .
