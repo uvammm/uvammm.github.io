@@ -64,6 +64,9 @@ body {
 /* Main content.  */
 main {
     margin-top: 2ex;
+    max-width: 1200px;
+    margin: 0 auto !important;
+    float: none !important;
 }
 
 a
@@ -149,6 +152,8 @@ pre {
 .whatisthis hr {
     border-style: solid;
     border-color: #083C1F;
+    height: 2px;
+    max-width: 100%;
 }
 
 /* Taxonomy terms page.  */
