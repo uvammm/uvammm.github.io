@@ -20,12 +20,20 @@ University of Virginia, Spring 2019
 should register for the ECON 4559 course, which has ECON 3010 or 3110
 and ECON 3720 or 4720 as a prerequisite.
 
+**Communication:** Course materials will be posted on the course
+  website: [https://uvammm.github.io](https://uvammm.github.io). We
+  will use slack
+  ([https://uvammm.slack.com](https://uvammm.slack.com)) for most
+  communications with the class, and encourage you to use it for
+  asking questions and discussions with the course staff and your
+  classmates.
+
 <div class="note">
 This is a draft syllabus, subject to change until the official syllabus is posted and distributed on the first day of class.
 </div>
 
 
-**Course description:**
+# Course Description
 
 Many modern systems that were designed to help people ranging from
 Internet search platforms to car navigation or restaurant recommendation
@@ -116,6 +124,43 @@ highest score. The range of possible weightings is:
 Spend your energy focusing on what you are learning, instead of
 worrying about your grade.
 
+## Honor
+
+We believe strongly in the value of a _community of trust_, and expect
+all of the students in this class to contribute to strenghtening and
+enhancing that community.  
+
+As a student at the University of Virginia, you are trusted to be
+honorable and expected to behave in ways that merit that trust. We
+take advantage of this trust to provide a better learning environment
+for everyone.  The course will be better for everyone if everyone can
+assume everyone else is trustworthy, and we start from the assumption
+that all students at the university deserve to be trusted.
+
+For most assignments in this course, you will be encouraged to discuss
+ideas and work with others to develop your ideas, and often expected
+to work in a team.  We expect you to be honest, fair, and respectful
+with your teammates, and to contribute fully to your team to the best
+of your ability.  We also expect you to notify the course staff if
+there are any problems with your team, or if you have teammates that
+are not behaving honorably.
+
+You will always be expected to credit any collaborators and properly
+cite any resources you use. The honor expectations for each assignment
+should be clearly stated and make it unambiguous what is and is not
+permitted. If it is ever unclear what is considered acceptable on an
+assignment, please check with the course staff.
+
+### Expectations and Accommodations
+
+If you anticipate any issues related to the format, materials, or
+requirements of this course, please meet with one of the instructors
+outside of class so we can explore potential options. Students with
+disabilities may also wish to work with the Student Disability Access
+Center to discuss a range of options to removing barriers in this
+course, including official accommodations. Please visit their website
+for information on this process and to apply for services online:
+[sdac.studenthealth.virginia.edu](sdac.studenthealth.virginia.edu). 
 
 
 
