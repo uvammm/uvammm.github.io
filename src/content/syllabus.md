@@ -52,18 +52,71 @@ digital advertising platforms that have both created huge success in
 user reach and effectiveness for advertisers and, at the same time, have
 generated a trail user privacy concerns.   
 
-**Evaluation:** Course performance will be evaluated primarily based
-  on performance on project assignments what will involve the analysis
-  of data from real electronic platforms (for example, <a
-  href="https://webscope.sandbox.yahoo.com/">Yahoo!'s Webscope
-  data</a>). For most assignments, students will be grouped into teams
-  of two or four students, including students in both the CS and ECON
-  sections of the course in each team. The project teams and
-  assignments will emulate the work of real interdisciplinary teams at
-  leading companies. It will be the team's responsibility to
-  distribute the tasks, communicate with each other and explain in the
-  project report what part of the project was completed by what team
-  member.
+
+# Assignments
+
+The main assignments for the class will be a series of projects where
+students will work in small teams to analyze data from real electronic
+platforms (e.g.,<a
+href="https://webscope.sandbox.yahoo.com/">Yahoo!'s Webscope
+data</a>, <a href="https://www.zillow.com/research/data/">Zillow's housing market data</a>, and <a href="https://www.census.gov/data.html">data from the United States Census</a>).
+
+For most assignments, students will be grouped into teams of two or
+four students, including students in both the CS and ECON sections of
+the course in each team. The project teams and assignments will
+emulate the work of real interdisciplinary teams at leading
+companies. It will be the team's responsibility to distribute the
+tasks, communicate with each other and explain in the project report
+what part of the project was completed by what team member.
+
+For the final project, students will have an opportunity to define
+their own open-ended project to answer an interesting question about
+the world using methods and techniques from the class.
+
+In addition to the project assignments, there will be reading
+assignments and other preparation assignments for classes, and there
+may be some individual problem sets or quizzes (we hope that these
+will not be necessary, but will use them if it seems like they will be
+helpful for improving engagement in the class, or if there are
+students who are not contributing fully to team assignments).
+
+## Projects
+
+The due dates for the projects are below.  Unless specified different,
+projects will be due at the beginning of class on the due date.
+
+**Tuesday, 22 January:** Project 1: Warm-up, predictions from data  
+**Tuesday, 5 February:** Project 2: Housing market predictions  
+**Tuesday, 19 February:** Project 3: Stable matching  
+**Thursday, 7 March:** Project 4: Game theory auctions  
+**Thursday, 28 March:** Project 5  
+**Thursday, 11 April:** Final Project Proposal  
+**Tuesday, 30 April:** Final Project Report and Presentation
+
+## Evaluation
+
+Grading will be based primarily on your performance on project
+assignments, with adjustments for outstanding contributions to the
+class.  For team projects, everyone in a team will normally receive
+the same grade, except in situations where there are problems or where
+not all team members contribute fully to the project.
+ 
+Grades will be calculated with several different weightings, where
+your grade is based primarily on whichever weighting results in the
+highest score. The range of possible weightings is:
+
+- Project 1: 0-5%
+- Project 2: 5-15%
+- Project 3: 10-15%
+- Project 4: 10-15%
+- Project 5: 10-15%
+- Final Project: 20-65%
+- Class Contribution: 0-25% 
+
+Spend your energy focusing on what you are learning, instead of
+worrying about your grade.
+
+
 
 
 
