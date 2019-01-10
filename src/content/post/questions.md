@@ -40,7 +40,7 @@ If I am still interesting in enrolling in the course, should I attend lecture ev
 We won't kick anyone who wants to attend out of the classroom (unless
 we get complaints from the fire marshall). The room is fairly small,
 but everyone should feel free to come, and in the unlikely event that
-there is a space problem, we'll sort out a solution.
+there is a space problem, we'll try to sort out a solution.
    </div>
 
 ### Background expectations
@@ -49,7 +49,7 @@ there is a space problem, we'll sort out a solution.
 The course syllabus mentions machine learning and econometrics, neither of which I am too familiar with. Would it be better to try to take this class after I've taken classes that have overlapping concepts?
    </div>
    <div class="answer">
-If you're in the CS section of the course, there is no required Economics prerequisites, so definitely not expected that you would have taken econometrics or machine learning. If you are in the Econ section, you need to satisfy the prerequisite(which does include an Econometrics course).
+If you're in the CS section of the course, there is no required Economics prerequisites, so definitely not expected that you would have taken econometrics or machine learning. If you are in the Econ section, you need to satisfy the prerequisite (which does include an Econometrics course).
 
 The lectures should be accessible to students without any background
 beyond the prerequisites (so, we won't assume any CS or economics
@@ -81,6 +81,12 @@ To what extent can computer science be used to solve problems in economics, and 
    <div class="answer">
 At some level, all problems in science are computing problems, and all practical problems are economic ones. (TODO: more)
 
+
+There is a set of practical areas that have emerged in the past 10-15 years where Economics and Computer Science are
+are equal partners. For instance, the tasks of optimal routing (one of the "classical" questions in Computer Science) are now
+proved to be impossible to solve without invoking the idea of a Nash equilibrium. On the other hand, market design (which is
+a large area within Econimics) often reduces to a computational problem and solving it is often impossible without using
+the ideas from Computer Science such as compitational complexity.
    </div>
 
 ### Grading
@@ -119,11 +125,16 @@ Sorry, this was a mistake in a preliminary version of the syllabus. We don't act
    <div class="question">
 I'd like to gain experience with data analytics/practical business applications of programming -- learning the hard skills. Will this class give me an opportunity to do that, or will I mostly focus on the Econ/theory side of things? I'm not sure if the CS content will be too high-level for me to grasp and just go over my head, especially because half of the class is majoring in CS. I'd appreciate your thoughts on this. 
    </div>
+   <div class="answer">
+The course will have 5 assigned projects and 1 final project. All of them will be based on analysing real datasets and we require
+   using Python for this analysis. The course does not have CS prerequisites for the Economics students. The course will contain overview of the concepts from Economics and Computer Science that will be used. We also expect that interaction between Economics and Computer Science students will help mutual learning. The material will combine Economic theory with the concepts from Computer Science and use Econometric and Machine learning methods for bringing this theory to data.
+   </div>   
 
    <div class="question">
 What does it take to do well in this course? 
    </div>
    <div class="answer">
+   Active participation in the class as well as equal share of work on the class projects in combination are a sufficient condition for successful class performance.
    </div>
 
 
