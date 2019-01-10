@@ -107,7 +107,8 @@ Grading will be based primarily on your performance on project
 assignments, with adjustments for outstanding contributions to the
 class.  For team projects, everyone in a team will normally receive
 the same grade, except in situations where there are problems or where
-not all team members contribute fully to the project.
+not all team members contribute fully to the project. All students are 
+expected to be present at the final project proposal and final project presentation.
  
 Grades will be calculated with several different weightings, where
 your grade is based primarily on whichever weighting results in the
