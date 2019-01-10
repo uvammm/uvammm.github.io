@@ -19,6 +19,7 @@ slug = "schedule"
 **Tuesday, 30 April:** Final Project Report and Presentation
 
 
+<!--
 ## Preliminary Readings Schedule
 
 This is all tentative, and subject to change.
@@ -128,7 +129,7 @@ ACM Conference on Electronic Commerce. ACM, 2012.<br>
 Dwork, Cynthia, and Aaron Roth. "The algorithmic foundations of
 differential privacy." (Chapter 10)
 </blockquote>
-
+-->
 
 
 

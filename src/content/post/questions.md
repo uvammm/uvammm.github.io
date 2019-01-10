@@ -49,7 +49,15 @@ there is a space problem, we'll sort out a solution.
 The course syllabus mentions machine learning and econometrics, neither of which I am too familiar with. Would it be better to try to take this class after I've taken classes that have overlapping concepts?
    </div>
    <div class="answer">
+If you're in the CS section of the course, there is no required Economics prerequisites, so definitely not expected that you would have taken econometrics or machine learning. If you are in the Econ section, you need to satisfy the prerequisite(which does include an Econometrics course).
 
+The lectures should be accessible to students without any background
+beyond the prerequisites (so, we won't assume any CS or economics
+background that students in the other section wouldn't be expected to
+have). For the projects, you'll be working in teams that include
+students in both sections, and we hope you'll be able to work together
+and learn from each other in ways that benefit from your different
+backgrounds in CS and Economics.
    </div>
 
 ### Why we're teaching the course
@@ -62,10 +70,16 @@ We'll talk about this the first day. (And maybe add a written answer here soon).
    </div>
 
    <div class="question">
+What were your motivations for co-teaching a course like this?
+   </div>
+   <div class="answer">
+   </div>
+
+   <div class="question">
 To what extent can computer science be used to solve problems in economics, and vice versa? Are there any limitations to how we can solve these problems?
    </div>
    <div class="answer">
-At some level, all problems in science are computing problems, and all practical problems are economic ones. 
+At some level, all problems in science are computing problems, and all practical problems are economic ones. (TODO: more)
 
    </div>
 
@@ -78,17 +92,38 @@ How is our grade broken down?
 The updated [syllabus](/syllabus) has a rough grade break down. But, we don't grade by a simple forumla based on weighting each assignment. We're looking for evidence to support the highest justifiable grade based on everything you've done in the class.
    </div>
 
-
-
+   <div class="question">
 How will this class be structured? I'm intrigued by the idea of exploring a different structure compared to a typical class.
+   </div>
+   <div class="answer">
+This is the first time teaching a class like this, so some things
+we'll figure out as we go, and we definitely appreciate feedback and
+suggestions from students about how things are working or could work
+better. For the class meetings, we will mostly follow a fairly
+traditional (but hopefully engaging and enlightening!) lecture format,
+with both sections combined. If it seems useful to occasionally split
+into two groups, we might do that. For the projects, we will have
+students working in interdisciplinary teams, and hope that students
+will learn a lot from this experience and from working with teammates
+with different backgrounds to solve problems that require knowledge
+and skills in both Economics and Computing.
+   </div>
+
+   <div class="question">
 Honestly, I'm really worried about a final being worth 50% of the grade. Would love to know more about what that's about and how that is going to work.
+   </div>
+   <div class="answer">
+Sorry, this was a mistake in a preliminary version of the syllabus. We don't actually plan to have any final exam in this class.  (See the updated [syllabus](/syllabus), which will be finalized before the first class, for more details.)
+   </div>
+
+   <div class="question">
 I'd like to gain experience with data analytics/practical business applications of programming -- learning the hard skills. Will this class give me an opportunity to do that, or will I mostly focus on the Econ/theory side of things? I'm not sure if the CS content will be too high-level for me to grasp and just go over my head, especially because half of the class is majoring in CS. I'd appreciate your thoughts on this. 
-None
-None
+   </div>
 
-
-
-
-What does it take to do well in this course? What were your motivations for co-teaching a course like this?
+   <div class="question">
+What does it take to do well in this course? 
+   </div>
+   <div class="answer">
+   </div>
 
 

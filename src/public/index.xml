@@ -30,23 +30,24 @@
 &lt;p&gt;&lt;strong&gt;Thursday, 11 April:&lt;/strong&gt; Final Project Proposal&lt;br /&gt;
 &lt;strong&gt;Tuesday, 30 April:&lt;/strong&gt; Final Project Report and Presentation&lt;/p&gt;
 
-&lt;h2 id=&#34;preliminary-readings-schedule&#34;&gt;Preliminary Readings Schedule&lt;/h2&gt;
+&lt;!--
+## Preliminary Readings Schedule
 
-&lt;p&gt;This is all tentative, and subject to change.&lt;/p&gt;
+This is all tentative, and subject to change.
 
-&lt;p&gt;&lt;b&gt;Week 1:&lt;/b&gt; Causal inference: concepts, models and tools
+&lt;b&gt;Week 1:&lt;/b&gt; Causal inference: concepts, models and tools
 &lt;blockquote&gt;
 Causal inference vs. prediction. Treatment effects. Treatment effects in
 heterogeneous population. Endogeneity and instrumental
 variables. Measuring consumer responses and ROI on advertising as
 treatment effect. Other notions of causality: Granger causality and
-Pearl&amp;rsquo;s idea of causality.
+Pearl&#39;s idea of causality.
 &lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Rubin, Donald B. &amp;ldquo;Causal inference using potential outcomes:
-Design, modeling, decisions.&amp;rdquo; Journal of the American Statistical
+&lt;b&gt;Reading:&lt;/b&gt; Rubin, Donald B. &#34;Causal inference using potential outcomes:
+Design, modeling, decisions.&#34; Journal of the American Statistical
 Association 100.469 (2005): 322-331.&lt;br&gt;
-Blake, Thomas, Chris Nosko, and Steven Tadelis. &amp;ldquo;Consumer heterogeneity
-and paid search effectiveness: A large-scale field experiment.&amp;rdquo;
+Blake, Thomas, Chris Nosko, and Steven Tadelis. &#34;Consumer heterogeneity
+and paid search effectiveness: A large-scale field experiment.&#34;
 Econometrica 83.1 (2015): 155-174.
 &lt;/blockquote&gt;
 &lt;p&gt;
@@ -56,10 +57,10 @@ The concept of the learning machine and the concept of risk
 minimization. Empirical risk minimization. Types of problems of
 Statistical learning theory: pattern recognition, regression and density
 estimation. Examples and properties of common algorithms for statistical
-learning. Click prediction algorithms, Google&amp;rsquo;s DoubleClick and AdSense.
+learning. Click prediction algorithms, Google&#39;s DoubleClick and AdSense.
 &lt;P&gt;
 &lt;b&gt;Reading:&lt;/b&gt; Vapnik, Vladimir. The nature of statistical learning
-theory. Springer science &amp;amp; business media, 2013. (Chapter 1)
+theory. Springer science &amp; business media, 2013. (Chapter 1)
 &lt;/blockquote&gt;
 &lt;p&gt;
 &lt;b&gt;Weeks 3-4:&lt;/b&gt; Matching problems
@@ -69,7 +70,7 @@ degree. Paths and cycles on graphs. Sorting and searching
 algorithms. Tree graphs. Matching on bipartite graphs. Common algorithms
 for matching on bipartite graphs.
 &lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Norman L. Biggs, &amp;ldquo;Discrete Mathematics&amp;rdquo;, Oxford University
+&lt;b&gt;Reading:&lt;/b&gt; Norman L. Biggs, &#34;Discrete Mathematics&#34;, Oxford University
 Press. (Chapters 15-17)
 &lt;/blockquote&gt;
 &lt;/p&gt;&lt;p&gt;
@@ -85,8 +86,8 @@ online advertising auctions.
 &lt;p&gt;
 &lt;b&gt;Reading:&lt;/b&gt; Gibbons, Robert. Game theory for applied economists. Princeton
 University Press, 1992. (Chapters 1 and 3)&lt;br&gt;
-M. Gentry, T. Hubbard, D. Nekipelov, H. Paarsch, &amp;ldquo;Structural
-Econometrics of Auctions&amp;rdquo;. MIT Press
+M. Gentry, T. Hubbard, D. Nekipelov, H. Paarsch, &#34;Structural
+Econometrics of Auctions&#34;. MIT Press 
 &lt;/blockquote&gt;
 &lt;/p&gt;&lt;p&gt;
 &lt;b&gt;Week 7:&lt;/b&gt; From Game theory to Algorithmic Game Theory
@@ -95,19 +96,19 @@ Approximating best responses and utility guarantees. Possibility (and
 impossibility) of implementation of Nash equilibria. Approximating Nash
 equilibria.
 &lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Jason Hartline, &amp;ldquo;Mechanism Design and Approximation&amp;rdquo;.
-&lt;a href=&#34;http://jasonhartline.com/MDnA&#34;&gt;http://jasonhartline.com/MDnA&lt;/a&gt; (Chapter 1)
+&lt;b&gt;Reading:&lt;/b&gt; Jason Hartline, &#34;Mechanism Design and Approximation&#34;.
+http://jasonhartline.com/MDnA (Chapter 1)
 &lt;/blockquote&gt;
 &lt;/p&gt;&lt;p&gt;
-&lt;b&gt;Week 8:&lt;/b&gt; Introduction to Economics of Information
+&lt;b&gt;Week 8:&lt;/b&gt; Introduction to Economics of Information 
 &lt;blockquote&gt;
 Informational content of Nash equilibria. Competition and user
 information. Information and user privacy. Resent evidence on behavioral
 response (and non-response) to changes in privacy.
 &lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Hal Varian, &amp;ldquo;Economics of Information Technology&amp;rdquo;
-&lt;a href=&#34;http://people.ischool.berkeley.edu/~hal/Papers/mattioli/mattioli.html&#34;&gt;http://people.ischool.berkeley.edu/~hal/Papers/mattioli/mattioli.html&lt;/a&gt;&lt;br&gt;
-Tucker, Catherine E. &amp;ldquo;The economics of advertising and privacy&amp;rdquo;. International journal of Industrial organization 30.3 (2012): 326-329.
+&lt;b&gt;Reading:&lt;/b&gt; Hal Varian, &#34;Economics of Information Technology&#34;
+http://people.ischool.berkeley.edu/~hal/Papers/mattioli/mattioli.html&lt;br&gt;
+Tucker, Catherine E. &#34;The economics of advertising and privacy&#34;. International journal of Industrial organization 30.3 (2012): 326-329. 
 &lt;/blockquote&gt;
 &lt;/p&gt;&lt;p&gt;
 &lt;b&gt;Week 9:&lt;/b&gt; Formal concepts of privacy
@@ -117,9 +118,9 @@ adversarial attacks. K-anonymity and related concepts. Analyzing
 K-anonymous data. Differential privacy. Differential privacy and
 robustness. Differential privacy and Machine learning.
 &lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Lambert, Diane. &amp;ldquo;Measures of disclosure risk and harm.&amp;rdquo; Journal
+&lt;b&gt;Reading:&lt;/b&gt; Lambert, Diane. &#34;Measures of disclosure risk and harm.&#34; Journal
 of Official Statistics 9.2 (1993): 313.&lt;Br&gt;
-Dwork, Cynthia. &amp;ldquo;Differential privacy: A survey of results.&amp;rdquo;
+Dwork, Cynthia. &#34;Differential privacy: A survey of results.&#34;
 International Conference on Theory and Applications of Models of
 Computation. Springer, Berlin, Heidelberg, 2008.
 &lt;/blockquote&gt;
@@ -134,11 +135,12 @@ agents. Differentially private prediction of user choices. Designing
 mechanisms with formal privacy guarantees.
 &lt;p&gt;
 &lt;b&gt;Reading:&lt;/b&gt; Nissim, Kobbi, Claudio Orlandi, and Rann
-Smorodinsky. &amp;ldquo;Privacy-aware mechanism design.&amp;rdquo; Proceedings of the 13th
+Smorodinsky. &#34;Privacy-aware mechanism design.&#34; Proceedings of the 13th
 ACM Conference on Electronic Commerce. ACM, 2012.&lt;br&gt;
-Dwork, Cynthia, and Aaron Roth. &amp;ldquo;The algorithmic foundations of
-differential privacy.&amp;rdquo; (Chapter 10)
-&lt;/blockquote&gt;&lt;/p&gt;
+Dwork, Cynthia, and Aaron Roth. &#34;The algorithmic foundations of
+differential privacy.&#34; (Chapter 10)
+&lt;/blockquote&gt;
+--&gt;
 </description>
     </item>
     
