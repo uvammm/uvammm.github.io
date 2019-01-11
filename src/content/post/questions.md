@@ -1,12 +1,12 @@
 +++
 date = "09 Jan 2019"
-draft = true
+draft = false
 title = "Questions and Answers"
-author = "David Evans"
+author = "David Evans and Denis Nekipelov"
 slug = "qa"
 +++
 
-Here are our answers to the questions you asked on the [Course Survey].
+Here are our (not yet completed) answers to the questions you asked on the [Course Survey].
 
 ### Getting into the course
 
@@ -73,20 +73,24 @@ We'll talk about this the first day. (And maybe add a written answer here soon).
 What were your motivations for co-teaching a course like this?
    </div>
    <div class="answer">
+We'll talk about this the first day. (And maybe add a written answer here soon).
    </div>
 
    <div class="question">
 To what extent can computer science be used to solve problems in economics, and vice versa? Are there any limitations to how we can solve these problems?
    </div>
    <div class="answer">
-At some level, all problems in science are computing problems, and all practical problems are economic ones. (TODO: more)
+At some level, all problems in science are computing problems, and all practical problems are economic ones. 
 
-
-There is a set of practical areas that have emerged in the past 10-15 years where Economics and Computer Science are
-are equal partners. For instance, the tasks of optimal routing (one of the "classical" questions in Computer Science) are now
-proved to be impossible to solve without invoking the idea of a Nash equilibrium. On the other hand, market design (which is
-a large area within Econimics) often reduces to a computational problem and solving it is often impossible without using
-the ideas from Computer Science such as compitational complexity.
+More concretely, there is a set of practical areas that have emerged in the past 10-15
+years where Economics and Computer Science are are equal partners. For
+instance, the tasks of optimal routing (one of the "classical"
+questions in Computer Science) are now proved to be impossible to
+solve without invoking the idea of a Nash equilibrium. On the other
+hand, market design (which is a large area within Econimics) often
+reduces to a computational problem and solving it is often impossible
+without using the ideas from Computer Science such as compitational
+complexity.  
    </div>
 
 ### Grading
@@ -126,15 +130,27 @@ Sorry, this was a mistake in a preliminary version of the syllabus. We don't act
 I'd like to gain experience with data analytics/practical business applications of programming -- learning the hard skills. Will this class give me an opportunity to do that, or will I mostly focus on the Econ/theory side of things? I'm not sure if the CS content will be too high-level for me to grasp and just go over my head, especially because half of the class is majoring in CS. I'd appreciate your thoughts on this. 
    </div>
    <div class="answer">
-The course will have 5 assigned projects and 1 final project. All of them will be based on analysing real datasets and we require
-   using Python for this analysis. The course does not have CS prerequisites for the Economics students. The course will contain overview of the concepts from Economics and Computer Science that will be used. We also expect that interaction between Economics and Computer Science students will help mutual learning. The material will combine Economic theory with the concepts from Computer Science and use Econometric and Machine learning methods for bringing this theory to data.
-   </div>   
+The course will have 5 assigned projects and 1 final project. All of
+   them will be based on analyzing real datasets and we require using
+   Python for this analysis. The course does not have CS prerequisites
+   for the Economics students, so we are not expecting you to necessarily have any previous programming experience. The course will contain overview of the
+   concepts from Economics and Computer Science that will be used. We
+   also expect that interaction between Economics and Computer Science
+   students will help mutual learning. The material will combine
+   Economic theory with the concepts from Computer Science and use
+   Econometric and Machine learning methods for bringing this theory
+   to data.  </div>
 
    <div class="question">
 What does it take to do well in this course? 
    </div>
    <div class="answer">
-   Active participation in the class as well as equal share of work on the class projects in combination are a sufficient condition for successful class performance.
+Being able to tackle open-ended problems and work creatively to find
+good solutions, working well in a team, being able to express yourself
+well in writing (and in code or mathematics), and being open to
+learning new things and going beyond what is provided. Active
+participation in the class as well as contributing well to successful
+projects will be a sufficient condition for getting an A in the class.
    </div>
 
 
