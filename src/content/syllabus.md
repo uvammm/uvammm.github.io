@@ -26,34 +26,6 @@ and ECON 3720 or 4720 as a prerequisite.
   classmates.
 
 
-## Course Staff and Office Hours
-
-<section style="display: table;width: 100%; align: center">
-  <div style="display: table-row; padding: 0.5rem">
-  <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%"> 
-  <img class="img-circle" src="/images/dave-2.jpg" height=250 width=200><br>
-<a href="https://www.cs.virginia.edu/evans">David Evans</a> (Professor of Computer Science)<br>
-Office hours: Thursdays, 11am-noon (after class), Rice 507
-  </div>
-  <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
-  <img class="img-circle" src="/images/denis-2.jpg" height=250 width=200><br>
-<a href="http://people.virginia.edu/~dn4w/">Denis Nekipelov</a> (Professor of Economics)<br>
-Office hours: Mondays, 10-11am, 254 Monroe Hall  
-  </div></div>
-  <div style="display: table-row; padding: 0.5rem">
-  <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
-  <img class="img-circle" src="/images/joe-2.jpg" height=250 width=200><br>
-<a href="https://economics.virginia.edu/people/profile/jr2xz">Joseph Roessler</a> (Economics PhD Student)<br>
-Office hours: Fridays, 10:30am-noon, Monroe Basement
-  </div>
-  <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
-<img class="img-circle" src="/images/jonas-2.jpg" height=250 width=200><br>
-<A href="https://sites.google.com/site/mahmadjonas/">Mainuddin Ahmad Jonas</a> (CS PhD Student)<br>
-Office hours: Wednesdays, 5-6:30pm, Rice 442
-  </div>
-  </div>
-</section>
-
 # Course Description
 
 Many modern systems that were designed to help people ranging from
