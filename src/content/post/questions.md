@@ -6,7 +6,7 @@ author = "David Evans and Denis Nekipelov"
 slug = "qa"
 +++
 
-Here are our (not yet completed) answers to the questions you asked on the [Course Survey].
+Here are our (not yet completed) answers to the questions you asked on the [Course Survey](https://goo.gl/forms/LgWs9d8bgMhiiUO72).
 
 ### Getting into the course
 
