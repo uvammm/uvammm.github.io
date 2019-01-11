@@ -159,9 +159,6 @@ University of Virginia, Spring 2019&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Meetings:&lt;/strong&gt; Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Intructors:&lt;/strong&gt; &lt;a href=&#34;http://people.virginia.edu/~dn4w/&#34;&gt;Denis Nekipelov&lt;/a&gt; and
-&lt;a href=&#34;https://www.cs.virginia.edu/evans&#34;&gt;David Evans&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Computer Science majors should register for the CS
 4501 course, which has CS 2150 as a prerequisite. Economics majors
 should register for the ECON 4559 course, which has ECON 3010 or 3110
@@ -175,9 +172,33 @@ and ECON 3720 or 4720 as a prerequisite.&lt;/p&gt;
   asking questions and discussions with the course staff and your
   classmates.&lt;/p&gt;
 
-&lt;div class=&#34;note&#34;&gt;
-This is a draft syllabus, subject to change until the official syllabus is posted and distributed on the first day of class.
-&lt;/div&gt;
+&lt;h2 id=&#34;course-staff-and-office-hours&#34;&gt;Course Staff and Office Hours&lt;/h2&gt;
+
+&lt;section style=&#34;display: table;width: 100%; align: center&#34;&gt;
+  &lt;div style=&#34;display: table-row; padding: 0.5rem&#34;&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt; 
+  &lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/dave-2.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/evans&#34;&gt;David Evans&lt;/a&gt; (Professor of Computer Science)&lt;br&gt;
+Office hours: Thursdays, 11am-noon (after class), Rice 507
+  &lt;/div&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt;
+  &lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/denis-2.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;a href=&#34;http://people.virginia.edu/~dn4w/&#34;&gt;Denis Nekipelov&lt;/a&gt; (Professor of Economics)&lt;br&gt;
+Office hours: Mondays, 10-11am, 254 Monroe Hall  
+  &lt;/div&gt;&lt;/div&gt;
+  &lt;div style=&#34;display: table-row; padding: 0.5rem&#34;&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt;
+  &lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/joe-2.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;a href=&#34;https://economics.virginia.edu/people/profile/jr2xz&#34;&gt;Joseph Roessler&lt;/a&gt; (Economics PhD Student)&lt;br&gt;
+Office hours: Fridays, 10:30am-noon, Monroe Basement
+  &lt;/div&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt;
+&lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/jonas-2.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;A href=&#34;https://sites.google.com/site/mahmadjonas/&#34;&gt;Mainuddin Ahmad Jonas&lt;/a&gt; (CS PhD Student)&lt;br&gt;
+Office hours: Wednesdays, 5-6:30pm, Rice 442
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
 
 &lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
 
@@ -252,7 +273,8 @@ projects will be due at the beginning of class on the due date.&lt;/p&gt;
 assignments, with adjustments for outstanding contributions to the
 class.  For team projects, everyone in a team will normally receive
 the same grade, except in situations where there are problems or where
-not all team members contribute fully to the project.&lt;/p&gt;
+not all team members contribute fully to the project. All students are
+expected to be present at the final project proposal and final project presentation.&lt;/p&gt;
 
 &lt;p&gt;Grades will be calculated with several different weightings, where
 your grade is based primarily on whichever weighting results in the

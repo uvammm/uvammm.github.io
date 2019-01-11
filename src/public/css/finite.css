@@ -584,3 +584,7 @@ div.hangingmore {
      padding-left: 125px;
      text-indent: -125px;
 }
+
+.img-circle {
+    border-radius: 50%;
+}
