@@ -6,7 +6,7 @@ author = "David Evans"
 slug = "updatedsyllabus"
 +++
 
-The updated course syllabus is now posted: [Course Syllabus](/syllabus). 
+The updated course syllabus is now posted: [Course Syllabus](/syllabus).
 
 
  
