@@ -1,6 +1,6 @@
 +++
 date = "15 Jan 2019"
-draft = true
+draft = false
 title = "Project 1: Housing Price Prediction"
 slug = "project1"
 +++

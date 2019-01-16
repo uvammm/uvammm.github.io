@@ -6,8 +6,45 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project 1: Housing Price Prediction</title>
+      <link>https://uvammm.github.io/project1/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project1/</guid>
+      <description>&lt;div class=&#34;due&#34;&gt;
+Project 1 is due &lt;b&gt;Tuesday, 22 January, 9:29am&lt;/b&gt;.
+   &lt;/div&gt;
+
+&lt;p&gt;You and your assigned partner (see the message in slack) should work
+together on this assignment. Both team members should fully understand
+everything you submit.  If there are parts you understand quickly but
+are new to your partner, it is your responsibility to explain them to
+your partner until everyone understands.  If there are parts that your
+partner understands quickly but that are new to you, it is your
+responsibility to insist that your partner explains things to you
+until you understand them well.&lt;/p&gt;
+
+&lt;p&gt;To do Project 1, you will need to install &lt;a href=&#34;https://jupyter.org/&#34;&gt;Jupyter&lt;/a&gt;. Follow the directions at &lt;a href=&#34;https://jupyter.org/install.html&#34;&gt;https://jupyter.org/install.html&lt;/a&gt;. (As in the directions there, we recommend using &lt;a href=&#34;https://www.anaconda.com/downloads&#34;&gt;Anaconda&lt;/a&gt;, which will also install Python and many useful Python packages. The instructions in the project notebook assume you have installed Anaconda.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve installed Jupyter, download the Project 1 Notebook: &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/projects/project1.ipynb&#34;&gt;&lt;code&gt;project1.ipynb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then run,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;jupyter notebook project1.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;to get started. This will start the jupyter local server and open the notebook in your web browser.&lt;/p&gt;
+
+&lt;p&gt;The notebook contains the questions and starting code for Project
+1. You will do your assignment by editing this file, and will submit
+your completed jupyter notebook as your assignment. (We&amp;rsquo;ll provide
+details on how to submit later.)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Updated Syllabus</title>
