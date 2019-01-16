@@ -1,3 +1,10 @@
++++
+date = "17 Jan 2019"
+draft = true
+title = "Class 2"
+author = "David Evans"
+slug = "class2"
++++
 
 
 
