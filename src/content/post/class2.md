@@ -19,3 +19,18 @@ _According to one common view, information security comes down to technical meas
 
 Ross Anderson, [_Why Information Security is Hard – An Economic Perspective_](/docs/why-infosec-hard.pdf). Annual Computer Security Applications Conference (ACSAC) 2001.
 
+
+### Smoking and Cancer
+
+[_Tobacco - A Vital U.S. Industry_](http://acsc.lib.udel.edu/exhibits/show/legislation/item/169), pamphlet from Tobacco Institute, featuring drawing by Peter Jefferson, arguing against tobacco regulation.
+
+> _Scientists in many fields have felt the need for canons of valid inference, and these have been becoming available in what are, properly, experimental sciences, by the rapid development of interest and teaching in ["The Design of Experiments"](https://en.wikipedia.org/wiki/The_Design_of_Experiments)_.
+
+> _Unfortunately, it has become obvious that many teaching departments, with mathematical but without scientific qualifications, have plunged into the task of teaching this new discipline, in spite of harbouring gravely confused notions of the logic of scientific research._
+
+> _If, indeed, the statistical; departments engaged in university teaching, were performing their appropriate task, of clarifying and confirming, in the future research workers who come within their influence, an understanding of the art of examining observational data, the fallacious conclusions drawn, from a simple association, about the danger of cigarettes, could scarcely have been made the basis of a terrifying propaganda._
+
+> _For this reason I have thought that the fallacies must be attacked at both of two distinct levels; as an experimental scientist, and as a mathematical statistician._
+
+> Ronald A. Fisher, [_Alleged Dangers of Cigarette Smoking_](/docs/FisherOnSmokingAndCancer.pdf), British Medical Journal 1957.
+
