@@ -7,7 +7,7 @@ slug = "schedule"
 
 ## Projects
 
-**Tuesday, 22 January:** Project 1: Warm-up, predictions from data  
+**Tuesday, 22 January:** [Project 1: Housing Price Prediction](https://uvammm.github.io/project1/) - Warm-up, predictions from data  
 **Tuesday, 5 February:** Project 2: Housing market predictions  
 **Tuesday, 19 February:** Project 3: Stable matching  
 **Thursday, 7 March:** Project 4: Game theory auctions  
