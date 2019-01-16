@@ -20,7 +20,7 @@ until you understand them well.
 
 To do Project 1, you will need to install [Jupyter](https://jupyter.org/). Follow the directions at [https://jupyter.org/install.html](https://jupyter.org/install.html). (As in the directions there, we recommend using [Anaconda](https://www.anaconda.com/downloads), which will also install Python and many useful Python packages. The instructions in the project notebook assume you have installed Anaconda.
 
-Once you've installed Jupyter, download the Project 1 Notebook: [`project1.ipynb`](https://github.com/uvammm/uvammm.github.io/projects/project1.ipynb).
+Once you've installed Jupyter, download the Project 1 Notebook: [`project1.ipynb`](https://github.com/uvammm/uvammm.github.io/raw/master/projects/project1.ipynb)
 
 Then run,
 ````
