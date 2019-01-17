@@ -5,7 +5,7 @@ title = "Schedule"
 slug = "schedule"
 +++
 
-## Projects
+# Projects
 
 **Tuesday, 22 January:** [Project 1: Housing Price Prediction](https://uvammm.github.io/project1/) - Warm-up, predictions from data  
 **Tuesday, 5 February:** Project 2: Housing market predictions  
@@ -17,6 +17,11 @@ slug = "schedule"
 
 **Thursday, 11 April:** Final Project Proposal  
 **Tuesday, 30 April:** Final Project Report and Presentation
+
+# Classes
+
+15 January: [Class 1: Introduction](/class1)  
+17 January: [Class 2: Does Cancer Cause Smoking?](/class2)
 
 
 <!--
