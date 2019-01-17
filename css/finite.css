@@ -328,6 +328,11 @@ ul.taxonomy-terms {
  *  Blog Posts
  **************************************************/
 
+hr.post-separator {
+   border: 3px solid #083C1F;
+   border-radius: 5px;
+}
+
 .post-metadata {
     color: #606090;
     margin-bottom: 1rem;
