@@ -21,7 +21,7 @@ Office hours schedule:
 
 <center>
 <script async class="speakerdeck-embed" data-id="a7d81e090bd149dcb4a5a04795495d0e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>  
-[Download (full resolution) PDF](/docs/class2.pdf)
+[Download (full resolution) PDF](/docs/class2.pdf) 
 </center>
 
 # Links
