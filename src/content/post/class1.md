@@ -1,6 +1,6 @@
 +++
 date = "15 Jan 2019"
-draft = true
+draft = false
 title = "Class 1: Markets, Mechanisms and Machines"
 author = "Denis Nekipelov"
 slug = "class1"

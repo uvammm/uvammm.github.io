@@ -1,6 +1,6 @@
 +++
 date = "17 Jan 2019"
-draft = true
+draft = false
 title = "Class 2: Does Cancer Cause Smoking?"
 author = "David Evans"
 slug = "class2"
