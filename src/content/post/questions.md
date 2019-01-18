@@ -65,15 +65,12 @@ backgrounds in CS and Economics.
    <div class="question">
 What inspired you guys to teach this course? 
    </div>
-   <div class="answer">
-We'll talk about this the first day. (And maybe add a written answer here soon).
-   </div>
 
    <div class="question">
 What were your motivations for co-teaching a course like this?
    </div>
    <div class="answer">
-We'll talk about this the first day. (And maybe add a written answer here soon).
+See [Class 2](/class2).
    </div>
 
    <div class="question">
