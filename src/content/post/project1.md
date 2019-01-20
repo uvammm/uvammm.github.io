@@ -30,6 +30,18 @@ to get started. This will start the jupyter local server and open the notebook i
 
 The notebook contains the questions and starting code for Project
 1. You will do your assignment by editing this file, and will submit
-your completed jupyter notebook as your assignment. (We'll provide
-details on how to submit later.)
+your completed jupyter notebook as your assignment. 
 
+   <div class="yellownote"> 
+Submit your Project 1 notebook by <b>Tuesday, 22 January, 9:29am</b> by creating a slack group (click
+“Direct Messages”) containing you and your teammate and the four
+course staff: `@Dave` `@Denis Nekipelov` `@Joe Roessler` `@Jonas`. Submit your
+project to that group chat by attaching your jupyter notebook to a
+message (use the “+” at the left of the message entry field to attach
+a file).
+
+You should include a comment at the top of the notebook that contains:
+
+1. The names and UVA email ids of the people submitting (you and your teammate)
+2. A note on anyone else you collaborated with and how, and external resources you used. 
+   </div>
