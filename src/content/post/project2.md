@@ -1,5 +1,5 @@
 +++
-date = "24 Jan 2019"
+date = "23 Jan 2019"
 draft = false
 title = "Project 2: Causal Inference for Housing Prices"
 slug = "project2"
@@ -48,4 +48,4 @@ a file).</p>
 </div></li>
 </ol>
 
-      </div>
+</div>
