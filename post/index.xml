@@ -6,8 +6,148 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 4: Cost of Empirical Risk Minimization</title>
+      <link>https://uvammm.github.io/class4/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class4/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2&lt;/a&gt; is now posted. The team assignments will be sent out by tomorrow.&lt;/p&gt;
+
+&lt;p&gt;Office hours schedule:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mondays, 10-11am, 254 Monroe Hall (Denis)&lt;/li&gt;
+&lt;li&gt;Wednesdays, 5-6:30pm, Rice 442 (Jonas)&lt;/li&gt;
+&lt;li&gt;Thursdays, 11am-noon (after class), Rice 507 (Dave)&lt;/li&gt;
+&lt;li&gt;Fridays, 10:30am-noon, Monroe Basement (Joe)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;a7d81e090bd149dcb4a5a04795495d0e&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/wnv2n6ansiy1wvc/class4-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Causal Inference for Housing Prices</title>
+      <link>https://uvammm.github.io/project2/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project2/</guid>
+      <description>&lt;div class=&#34;due&#34;&gt;
+Project 2 is due &lt;b&gt;Tuesday, 5 February, 9:29am&lt;/b&gt;.
+   &lt;/div&gt;
+
+&lt;p&gt;For this project you will be assigned to teams of four (we will announce teams in slack). 
+All team members should fully understand
+everything you submit.  If there are parts you understand quickly but
+are new to your partners, it is your responsibility to explain them to
+your partners until everyone understands.  If there are parts that your
+partners understand quickly but that are new to you, it is your
+responsibility to insist that your partners explain things to you
+until you understand them well.&lt;/p&gt;
+
+&lt;p&gt;To do Project 2, we continue using Jupyter. Project 2 Notebook is available at: 
+&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb&#34;&gt;&lt;code&gt;project2.ipynb&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Then run,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;jupyter notebook project2.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;to get started. This will start the jupyter local server and open the notebook in your web browser.&lt;/p&gt;
+
+&lt;p&gt;The notebook contains the questions and starting code for Project
+1. You will do your assignment by editing this file, and will submit
+your completed jupyter notebook as your assignment.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
+Submit your Project 2 notebook by &lt;b&gt;Tuesday, 5 February, 9:29am&lt;/b&gt; by creating a slack group (click
+“Direct Messages”) containing you and your teammate and the four
+course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Joe Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. Submit your
+project to that group chat by attaching your jupyter notebook to a
+message (use the “+” at the left of the message entry field to attach
+a file).&lt;/p&gt;
+
+&lt;p&gt;You should include a comment at the top of the notebook that contains:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammates)&lt;/li&gt;
+&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code&gt;  &amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 3: Introduction to Stastical Learning Theory</title>
+      <link>https://uvammm.github.io/class3/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class3/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2&lt;/a&gt; is due before class (9:29am) on &lt;strong&gt;Tuesday, 5 February&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;https://uvammm.github.io/docs/class3.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;h3 id=&#34;security-vulnerabilities-as-externalities&#34;&gt;Security vulnerabilities as externalities&lt;/h3&gt;
+
+&lt;p&gt;Manos Antonakakis, Tim April, Michael Bailey, Matthew Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric,
+J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, Zane Ma, Joshua Mason,
+Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, and Yi Zhou. &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf&#34;&gt;&lt;em&gt;Understanding the Mirai Botnet&lt;/em&gt;&lt;/a&gt;. USENIX Security Symposium 2017.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;According to one common view, information security comes down to technical measures. Given better access control policy models, formal proofs of cryptographic protocols, approved firewalls, better ways of detecting intrusions and malicious code, and better tools for system evaluation and assurance, the problems can be solved.  In this note, I put forward a contrary view: information insecurity is at least as much due to perverse incentives. Many, if not most, of the problems can be explained more clearly and convincingly using the language of microeconomics: network externalities, asymmetric information, moral hazard, adverse selection, liability dumping and the tragedy of the commons.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ross Anderson, &lt;a href=&#34;https://uvammm.github.io/docs/why-infosec-hard.pdf&#34;&gt;&lt;em&gt;Why Information Security is Hard – An Economic Perspective&lt;/em&gt;&lt;/a&gt;. Annual Computer Security Applications Conference (ACSAC) 2001.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;smoking-and-cancer&#34;&gt;Smoking and Cancer&lt;/h3&gt;
+
+&lt;p&gt;Richard Doll and Bradford Hill. &lt;a href=&#34;https://uvammm.github.io/docs/doll-hill-1952.pdf&#34;&gt;&lt;em&gt;Smoking and Carcinoma of the Lung&lt;/em&gt;&lt;/a&gt;. British Medical Journal, September 1950. (This is the first paper on the hospital patients study that I mostly talked about in class, and the tables and figures in the slides were from this paper.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Scientists in many fields have felt the need for canons of valid inference, and these have been becoming available in what are, properly, experimental sciences, by the rapid development of interest and teaching in&lt;/em&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Design_of_Experiments&#34;&gt;&amp;ldquo;The Design of Experiments&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Unfortunately, it has become obvious that many teaching departments, with mathematical but without scientific qualifications, have plunged into the task of teaching this new discipline, in spite of harbouring gravely confused notions of the logic of scientific research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If, indeed, the statistical; departments engaged in university teaching, were performing their appropriate task, of clarifying and confirming, in the future research workers who come within their influence, an understanding of the art of examining observational data, the fallacious conclusions drawn, from a simple association, about the danger of cigarettes, could scarcely have been made the basis of a terrifying propaganda.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For this reason I have thought that the fallacies must be attacked at both of two distinct levels; as an experimental scientist, and as a mathematical statistician.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ronald A. Fisher, &lt;a href=&#34;https://uvammm.github.io/docs/FisherOnSmokingAndCancer.pdf&#34;&gt;&lt;em&gt;Alleged Dangers of Cigarette Smoking&lt;/em&gt;&lt;/a&gt;, British Medical Journal 1957.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://acsc.lib.udel.edu/exhibits/show/legislation/item/169&#34;&gt;&lt;em&gt;Tobacco - A Vital U.S. Industry&lt;/em&gt;&lt;/a&gt;, pamphlet from Tobacco Institute, featuring drawing by Peter Jefferson, arguing against tobacco regulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cbcrp.org/causes/index.php&#34;&gt;Model of causes of Breast Cancer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Scott Alexander, &lt;a href=&#34;https://slatestarcodex.com/2018/08/01/cancer-progress-much-more-than-you-wanted-to-know/&#34;&gt;&lt;em&gt;Cancer Progress: much more than you wanted to know&lt;/em&gt;&lt;/a&gt;, Slate Star Codex, August 2018.  A long, but very interesting and illuminating, post on whether or not we are &amp;ldquo;winning the war on cancer&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 2: Does Cancer Cause Smoking?</title>
