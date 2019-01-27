@@ -20,6 +20,6 @@ Office hours schedule:
 # Slides
 
 <center>
-<script async class="speakerdeck-embed" data-id="a7d81e090bd149dcb4a5a04795495d0e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="fab3352b3b51497ca0ed540cb7eff98a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script><br>
 [Download (full resolution) PDF](https://www.dropbox.com/s/wnv2n6ansiy1wvc/class4-inked.pdf?dl=0)
 </center>
