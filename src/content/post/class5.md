@@ -6,6 +6,10 @@ author = "Denis Nekipelov"
 slug = "class5"
 +++
 
+# Schedule
+
+[Project 2](/project2) is due before class (9:29am) on **Tuesday, 5 February**.
+
 # Slides
 
 <center>
