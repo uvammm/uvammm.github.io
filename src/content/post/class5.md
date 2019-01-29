@@ -11,3 +11,9 @@ slug = "class5"
 <center>
 [Download (full resolution) PDF](/docs/class5.pdf) 
 </center>
+
+# Links
+
+Katherine Kiel and Katherine McClain. [_House Prices during Siting Decision Stages: The Case of an Incinerator from Rumor through Operation_](/docs/incinerator.pdf). Journal of Environmental Economics and Management, 1995.
+
+Thomas Blake, Chris Nosko, and Steven Tadelis. [_Returns to Consumer Search: Evidence from eBay_](/docs/ebay-returns.pdf). ACM Conference on Economics and Computation, 2016.
