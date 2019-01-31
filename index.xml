@@ -116,21 +116,21 @@ Hunt Allcott, Luca Braghieri, Sarah Eichmeyer, and Matthew Gentzkow. &lt;a href=
 Project 2 is due &lt;b&gt;Tuesday, 5 February, 9:29am&lt;/b&gt;.
    &lt;/div&gt;
 
-&lt;p&gt;For this project you will be assigned to teams of four (we will announce teams in slack). 
-All team members should fully understand
+&lt;p&gt;For this project you will be assigned to teams of four (we will
+announce teams in slack).  All team members should fully understand
 everything you submit.  If there are parts you understand quickly but
 are new to your partners, it is your responsibility to explain them to
-your partners until everyone understands.  If there are parts that your
-partners understand quickly but that are new to you, it is your
+your partners until everyone understands.  If there are parts that
+your partners understand quickly but that are new to you, it is your
 responsibility to insist that your partners explain things to you
 until you understand them well.&lt;/p&gt;
 
-&lt;p&gt;To do Project 2, we continue using Jupyter. Project 2 Notebook is available at: 
-[&lt;code&gt;project2.ipynb&lt;/code&gt;](/content/projects/project2.ipynb) (&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb&#34;&gt;raw link &lt;code&gt;project2.ipynb&lt;/code&gt;&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;To do Project 2, we continue using Jupyter. Project 2 Notebook is available at:
+&lt;a href=&#34;https://uvammm.github.io/content/projects/project2.ipynb&#34;&gt;&lt;code&gt;project2.ipynb&lt;/code&gt;&lt;/a&gt; (&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb&#34;&gt;raw download link&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Then run,&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;jupyter notebook project2.ipynb
+&lt;pre&gt;&lt;code&gt;   jupyter notebook project2.ipynb
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;to get started. This will start the jupyter local server and open the notebook in your web browser.&lt;/p&gt;

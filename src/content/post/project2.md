@@ -9,28 +9,27 @@ slug = "project2"
 Project 2 is due <b>Tuesday, 5 February, 9:29am</b>.
    </div>
 
-<p>For this project you will be assigned to teams of four (we will announce teams in slack). 
-All team members should fully understand
+For this project you will be assigned to teams of four (we will
+announce teams in slack).  All team members should fully understand
 everything you submit.  If there are parts you understand quickly but
 are new to your partners, it is your responsibility to explain them to
-your partners until everyone understands.  If there are parts that your
-partners understand quickly but that are new to you, it is your
+your partners until everyone understands.  If there are parts that
+your partners understand quickly but that are new to you, it is your
 responsibility to insist that your partners explain things to you
-until you understand them well.</p>
+until you understand them well.
 
-<p>To do Project 2, we continue using Jupyter. Project 2 Notebook is available at: 
-[<code>project2.ipynb</code>](/content/projects/project2.ipynb) (<a href="https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb">raw link <code>project2.ipynb</code></a>)</p>
+To do Project 2, we continue using Jupyter. Project 2 Notebook is available at: 
+[`project2.ipynb`](/content/projects/project2.ipynb) (<a href="https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb">raw download link</a>).
 
-<p>Then run,</p>
+Then run, 
+```
+   jupyter notebook project2.ipynb
+```
+to get started. This will start the jupyter local server and open the notebook in your web browser.
 
-<pre><code>jupyter notebook project2.ipynb
-</code></pre>
-
-<p>to get started. This will start the jupyter local server and open the notebook in your web browser.</p>
-
-<p>The notebook contains the questions and starting code for Project
+The notebook contains the questions and starting code for Project
 1. You will do your assignment by editing this file, and will submit
-your completed jupyter notebook as your assignment.</p>
+your completed jupyter notebook as your assignment.
 
 <p><div class="yellownote">
 Submit your Project 2 notebook by <b>Tuesday, 5 February, 9:29am</b> by creating a slack group (click
