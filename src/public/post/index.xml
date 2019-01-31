@@ -6,8 +6,48 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 6: Finding False Findings</title>
+      <link>https://uvammm.github.io/class4/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class4/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2&lt;/a&gt; is now posted. The team assignments will be sent out by tomorrow.&lt;/p&gt;
+
+&lt;p&gt;Office hours schedule:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mondays, 10-11am, 254 Monroe Hall (Denis)&lt;/li&gt;
+&lt;li&gt;Wednesdays, 5-6:30pm, Rice 442 (Jonas)&lt;/li&gt;
+&lt;li&gt;Thursdays, 11am-noon (after class), Rice 507 (Dave)&lt;/li&gt;
+&lt;li&gt;Fridays, 10:30am-noon, Monroe Basement (Joe)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;fb409e923ab9406581fd3a12d3fbf980&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/r1fu9yc2vgxqzdm/class6-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/falsefindings.ipynb&#34;&gt;falsefindings.ipynb&lt;/a&gt; - Jupyter notebook on false findings&lt;/p&gt;
+
+&lt;p&gt;John Ioannidis. &lt;a href=&#34;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124&#34;&gt;&lt;em&gt;Why Most Published Research Findings Are False&lt;/em&gt;&lt;/a&gt;. PLOS Medicine, August 2005.&lt;/p&gt;
+
+&lt;p&gt;Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). &lt;a href=&#34;https://uvammm.github.io/docs/controlledExperimentDMKD.pdf&#34;&gt;&lt;em&gt;Controlled experiments on the web: survey and practical guide&lt;/em&gt;&lt;/a&gt;. Data Mining Knowledge and Discovery, 2009.&lt;/p&gt;
+
+&lt;p&gt;Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock. &lt;a href=&#34;https://uvammm.github.io/docs/fbcontagion.pdf&#34;&gt;&lt;em&gt;Experimental evidence of massive-scale emotional contagion through social networks&lt;/em&gt;&lt;/a&gt;. PNAS, June 2014. Commentary by John Grohol, &lt;a href=&#34;https://psychcentral.com/blog/emotional-contagion-on-facebook-more-like-bad-research-methods/&#34;&gt;&lt;em&gt;Emotional Contagion on Facebook? More Like Bad Research Methods&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 5: Causal Inference and Estimation of Treatment Efects</title>
