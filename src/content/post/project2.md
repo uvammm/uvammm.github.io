@@ -19,7 +19,7 @@ responsibility to insist that your partners explain things to you
 until you understand them well.
 
 To do Project 2, we continue using Jupyter. Project 2 Notebook is available at: 
-[`project2.ipynb`](/content/projects/project2.ipynb) (<a href="https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb">raw download link</a>).
+[`project2.ipynb`](https://github.com/uvammm/uvammm.github.io/blob/master/src/content/projects/project2.ipynb) (<a href="https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb">raw download link</a>).
 
 Then run, 
 ```
