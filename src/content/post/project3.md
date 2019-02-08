@@ -6,7 +6,7 @@ slug = "project3"
 +++
 
    <div class="due">
-Project 3 is due <b>Friday, 20 February, 3:59pm</b>.
+Project 3 is due <b>Friday, 22 February, 3:59pm</b>.
    </div>
 
 The Project 3 Notebook is available at: 
