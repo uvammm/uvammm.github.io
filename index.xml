@@ -6,8 +6,41 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project 3: Matchmaker, Matchmaker</title>
+      <link>https://uvammm.github.io/project3/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project3/</guid>
+      <description>&lt;div class=&#34;due&#34;&gt;
+Project 3 is due &lt;b&gt;Friday, 20 February, 3:59pm&lt;/b&gt;.
+   &lt;/div&gt;
+
+&lt;p&gt;The Project 3 Notebook is available at:
+&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/content/projects/project3.ipynb&#34;&gt;&lt;code&gt;project3.ipynb&lt;/code&gt;&lt;/a&gt; (&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3.ipynb&#34;&gt;raw download link&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt; Submit your Project 3 notebook by
+&lt;b&gt;Friday, 20 February, 3:59pm&lt;/b&gt; by creating a slack group (click
+“Direct Messages”) containing you and all of your teammatse and the
+four course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt;
+&lt;code&gt;@Joe Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. Submit your project to
+that group chat by attaching your jupyter notebook to a message (use
+the “+” at the left of the message entry field to attach a file).&lt;/p&gt;
+
+&lt;p&gt;You should include a comment at the top of the notebook that contains:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammates)&lt;/li&gt;
+&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 7: Stable Matchings</title>
@@ -52,6 +85,22 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;India&amp;rsquo;s &lt;a href=&#34;https://josaa.nic.in/webinfocms/Public/View.aspx?page=71&#34;&gt;Joint Entrance Examination&lt;/a&gt;, &lt;a href=&#34;https://www.collegepravesh.com/cutoff/iit-bombay-cutoff-2018/&#34;&gt;cut-off ranks for IIT Bombay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 8: Centralized Resource Allocation</title>
+      <link>https://uvammm.github.io/class8/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class8/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;https://uvammm.github.io/docs/class8.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -861,17 +910,6 @@ Center to discuss a range of options to removing barriers in this
 course, including official accommodations. Please visit their website
 for information on this process and to apply for services online:
 &lt;a href=&#34;sdac.studenthealth.virginia.edu&#34;&gt;sdac.studenthealth.virginia.edu&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://uvammm.github.io/welcome/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for the joint Computer Science/Economics
-course, &lt;em&gt;Markets, Mechanisms, and Machines&lt;/em&gt;. More information will be posted here as the semester approaches. For now, you can see the draft &lt;a href=&#34;https://uvammm.github.io/syllabus&#34;&gt;Course Syllabus&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
