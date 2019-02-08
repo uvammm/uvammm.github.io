@@ -8,7 +8,7 @@ slug = "schedule"
 # Projects
 
 **Tuesday, 22 January:** [Project 1: Housing Price Prediction](/project1) - Warm-up, predictions from data  
-**Tuesday, 5 February:** [Project 2: Housing market predictions](/project2)
+**Tuesday, 5 February:** [Project 2: Housing market predictions](/project2) - Causality  
 **Tuesday, 19 February:** Project 3: Stable matching  
 **Thursday, 7 March:** Project 4: Game theory auctions  
 **Thursday, 28 March:** Project 5  

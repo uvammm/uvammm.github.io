@@ -3,7 +3,7 @@ date = "31 Jan 2019"
 draft = false
 title = "Class 6: Finding False Findings"
 author = "David Evans"
-slug = "class4"
+slug = "class6"
 +++
 
 # Schedule
