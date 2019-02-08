@@ -18,14 +18,13 @@ The Project 3 Notebook is available at:
 four course staff: <code>@Dave</code> <code>@Denis Nekipelov</code>
 <code>@Joe Roessler</code> <code>@Jonas</code>. Submit your project to
 that group chat by attaching your jupyter notebook to a message (use
-the “+” at the left of the message entry field to attach a file).</p>
+the “+” at the left of the message entry field to attach a file).
+</div>
 
-<p>You should include a comment at the top of the notebook that contains:</p>
+You should include a comment at the top of the notebook that contains:
 
 <ol>
 <li>The names and UVA email ids of the people submitting (you and your teammates)</li>
 <li>A note on anyone else you collaborated with and how, and external resources you used.
-</div></li>
 </ol>
 
-</div>
