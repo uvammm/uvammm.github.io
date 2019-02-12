@@ -20,7 +20,7 @@ be set with a team that satisfies all the constraints now.
 
 # Links
 
-[linear-programming.ipynb](https://github.com/uvammm/uvammm.github.io/blob/master/src/code/linear-programming.ipynb) - Jupyter notebook with Linear Programming examples
+[linear-programming.ipynb](https://github.com/uvammm/uvammm.github.io/blob/master/src/code/linear-programming.ipynb) - Jupyter notebook with Linear Programming examples ([try on-line with Azure Notebooks](https://uvammm-evansde.notebooks.azure.com/j/notebooks/linear-programming.ipynb)
 
 [Zidane's Penalty](https://youtu.be/NHx8eLOfyOk?t=21) ([Lionel Messi does not limit himself to such a simple payoff matrix](https://www.youtube.com/watch?v=olL9NOcCOTk))
 
