@@ -6,8 +6,36 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 9: Linear Programming</title>
+      <link>https://uvammm.github.io/class9/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class9/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; is due on Friday, 22 February. Everyone should
+be set with a team that satisfies all the constraints now.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;2e520d5139f44a578927c81f31a54f98&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/ikt6q2e8ntczqa5/class9-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/linear-programming.ipynb&#34;&gt;linear-programming.ipynb&lt;/a&gt; - Jupyter notebook with Linear Programming examples&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/NHx8eLOfyOk?t=21&#34;&gt;Zidane&amp;rsquo;s Penalty&lt;/a&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=olL9NOcCOTk&#34;&gt;Lionel Messi does not limit himself to such a simple payoff matrix&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project 3: Matchmaker, Matchmaker</title>
@@ -16,14 +44,14 @@
       
       <guid>https://uvammm.github.io/project3/</guid>
       <description>&lt;div class=&#34;due&#34;&gt;
-Project 3 is due &lt;b&gt;Friday, 20 February, 3:59pm&lt;/b&gt;.
+Project 3 is due &lt;b&gt;Friday, 22 February, 3:59pm&lt;/b&gt;.
    &lt;/div&gt;
 
 &lt;p&gt;The Project 3 Notebook is available at:
 &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/content/projects/project3/project3.ipynb&#34;&gt;&lt;code&gt;project3.ipynb&lt;/code&gt;&lt;/a&gt; (&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;raw download link&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt; Submit your Project 3 notebook by
-&lt;b&gt;Friday, 20 February, 3:59pm&lt;/b&gt; by creating a slack group (click
+&lt;b&gt;Friday, 22 February, 3:59pm&lt;/b&gt; by creating a slack group (click
 “Direct Messages”) containing you and all of your teammatse and the
 four course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt;
 &lt;code&gt;@Joe Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. Submit your project to
