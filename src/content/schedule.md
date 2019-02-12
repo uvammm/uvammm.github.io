@@ -9,7 +9,7 @@ slug = "schedule"
 
 **Tuesday, 22 January:** [Project 1: Housing Price Prediction](/project1) - Warm-up, predictions from data  
 **Tuesday, 5 February:** [Project 2: Housing market predictions](/project2) - Causality  
-**Tuesday, 19 February:** Project 3: Stable matching  
+**Friday, 22 February (3:59pm):** [Project 3: Matchmaker, matchmaker](/project3) - Centralized resource allocation (Kidney Exchange)  
 **Thursday, 7 March:** Project 4: Game theory auctions  
 **Thursday, 28 March:** Project 5  
 
