@@ -6,8 +6,41 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 10: Introduction to Game Theory</title>
+      <link>https://uvammm.github.io/class10/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class10/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;https://uvammm.github.io/docs/class10.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;John F. Nash Jr. (1928-2015) received the Nobel Prize in 1994 for
+developing the theory of equilibria in games that was introduced in
+class today. The 2002 academy award best picture movie &lt;a href=&#34;https://www.imdb.com/title/tt0268978/&#34;&gt;&lt;em&gt;A Beautiful
+Mind&lt;/em&gt;&lt;/a&gt; featuring Russell Crowe
+as John Nash, based on the book by Sylvia Nasar, is an only somewhat
+fictionalized telling of his life story. His &lt;a href=&#34;https://www.nobelprize.org/prizes/economic-sciences/1994/nash/biographical/&#34;&gt;Nobel Prize
+autobiography&lt;/a&gt;
+concludes with:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Thus further time passed. Then gradually I began to intellectually reject some of the delusionally influenced lines of thinking which had been characteristic of my orientation. This began, most recognizably, with the rejection of politically-oriented thinking as essentially a hopeless waste of intellectual effort.&lt;/p&gt;
+
+&lt;p&gt;So at the present time I seem to be thinking rationally again in the style that is characteristic of scientists. However this is not entirely a matter of joy as if someone returned from physical disability to good physical health. One aspect of this is that rationality of thought imposes a limit on a person’s concept of his relation to the cosmos. For example, a non-Zoroastrian could think of Zarathustra as simply a madman who led millions of naive followers to adopt a cult of ritual fire worship. But without his “madness” Zarathustra would necessarily have been only another of the millions or billions of human individuals who have lived and then been forgotten.&lt;/p&gt;
+
+&lt;p&gt;Statistically, it would seem improbable that any mathematician or scientist, at the age of 66, would be able through continued research efforts, to add much to his or her previous achievements. However I am still making the effort and it is conceivable that with the gap period of about 25 years of partially deluded thinking providing a sort of vacation my situation may be atypical. Thus I have hopes of being able to achieve something of value through my current studies or with any new ideas that come in the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 9: Linear Programming</title>
@@ -600,146 +633,6 @@ learning new things and going beyond what is provided. Active
 participation in the class as well as contributing well to successful
 projects will be a sufficient condition for getting an A in the class.
    &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvammm.github.io/schedule/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/schedule/</guid>
-      <description>
-
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Tuesday, 22 January:&lt;/strong&gt; &lt;a href=&#34;https://uvammm.github.io/project1&#34;&gt;Project 1: Housing Price Prediction&lt;/a&gt; - Warm-up, predictions from data&lt;br /&gt;
-&lt;strong&gt;Tuesday, 5 February:&lt;/strong&gt; &lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2: Housing market predictions&lt;/a&gt; - Causality&lt;br /&gt;
-&lt;strong&gt;Friday, 22 February (3:59pm):&lt;/strong&gt; &lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3: Matchmaker, matchmaker&lt;/a&gt; - Centralized resource allocation (Kidney Exchange)&lt;br /&gt;
-&lt;strong&gt;Thursday, 7 March:&lt;/strong&gt; Project 4: Game theory auctions&lt;br /&gt;
-&lt;strong&gt;Thursday, 28 March:&lt;/strong&gt; Project 5&lt;/p&gt;
-
-&lt;h2 id=&#34;final-project&#34;&gt;Final Project&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursday, 11 April:&lt;/strong&gt; Final Project Proposal&lt;br /&gt;
-&lt;strong&gt;Tuesday, 30 April:&lt;/strong&gt; Final Project Report and Presentation&lt;/p&gt;
-
-&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
-
-&lt;p&gt;15 January: &lt;a href=&#34;https://uvammm.github.io/class1&#34;&gt;Class 1: Introduction&lt;/a&gt;&lt;br /&gt;
-17 January: &lt;a href=&#34;https://uvammm.github.io/class2&#34;&gt;Class 2: Does Cancer Cause Smoking?&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--
-## Preliminary Readings Schedule
-
-This is all tentative, and subject to change.
-
-&lt;b&gt;Week 1:&lt;/b&gt; Causal inference: concepts, models and tools
-&lt;blockquote&gt;
-Causal inference vs. prediction. Treatment effects. Treatment effects in
-heterogeneous population. Endogeneity and instrumental
-variables. Measuring consumer responses and ROI on advertising as
-treatment effect. Other notions of causality: Granger causality and
-Pearl&#39;s idea of causality.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Rubin, Donald B. &#34;Causal inference using potential outcomes:
-Design, modeling, decisions.&#34; Journal of the American Statistical
-Association 100.469 (2005): 322-331.&lt;br&gt;
-Blake, Thomas, Chris Nosko, and Steven Tadelis. &#34;Consumer heterogeneity
-and paid search effectiveness: A large-scale field experiment.&#34;
-Econometrica 83.1 (2015): 155-174.
-&lt;/blockquote&gt;
-&lt;p&gt;
-&lt;b&gt;Week 2:&lt;/b&gt; Machine learning and prediction
-&lt;blockquote&gt;
-The concept of the learning machine and the concept of risk
-minimization. Empirical risk minimization. Types of problems of
-Statistical learning theory: pattern recognition, regression and density
-estimation. Examples and properties of common algorithms for statistical
-learning. Click prediction algorithms, Google&#39;s DoubleClick and AdSense.
-&lt;P&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Vapnik, Vladimir. The nature of statistical learning
-theory. Springer science &amp; business media, 2013. (Chapter 1)
-&lt;/blockquote&gt;
-&lt;p&gt;
-&lt;b&gt;Weeks 3-4:&lt;/b&gt; Matching problems
-&lt;blockquote&gt;
-Introduction to graph theory. Directed and undirected graphs. Graph
-degree. Paths and cycles on graphs. Sorting and searching
-algorithms. Tree graphs. Matching on bipartite graphs. Common algorithms
-for matching on bipartite graphs.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Norman L. Biggs, &#34;Discrete Mathematics&#34;, Oxford University
-Press. (Chapters 15-17)
-&lt;/blockquote&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;b&gt;Weeks 5-6:&lt;/b&gt; Competitive advertising markets
-&lt;blockquote&gt;
-Introduction to game theory. Games of complete information. Notion of
-Nash equilibrium. Games of incomplete information. Notion of Bayes-Nash
-equilibrium. Discrete and continuous games. Auctions. Common types of
-auctions by design of allocation and payment rules. Multi-unit
-auctions. Auctions used for online advertising. Generalized second price
-auction and Vickrey-Clarke-Groves mechanism. Recent developments in
-online advertising auctions.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Gibbons, Robert. Game theory for applied economists. Princeton
-University Press, 1992. (Chapters 1 and 3)&lt;br&gt;
-M. Gentry, T. Hubbard, D. Nekipelov, H. Paarsch, &#34;Structural
-Econometrics of Auctions&#34;. MIT Press 
-&lt;/blockquote&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;b&gt;Week 7:&lt;/b&gt; From Game theory to Algorithmic Game Theory
-&lt;blockquote&gt;
-Approximating best responses and utility guarantees. Possibility (and
-impossibility) of implementation of Nash equilibria. Approximating Nash
-equilibria.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Jason Hartline, &#34;Mechanism Design and Approximation&#34;.
-http://jasonhartline.com/MDnA (Chapter 1)
-&lt;/blockquote&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;b&gt;Week 8:&lt;/b&gt; Introduction to Economics of Information 
-&lt;blockquote&gt;
-Informational content of Nash equilibria. Competition and user
-information. Information and user privacy. Resent evidence on behavioral
-response (and non-response) to changes in privacy.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Hal Varian, &#34;Economics of Information Technology&#34;
-http://people.ischool.berkeley.edu/~hal/Papers/mattioli/mattioli.html&lt;br&gt;
-Tucker, Catherine E. &#34;The economics of advertising and privacy&#34;. International journal of Industrial organization 30.3 (2012): 326-329. 
-&lt;/blockquote&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;b&gt;Week 9:&lt;/b&gt; Formal concepts of privacy
-&lt;blockquote&gt;
-Privacy and privacy threats. Risk of disclosure and a concept of
-adversarial attacks. K-anonymity and related concepts. Analyzing
-K-anonymous data. Differential privacy. Differential privacy and
-robustness. Differential privacy and Machine learning.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Lambert, Diane. &#34;Measures of disclosure risk and harm.&#34; Journal
-of Official Statistics 9.2 (1993): 313.&lt;Br&gt;
-Dwork, Cynthia. &#34;Differential privacy: A survey of results.&#34;
-International Conference on Theory and Applications of Models of
-Computation. Springer, Berlin, Heidelberg, 2008.
-&lt;/blockquote&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;b&gt;Week 10-11:&lt;/b&gt; Cryptography and data protection
-&lt;/p&gt;
-&lt;p&gt;
-&lt;b&gt;Week 12:&lt;/b&gt; Privacy-aware mechanism design
-&lt;blockquote&gt;
-Differential privacy as condition on strategic responses of
-agents. Differentially private prediction of user choices. Designing
-mechanisms with formal privacy guarantees.
-&lt;p&gt;
-&lt;b&gt;Reading:&lt;/b&gt; Nissim, Kobbi, Claudio Orlandi, and Rann
-Smorodinsky. &#34;Privacy-aware mechanism design.&#34; Proceedings of the 13th
-ACM Conference on Electronic Commerce. ACM, 2012.&lt;br&gt;
-Dwork, Cynthia, and Aaron Roth. &#34;The algorithmic foundations of
-differential privacy.&#34; (Chapter 10)
-&lt;/blockquote&gt;
---&gt;
 </description>
     </item>
     
