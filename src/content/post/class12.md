@@ -20,7 +20,7 @@ slug = "class12"
 # Links
 
 Benny Moldovanu and Manfred Tietzel. [_Goethe's Second-Price
-Auction_](/docs/goethe.pdf). Journel of Political Economy 1998.
+Auction_](/docs/goethe.pdf). Journal of Political Economy, 1998.
 
 The Ace-King-Queen Poker game is based on Bill Chen and Jerrod Ankenman's [_The Mathematics of Poker_](https://www.amazon.com/Mathematics-Poker-Bill-Chen/dp/1886070253), 2006.
 
