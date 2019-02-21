@@ -1,7 +1,7 @@
 +++
 date = "19 Feb 2019"
 draft = false
-title = "Class 19: Incomplete Information Games"
+title = "Class 11: Incomplete Information Games"
 author = "Denis Nekipelov"
 slug = "class11"
 +++
