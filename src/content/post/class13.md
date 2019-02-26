@@ -28,7 +28,7 @@ The [FCC Auctions Site](https://www.fcc.gov/auctions) has lots of information on
 
 There are lots of interesting articles on Spectrum Auctions. Some of the ones I found most interesting are:
 
-- Paul Milgrom. [_Putting Auction Theory to Work: The Simultaneous Ascending Auction_](docs/milgrom.pdf). Journal of Political Economy 2000.
-- Jeremy Fox and Patrick Bajari. [_Measuring the Efficiency of an FCC Spectrum Auction_](docs/fox-and-bajari.pdf). American Economic Journal: Microeconomics 2013.
-- Thomas Hazlett. [_The Wireless Craze, The Unlimited Bandwidth Myth, The Spectrum Auction Faux Pas, and the Punchline to Ronald Coase’s ‘Big Joke’: An Essay on Airwave Allocation Policy_](hazlett.pdf). Harvard Journal of Law and Technology, Spring 2001.
+- Paul Milgrom. [_Putting Auction Theory to Work: The Simultaneous Ascending Auction_](/docs/milgrom.pdf). Journal of Political Economy 2000.
+- Jeremy Fox and Patrick Bajari. [_Measuring the Efficiency of an FCC Spectrum Auction_](/docs/fox-and-bajari.pdf). American Economic Journal: Microeconomics 2013.
+- Thomas Hazlett. [_The Wireless Craze, The Unlimited Bandwidth Myth, The Spectrum Auction Faux Pas, and the Punchline to Ronald Coase’s ‘Big Joke’: An Essay on Airwave Allocation Policy_](/docs/hazlett.pdf). Harvard Journal of Law and Technology, Spring 2001.
 
