@@ -6,8 +6,47 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 13: Auctioning Air</title>
+      <link>https://uvammm.github.io/class13/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class13/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be posted soon.  Please form your team for Project 4 following these rules:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Three or four students.&lt;/li&gt;
+&lt;li&gt;At least one team member majoring in CS, one majoring in Economics.&lt;/li&gt;
+&lt;li&gt;Cannot have any team members who have worked together on &lt;em&gt;two&lt;/em&gt; previous projects (but okay to work with someone you have worked with once before).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;9714b511c990451b9be3d0d4617df230&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/4p0s4jonxdki0r5/class13-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt; (sorry, ink was lost)
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.fcc.gov/auctions&#34;&gt;FCC Auctions Site&lt;/a&gt; has lots of information on the FCC spectrum auctions. The one we looked at in class was the &lt;a href=&#34;https://www.fcc.gov/auction/5&#34;&gt;1995 C Block Auction&lt;/a&gt;. You can see the &lt;a href=&#34;https://www.fcc.gov/sites/default/files/wireless/auctions/05/charts/5_cht1.gif&#34;&gt;activity and revenue graph&lt;/a&gt; and the &lt;a href=&#34;https://www.fcc.gov/sites/default/files/wireless/auctions/05/charts/5markets.xls&#34;&gt;final results (Excel file)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are lots of interesting articles on Spectrum Auctions. Some of the ones I found most interesting are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paul Milgrom. &lt;a href=&#34;docs/milgrom.pdf&#34;&gt;&lt;em&gt;Putting Auction Theory to Work: The Simultaneous Ascending Auction&lt;/em&gt;&lt;/a&gt;. Journal of Political Economy 2000.&lt;/li&gt;
+&lt;li&gt;Jeremy Fox and Patrick Bajari. &lt;a href=&#34;docs/fox-and-bajari.pdf&#34;&gt;&lt;em&gt;Measuring the Efficiency of an FCC Spectrum Auction&lt;/em&gt;&lt;/a&gt;. American Economic Journal: Microeconomics 2013.&lt;/li&gt;
+&lt;li&gt;Thomas Hazlett. &lt;a href=&#34;hazlett.pdf&#34;&gt;&lt;em&gt;The Wireless Craze, The Unlimited Bandwidth Myth, The Spectrum Auction Faux Pas, and the Punchline to Ronald Coase’s ‘Big Joke’: An Essay on Airwave Allocation Policy&lt;/em&gt;&lt;/a&gt;. Harvard Journal of Law and Technology, Spring 2001.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 12: Imperfect Information Games</title>
@@ -459,58 +498,6 @@ Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, and Yi Zhou. &lt;a hre
 &lt;p&gt;&lt;center&gt;
 &lt;a href=&#34;https://uvammm.github.io/docs/class1.pdf&#34;&gt;Download PDF&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 1: Housing Price Prediction</title>
-      <link>https://uvammm.github.io/project1/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project1/</guid>
-      <description>&lt;div class=&#34;due&#34;&gt;
-Project 1 is due &lt;b&gt;Tuesday, 22 January, 9:29am&lt;/b&gt;.
-   &lt;/div&gt;
-
-&lt;p&gt;You and your assigned partner (see the message in slack) should work
-together on this assignment. Both team members should fully understand
-everything you submit.  If there are parts you understand quickly but
-are new to your partner, it is your responsibility to explain them to
-your partner until everyone understands.  If there are parts that your
-partner understands quickly but that are new to you, it is your
-responsibility to insist that your partner explains things to you
-until you understand them well.&lt;/p&gt;
-
-&lt;p&gt;To do Project 1, you will need to install &lt;a href=&#34;https://jupyter.org/&#34;&gt;Jupyter&lt;/a&gt;. Follow the directions at &lt;a href=&#34;https://jupyter.org/install.html&#34;&gt;https://jupyter.org/install.html&lt;/a&gt;. (As in the directions there, we recommend using &lt;a href=&#34;https://www.anaconda.com/downloads&#34;&gt;Anaconda&lt;/a&gt;, which will also install Python and many useful Python packages. The instructions in the project notebook assume you have installed Anaconda.&lt;/p&gt;
-
-&lt;p&gt;Once you&amp;rsquo;ve installed Jupyter, download the Project 1 Notebook: &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project1.ipynb&#34;&gt;&lt;code&gt;project1.ipynb&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Then run,&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jupyter notebook project1.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;to get started. This will start the jupyter local server and open the notebook in your web browser.&lt;/p&gt;
-
-&lt;p&gt;The notebook contains the questions and starting code for Project
-1. You will do your assignment by editing this file, and will submit
-your completed jupyter notebook as your assignment.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
-Submit your Project 1 notebook by &lt;b&gt;Tuesday, 22 January, 9:29am&lt;/b&gt; by creating a slack group (click
-“Direct Messages”) containing you and your teammate and the four
-course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Joe Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. Submit your
-project to that group chat by attaching your jupyter notebook to a
-message (use the “+” at the left of the message entry field to attach
-a file).&lt;/p&gt;
-
-&lt;p&gt;You should include a comment at the top of the notebook that contains:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammate)&lt;/li&gt;
-&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
