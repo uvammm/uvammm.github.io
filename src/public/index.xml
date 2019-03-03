@@ -6,8 +6,29 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project 4: On-Line Auction Overture</title>
+      <link>https://uvammm.github.io/project4/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project4/</guid>
+      <description>&lt;div class=&#34;due&#34;&gt;
+There are _four deliverable dates_ for Project 4 (see details in the notebook):
+
+- **Tuesday, 5 March, 8:59pm**: team formation and id request
+- **Thursday, 21 March**: in-class trial auction
+- **Thursday, 28 March**: in-class final auction
+- **Friday, 29 March, 3:59pm**: project submission
+    
+   &lt;/div&gt;
+
+&lt;p&gt;The Project 4 Notebook is available at:
+&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/content/projects/project4/project4.ipynb&#34;&gt;&lt;code&gt;project4.ipynb&lt;/code&gt;&lt;/a&gt; (&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project4/project4.ipynb&#34;&gt;raw download link&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 13: Auctioning Air</title>
@@ -473,31 +494,6 @@ Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, and Yi Zhou. &lt;a hre
 &lt;p&gt;&lt;a href=&#34;http://www.cbcrp.org/causes/index.php&#34;&gt;Model of causes of Breast Cancer&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Scott Alexander, &lt;a href=&#34;https://slatestarcodex.com/2018/08/01/cancer-progress-much-more-than-you-wanted-to-know/&#34;&gt;&lt;em&gt;Cancer Progress: much more than you wanted to know&lt;/em&gt;&lt;/a&gt;, Slate Star Codex, August 2018.  A long, but very interesting and illuminating, post on whether or not we are &amp;ldquo;winning the war on cancer&amp;rdquo;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 1: Markets, Mechanisms and Machines</title>
-      <link>https://uvammm.github.io/class1/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class1/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;Everyone wanting to be in the class should:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Submit the &lt;a href=&#34;https://goo.gl/forms/zH1S1eanXNie3bsB2&#34;&gt;MMM Pre-Semester Survey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Join the &lt;a href=&#34;https://uvammm.slack.com/signup&#34;&gt;Course Slack&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class1.pdf&#34;&gt;Download PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
