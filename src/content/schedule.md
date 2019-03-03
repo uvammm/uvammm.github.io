@@ -21,6 +21,17 @@ slug = "schedule"
 
 15 January: [Class 1: Introduction](/class1)  
 17 January: [Class 2: Does Cancer Cause Smoking?](/class2)
+22 January: [Class 3: Statistical Learning Theory](/class3)  
+24 January: [Class 4: Empirical Risk Minimization](/class4)  
+29 January: [Class 5: Causal Inference](/class5)  
+31 January: [Class 6: Finding False Findings (Experiments)](/class6)  
+05 February: [Class 7: Stable Matchings](/class7)  
+07 February: [Class 8: Centralized Resource Allocation](/class8)  
+12 February: [Class 9: Linear Programming](/class9)  
+14 February: [Class 10: Introduction to Game Theory](/class10)  
+19 February: [Class 11: Incomplete Infomration Games](/class11)  
+21 February: [Class 12: Imperfect Information Games](/class12)  
+26 February: [Class 13: Auctioning Air](/class13)  
 
 
 <!--
