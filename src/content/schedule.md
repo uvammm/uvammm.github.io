@@ -32,6 +32,7 @@ slug = "schedule"
 19 February: [Class 11: Incomplete Infomration Games](/class11)  
 21 February: [Class 12: Imperfect Information Games](/class12)  
 26 February: [Class 13: Auctioning Air](/class13)  
+28 February: [Class 14: Auction Theory](/class14)  
 
 
 <!--

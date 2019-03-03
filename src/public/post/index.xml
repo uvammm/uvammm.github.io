@@ -33,6 +33,20 @@ There are &lt;em&gt;four deliverable dates&lt;/em&gt; for Project 4 (see noteboo
     </item>
     
     <item>
+      <title>Class 14: Auction Theory</title>
+      <link>https://uvammm.github.io/class14/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class14/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class14.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Class 13: Auctioning Air</title>
       <link>https://uvammm.github.io/class13/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
@@ -430,72 +444,6 @@ a file).&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;a href=&#34;https://uvammm.github.io/docs/class3.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 2: Does Cancer Cause Smoking?</title>
-      <link>https://uvammm.github.io/class2/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class2/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project1&#34;&gt;Project 1&lt;/a&gt; is due before class (9:29am) on &lt;strong&gt;Tuesday, 22 January&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Office hours schedule:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mondays, 10-11am, 254 Monroe Hall (Denis)&lt;/li&gt;
-&lt;li&gt;Wednesdays, 5-6:30pm, Rice 442 (Jonas)&lt;/li&gt;
-&lt;li&gt;Thursdays, 11am-noon (after class), Rice 507 (Dave)&lt;/li&gt;
-&lt;li&gt;Fridays, 10:30am-noon, Monroe Basement (Joe)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;a7d81e090bd149dcb4a5a04795495d0e&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class2.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;h3 id=&#34;security-vulnerabilities-as-externalities&#34;&gt;Security vulnerabilities as externalities&lt;/h3&gt;
-
-&lt;p&gt;Manos Antonakakis, Tim April, Michael Bailey, Matthew Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric,
-J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, Zane Ma, Joshua Mason,
-Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, and Yi Zhou. &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf&#34;&gt;&lt;em&gt;Understanding the Mirai Botnet&lt;/em&gt;&lt;/a&gt;. USENIX Security Symposium 2017.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;According to one common view, information security comes down to technical measures. Given better access control policy models, formal proofs of cryptographic protocols, approved firewalls, better ways of detecting intrusions and malicious code, and better tools for system evaluation and assurance, the problems can be solved.  In this note, I put forward a contrary view: information insecurity is at least as much due to perverse incentives. Many, if not most, of the problems can be explained more clearly and convincingly using the language of microeconomics: network externalities, asymmetric information, moral hazard, adverse selection, liability dumping and the tragedy of the commons.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Ross Anderson, &lt;a href=&#34;https://uvammm.github.io/docs/why-infosec-hard.pdf&#34;&gt;&lt;em&gt;Why Information Security is Hard – An Economic Perspective&lt;/em&gt;&lt;/a&gt;. Annual Computer Security Applications Conference (ACSAC) 2001.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;smoking-and-cancer&#34;&gt;Smoking and Cancer&lt;/h3&gt;
-
-&lt;p&gt;Richard Doll and Bradford Hill. &lt;a href=&#34;https://uvammm.github.io/docs/doll-hill-1952.pdf&#34;&gt;&lt;em&gt;Smoking and Carcinoma of the Lung&lt;/em&gt;&lt;/a&gt;. British Medical Journal, September 1950. (This is the first paper on the hospital patients study that I mostly talked about in class, and the tables and figures in the slides were from this paper.)&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Scientists in many fields have felt the need for canons of valid inference, and these have been becoming available in what are, properly, experimental sciences, by the rapid development of interest and teaching in&lt;/em&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Design_of_Experiments&#34;&gt;&amp;ldquo;The Design of Experiments&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Unfortunately, it has become obvious that many teaching departments, with mathematical but without scientific qualifications, have plunged into the task of teaching this new discipline, in spite of harbouring gravely confused notions of the logic of scientific research.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;If, indeed, the statistical; departments engaged in university teaching, were performing their appropriate task, of clarifying and confirming, in the future research workers who come within their influence, an understanding of the art of examining observational data, the fallacious conclusions drawn, from a simple association, about the danger of cigarettes, could scarcely have been made the basis of a terrifying propaganda.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;For this reason I have thought that the fallacies must be attacked at both of two distinct levels; as an experimental scientist, and as a mathematical statistician.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Ronald A. Fisher, &lt;a href=&#34;https://uvammm.github.io/docs/FisherOnSmokingAndCancer.pdf&#34;&gt;&lt;em&gt;Alleged Dangers of Cigarette Smoking&lt;/em&gt;&lt;/a&gt;, British Medical Journal 1957.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://acsc.lib.udel.edu/exhibits/show/legislation/item/169&#34;&gt;&lt;em&gt;Tobacco - A Vital U.S. Industry&lt;/em&gt;&lt;/a&gt;, pamphlet from Tobacco Institute, featuring drawing by Peter Jefferson, arguing against tobacco regulation.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.cbcrp.org/causes/index.php&#34;&gt;Model of causes of Breast Cancer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Scott Alexander, &lt;a href=&#34;https://slatestarcodex.com/2018/08/01/cancer-progress-much-more-than-you-wanted-to-know/&#34;&gt;&lt;em&gt;Cancer Progress: much more than you wanted to know&lt;/em&gt;&lt;/a&gt;, Slate Star Codex, August 2018.  A long, but very interesting and illuminating, post on whether or not we are &amp;ldquo;winning the war on cancer&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
