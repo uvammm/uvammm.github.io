@@ -6,8 +6,52 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 16: Auctions with Integrity</title>
+      <link>https://uvammm.github.io/class16/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class16/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;The trial auction for &lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be Thursday, 21 March.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;465f75684e3044c09607c98b806c9e99&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/m19rvn24rgfk91q/class16-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvammm.github.io/docs/class15.pdf&#34;&gt;Denis&amp;rsquo; slide continue from Class 15&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Martin Shubik. &lt;a href=&#34;https://uvammm.github.io/docs/dollarauction.pdf&#34;&gt;&lt;em&gt;The Dollar Auction game: a paradox in noncooperative
+behavior and escalation&lt;/em&gt;&lt;/a&gt;. The Journal of
+Conflict Resolution. March 1971.&lt;/p&gt;
+
+&lt;p&gt;Sebastian Angel and Michael Walfish. &lt;a href=&#34;https://uvammm.github.io/docs/verifiableauctions.pdf&#34;&gt;&lt;em&gt;Verifiable Auctions for Online Ad Exchanges&lt;/em&gt;&lt;/a&gt;. SIGCOMM 2013.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 15: Online Advertising</title>
+      <link>https://uvammm.github.io/class15/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class15/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class15.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project 4: On-Line Auction Overture</title>
@@ -370,79 +414,6 @@ the “+” at the left of the message entry field to attach a file).
 &lt;p&gt;&lt;center&gt;
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;fab3352b3b51497ca0ed540cb7eff98a&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/wnv2n6ansiy1wvc/class4-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 2: Causal Inference for Housing Prices</title>
-      <link>https://uvammm.github.io/project2/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project2/</guid>
-      <description>&lt;div class=&#34;due&#34;&gt;
-Project 2 is due &lt;b&gt;Tuesday, 5 February, 9:29am&lt;/b&gt;.
-   &lt;/div&gt;
-
-&lt;p&gt;For this project you will be assigned to teams of four (we will
-announce teams in slack).  All team members should fully understand
-everything you submit.  If there are parts you understand quickly but
-are new to your partners, it is your responsibility to explain them to
-your partners until everyone understands.  If there are parts that
-your partners understand quickly but that are new to you, it is your
-responsibility to insist that your partners explain things to you
-until you understand them well.&lt;/p&gt;
-
-&lt;p&gt;To do Project 2, we continue using Jupyter. Project 2 Notebook is available at:
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/content/projects/project2.ipynb&#34;&gt;&lt;code&gt;project2.ipynb&lt;/code&gt;&lt;/a&gt; (&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2.ipynb&#34;&gt;raw download link&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Then run,&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;   jupyter notebook project2.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;to get started. This will start the jupyter local server and open the notebook in your web browser.&lt;/p&gt;
-
-&lt;p&gt;The notebook contains the questions and starting code for Project
-1. You will do your assignment by editing this file, and will submit
-your completed jupyter notebook as your assignment.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
-Submit your Project 2 notebook by &lt;b&gt;Tuesday, 5 February, 9:29am&lt;/b&gt; by creating a slack group (click
-“Direct Messages”) containing you and your teammate and the four
-course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Joe Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. Submit your
-project to that group chat by attaching your jupyter notebook to a
-message (use the “+” at the left of the message entry field to attach
-a file).&lt;/p&gt;
-
-&lt;p&gt;You should include a comment at the top of the notebook that contains:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammates)&lt;/li&gt;
-&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 3: Introduction to Stastical Learning Theory</title>
-      <link>https://uvammm.github.io/class3/</link>
-      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class3/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2&lt;/a&gt; is due before class (9:29am) on &lt;strong&gt;Tuesday, 5 February&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class3.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
