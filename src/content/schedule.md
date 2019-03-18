@@ -33,7 +33,8 @@ slug = "schedule"
 21 February: [Class 12: Imperfect Information Games](/class12)  
 26 February: [Class 13: Auctioning Air](/class13)  
 28 February: [Class 14: Auction Theory](/class14)  
-
+04 March: [Class 15: Online Advertising](/class15)  
+06 March: [Class 16: Auctions with Integrity](/class16)
 
 <!--
 ## Preliminary Readings Schedule
