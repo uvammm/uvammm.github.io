@@ -6,8 +6,36 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 17: Algorithmic Mechanism Design</title>
+      <link>https://uvammm.github.io/class17/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class17/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;The trial auction for &lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be Thursday, 21
+March. Your team should be ready at the beginning of class Thursday
+with your client code ready to run on a laptop to start the trial
+auction.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;3247318e9fb34d08a50bc2db4dd85457&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/gbe8sqb4uy0ls4c/class17-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Noam Nisan, &lt;a href=&#34;https://uvammm.github.io/docs/amd-mua.pdf&#34;&gt;&lt;em&gt;Algorithmic Mechanism Design: Through the lens of Multi-unit auctions&lt;/em&gt;&lt;/a&gt;, 2014.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 16: Auctions with Integrity</title>
@@ -385,36 +413,6 @@ the “+” at the left of the message entry field to attach a file).
 &lt;p&gt;Katherine Kiel and Katherine McClain. &lt;a href=&#34;https://uvammm.github.io/docs/incinerator.pdf&#34;&gt;&lt;em&gt;House Prices during Siting Decision Stages: The Case of an Incinerator from Rumor through Operation&lt;/em&gt;&lt;/a&gt;. Journal of Environmental Economics and Management, 1995.&lt;/p&gt;
 
 &lt;p&gt;Thomas Blake, Chris Nosko, and Steven Tadelis. &lt;a href=&#34;https://uvammm.github.io/docs/ebay-returns.pdf&#34;&gt;&lt;em&gt;Returns to Consumer Search: Evidence from eBay&lt;/em&gt;&lt;/a&gt;. ACM Conference on Economics and Computation, 2016.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 4: Cost of Empirical Risk Minimization</title>
-      <link>https://uvammm.github.io/class4/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class4/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2&lt;/a&gt; is now posted. The team assignments will be sent out by tomorrow.&lt;/p&gt;
-
-&lt;p&gt;Office hours schedule:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mondays, 10-11am, 254 Monroe Hall (Denis)&lt;/li&gt;
-&lt;li&gt;Wednesdays, 5-6:30pm, Rice 442 (Jonas)&lt;/li&gt;
-&lt;li&gt;Thursdays, 11am-noon (after class), Rice 507 (Dave)&lt;/li&gt;
-&lt;li&gt;Fridays, 10:30am-noon, Monroe Basement (Joe)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;fab3352b3b51497ca0ed540cb7eff98a&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/wnv2n6ansiy1wvc/class4-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
