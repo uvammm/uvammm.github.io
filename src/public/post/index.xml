@@ -38,6 +38,39 @@ auction.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Class 18: Hardness of Auctions</title>
+      <link>https://uvammm.github.io/class18/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class18/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;The final auction for &lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be Thursday, 28
+March, and final reports are due on Friday, 29 March.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;7126e004a55e4fba8de445b837ee2dc7&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/d1r64s0t3ibl7sw/class18-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;trial-auction-results&#34;&gt;Trial Auction Results&lt;/h1&gt;
+
+&lt;p&gt;Congratulations to team 4 - TJ Sample, Connor Atkins, and Andrew
+Vaaler - for winning the trial auction! The prize is a $1000 bonus for
+the final auction. All other team budgets are reset for the final
+auction.&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Noam Nisan, &lt;a href=&#34;https://uvammm.github.io/docs/amd-mua.pdf&#34;&gt;&lt;em&gt;Algorithmic Mechanism Design: Through the lens of Multi-unit auctions&lt;/em&gt;&lt;/a&gt;, 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Class 16: Auctions with Integrity</title>
       <link>https://uvammm.github.io/class16/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
@@ -387,32 +420,6 @@ the “+” at the left of the message entry field to attach a file).
 &lt;blockquote&gt;
 &lt;p&gt;Hunt Allcott, Luca Braghieri, Sarah Eichmeyer, and Matthew Gentzkow. &lt;a href=&#34;http://web.stanford.edu/~gentzkow/research/facebook.pdf&#34;&gt;&lt;em&gt;The Welfare Effects of Social Media&lt;/em&gt;&lt;/a&gt;, 27 Jan 2019. This study had a smaller &lt;em&gt;N&lt;/em&gt; (2,844) (and was approved by the Stanford and NYU IRBs), but measured a much larger effect: &amp;ldquo;we show that Facebook deactivation (i) reduced online activity, including other social media, while increasing offline activities such as watching TV alone and socializing with family and friends; (ii) reduced both factual news knowledge and political polarization; (iii) increased subjective well-being; and (iv) caused a large persistent reduction in Facebook use after the experiment.&amp;rdquo;.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 5: Causal Inference and Estimation of Treatment Efects</title>
-      <link>https://uvammm.github.io/class5/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class5/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2&lt;/a&gt; is due before class (9:29am) on &lt;strong&gt;Tuesday, 5 February&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class5.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;Katherine Kiel and Katherine McClain. &lt;a href=&#34;https://uvammm.github.io/docs/incinerator.pdf&#34;&gt;&lt;em&gt;House Prices during Siting Decision Stages: The Case of an Incinerator from Rumor through Operation&lt;/em&gt;&lt;/a&gt;. Journal of Environmental Economics and Management, 1995.&lt;/p&gt;
-
-&lt;p&gt;Thomas Blake, Chris Nosko, and Steven Tadelis. &lt;a href=&#34;https://uvammm.github.io/docs/ebay-returns.pdf&#34;&gt;&lt;em&gt;Returns to Consumer Search: Evidence from eBay&lt;/em&gt;&lt;/a&gt;. ACM Conference on Economics and Computation, 2016.&lt;/p&gt;
 </description>
     </item>
     
