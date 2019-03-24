@@ -22,7 +22,7 @@ week of 15 April: Project Team Meetings
 # Classes
 
 15 January: [Class 1: Introduction](/class1)  
-17 January: [Class 2: Does Cancer Cause Smoking?](/class2)
+17 January: [Class 2: Does Cancer Cause Smoking?](/class2)  
 22 January: [Class 3: Statistical Learning Theory](/class3)  
 24 January: [Class 4: Empirical Risk Minimization](/class4)  
 29 January: [Class 5: Causal Inference](/class5)  
@@ -36,7 +36,9 @@ week of 15 April: Project Team Meetings
 26 February: [Class 13: Auctioning Air](/class13)  
 28 February: [Class 14: Auction Theory](/class14)  
 04 March: [Class 15: Online Advertising](/class15)  
-06 March: [Class 16: Auctions with Integrity](/class16)
+06 March: [Class 16: Auctions with Integrity](/class16)  
+19 March: [Class 17: Algorithmic Mechanism Design](/class17)  
+21 March: [Class 18: Hardness of Auctions](/class18)  
 
 <!--
 ## Preliminary Readings Schedule
