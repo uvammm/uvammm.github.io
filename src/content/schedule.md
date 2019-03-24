@@ -14,8 +14,10 @@ slug = "schedule"
 
 ## Final Project
 
-**Thursday, 11 April:** Final Project Proposal  
-**Tuesday, 30 April:** Final Project Report and Presentation
+**Thursday, 11 April:** Final Project Proposal (8:59pm)  
+week of 15 April: Project Team Meetings  
+**Tuesday, 30 April:** Final Project Presentation (in class)  
+**Monday, 6 May:** Final Project Reports Due (4:59pm)
 
 # Classes
 
