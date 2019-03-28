@@ -6,8 +6,99 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Final Auction Results</title>
+      <link>https://uvammm.github.io/finalauction/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/finalauction/</guid>
+      <description>&lt;p&gt;Here are the final auction results:&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-w8l0{font-weight:bold;background-color:#fffc9e;text-align:center;vertical-align:top}
+.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&#34;tg&#34;&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Team&lt;/th&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Clicks&lt;/th&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Bids Submitted&lt;/th&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Budget Unspent&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4507&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;53&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;3274&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$0.42&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4501&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;48&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;3380&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.68&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4509&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;45&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;3094&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$222.04&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4504&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;41&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;3362&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.06&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4506&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;37&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;1986&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$0.94&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4502&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;37&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;3487&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.63&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4505&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;26&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;631&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$2,965.38&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4503&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;22&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;1658&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.40&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4510&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;21&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;3450&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$0.12&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4508&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;13&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;694&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$2.82&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Team 7: Cyrus Morshedi, Ian Hardman, Ryan Dailey, and Hunter Rockley!&lt;/p&gt;
+
+&lt;p&gt;(We will post some more stats and results from the auction soon.)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 19: Mechanism Design</title>
@@ -421,22 +512,6 @@ four course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&l
 that group chat by attaching your jupyter notebook to a message (use
 the “+” at the left of the message entry field to attach a file).
 &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 8: Centralized Resource Allocation</title>
-      <link>https://uvammm.github.io/class8/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class8/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class8.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
