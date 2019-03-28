@@ -88,7 +88,7 @@ Here are the final auction results:
 Congratulations to Team 7: Cyrus Morshedi, Ian Hardman, Ryan Dailey, and Hunter Rockley!
 
 <center>
-<A href="/images/avg_winning_bids_final.png"><img src="/images/avg_winning_bids_final.png" width="60%" border="0"></a><Br>
-<A href="/images/cumulative_clicks.png"><img src="/images/cumulative_clicks.png" width="60%" border="0"></a><Br>
-<A href="/images/cumulative_spending.png"><img src="/images/cumulative_spending.png" width="60%" border="0"></a><Br>
+<A href="/images/avg_winning_bids_final.png"><img src="/images/avg_winning_bids_final.png" width="80%" border="0"></a><Br>
+<A href="/images/cumulative_clicks.png"><img src="/images/cumulative_clicks.png" width="80%" border="0"></a><Br>
+<A href="/images/cumulative_spending.png"><img src="/images/cumulative_spending.png" width="80%" border="0"></a><Br>
 </center>
