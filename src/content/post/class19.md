@@ -2,8 +2,8 @@
 date = "26 Mar 2019"
 draft = false
 title = "Class 19: Mechanism Design"
-author = "David Evans"
-slug = "class18"
+author = "Denis Nekipelov"
+slug = "class19"
 +++
 
 # Slides
