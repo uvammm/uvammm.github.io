@@ -6,8 +6,22 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 19: Mechanism Design</title>
+      <link>https://uvammm.github.io/class18/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class18/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class19.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt; (slides continue through Class 20).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Trial Auction Results</title>
@@ -423,52 +437,6 @@ the “+” at the left of the message entry field to attach a file).
 &lt;p&gt;&lt;center&gt;
 &lt;a href=&#34;https://uvammm.github.io/docs/class8.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 7: Stable Matchings</title>
-      <link>https://uvammm.github.io/class7/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class7/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; will be posted soon, and due on Thursday, 19 February.&lt;/p&gt;
-
-&lt;p&gt;Office hours schedule:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mondays, 10-11am, 254 Monroe Hall (Denis)&lt;/li&gt;
-&lt;li&gt;Wednesdays, 5-6:30pm, Rice 442 (Jonas)&lt;/li&gt;
-&lt;li&gt;Thursdays, 11am-noon (after class), Rice 507 (Dave)&lt;/li&gt;
-&lt;li&gt;Fridays, 10:30am-noon, Monroe Basement (Joe)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;9d4d61e825804d67a45857acc25c5cf4&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/xwm5q328ptkoyn7/class7-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/stablematching.ipynb&#34;&gt;stablematching.ipynb&lt;/a&gt; - Jupyter notebook with code for Gale-Shapley algorithm&lt;/p&gt;
-
-&lt;p&gt;D. Gale and L. S. Shapley, &lt;a href=&#34;https://uvammm.github.io/docs/gale-shapley.pdf&#34;&gt;&lt;em&gt;College Admissions and the Stability of Marriage&lt;/em&gt;&lt;/a&gt;. The American Mathematical Monthly. Jan 1962. (&lt;a href=&#34;https://youtu.be/l_FWKLpoGBc&#34;&gt;Superbowl commercial about optimality proof&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Alvin Roth and Elliott Peranson, &lt;a href=&#34;https://uvammm.github.io/docs/roth-peranson.pdf&#34;&gt;&lt;em&gt;The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design&lt;/em&gt;&lt;/a&gt;. American Economic Review, Sept 1999.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t trust a central authority to do the matching fairly or keep the preferences secret, you can use secure computation:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Jack Doerner, David Evans, abhi shelat. &lt;a href=&#34;http://oblivc.org/docs/matching.pdf&#34;&gt;&lt;em&gt;Secure Stable Matching at Scale&lt;/em&gt;&lt;/a&gt;.  In &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2016/&#34;&gt;&lt;em&gt;23&lt;sup&gt;rd&lt;/sup&gt; ACM Conference on Computer and Communications Security&lt;/em&gt;&lt;/a&gt; (CCS). Vienna, Austria. 24-28 October 2016.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;India&amp;rsquo;s &lt;a href=&#34;https://josaa.nic.in/webinfocms/Public/View.aspx?page=71&#34;&gt;Joint Entrance Examination&lt;/a&gt;, &lt;a href=&#34;https://www.collegepravesh.com/cutoff/iit-bombay-cutoff-2018/&#34;&gt;cut-off ranks for IIT Bombay&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
