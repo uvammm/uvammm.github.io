@@ -1,6 +1,6 @@
 +++
 date = "28 Mar 2019"
-draft = true
+draft = false
 title = "Final Project: Your Choice"
 slug = "finalproject"
 +++
@@ -69,7 +69,12 @@ project satisfies them.
 4. A project plan that explains the main tasks needed to successfully
 complete your project and what you will actually do.
 
-5. A list of your team members and their roles and responsibilities. If
+5. Resources you have found or your plan for finding them. For most
+projects, this should include a list of papers relevant to your
+project. For many projects, it will also include datasets and code
+that you plan to use. 
+ 
+6. A list of your team members and their roles and responsibilities. If
 your team has more than two people, this should also explain how you
 plan to coordinate and manage your team.
 

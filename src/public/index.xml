@@ -6,8 +6,124 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Final Project: Your Choice</title>
+      <link>https://uvammm.github.io/finalproject/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/finalproject/</guid>
+      <description>
+
+&lt;p&gt;For the Final Project, it is up to you to decide what to do,
+consistent with the course goals.&lt;/p&gt;
+
+&lt;h3 id=&#34;teams&#34;&gt;Teams&lt;/h3&gt;
+
+&lt;p&gt;You may work in a team of from 1 to 38 students, but we expect most
+teams to be 2-4 students. If you want to work alone, you will need to
+make a convincing case why you will get more from the project by
+working alone than by working with others.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;impressiveness&lt;/em&gt; of your project should scale with at least the
+square root of the number of class participants on your project
+team. If you want to form a team with more than four students, you
+will need to make a case that you have a project idea that benefits
+from such a large team, and a management plan for making a large team
+successful.  There are no other constraints on the formation of your
+team, although we expect most teams will be a mix of CS and Economics
+majors.&lt;/p&gt;
+
+&lt;p&gt;Regardless of the size of your team, you should have a project plan
+that involves contributions from all team members. Everyone on the
+team should have a clear responsibility for parts of the project, and
+contribute substantially to the overall success of the project. Except
+in extraordinary circumstances, all team members will receive the same
+grade.&lt;/p&gt;
+
+&lt;h3 id=&#34;topic&#34;&gt;Topic&lt;/h3&gt;
+
+&lt;p&gt;For your project topic, you can work on any topic you would like that
+is relevant to the course. This means it should involve aspects of
+both Economics and Computer Science, with broad definitions of what
+each discipline encompasses.&lt;/p&gt;
+
+&lt;p&gt;A project topic should satisfy at least three of these goals:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;fun&lt;/strong&gt; (for you to do, and for others to see)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;relevant&lt;/strong&gt; (to the class)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;technically interesting&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;useful&lt;/strong&gt; (at least to your team, but hopefully to many)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will provide some ideas for potential projects to help you think of
+a project idea, but you should not feel constrained by these
+suggestions, and we hope many student teams will come up with creative
+ideas that are not based on our suggestions.&lt;/p&gt;
+
+&lt;h2 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h2&gt;
+
+&lt;p&gt;There are four deliverables for the Final Project, described next.&lt;/p&gt;
+
+&lt;h4 id=&#34;project-proposal&#34;&gt;Project Proposal&lt;/h4&gt;
+
+&lt;p&gt;Due &lt;strong&gt;Thursday, 11 April (8:59pm)&lt;/strong&gt;. Your project proposal should contain:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Title of your project: short description that clearly captures your project idea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A short paragraph that describes the goal of your project.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A project jusfication that explains for at least three of the goals
+above (fun, relevant, technically interesting, useful) how your
+project satisfies them.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A project plan that explains the main tasks needed to successfully
+complete your project and what you will actually do.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Resources you have found or your plan for finding them. For most
+projects, this should include a list of papers relevant to your
+project. For many projects, it will also include datasets and code
+that you plan to use.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A list of your team members and their roles and responsibilities. If
+your team has more than two people, this should also explain how you
+plan to coordinate and manage your team.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You should submit your project proposal by sending a slack message to
+a group that includes all of your team members and all of the course
+staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Joe
+Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. You can submit the proposal as a
+PDF file attachment to the message.&lt;/p&gt;
+
+&lt;h4 id=&#34;project-team-meetings-and-progress-reports&#34;&gt;Project Team Meetings and Progress Reports&lt;/h4&gt;
+
+&lt;p&gt;These will be scheduled individually, the week of April 15. All team
+members are expected to participate in the team meeting. At the team
+meeting, you will be expected to adress any questions that were raised
+about your proposal, and to explain what your team has done so
+far. This is also an opportunity to ask any questions you have and get
+advice from the course staff.&lt;/p&gt;
+
+&lt;h4 id=&#34;project-presentations&#34;&gt;Project Presentations&lt;/h4&gt;
+
+&lt;p&gt;In class, on &lt;strong&gt;Tuesday, 30 April&lt;/strong&gt; (the last day of class), each team
+will have an opportunity to present your project. (Details will be
+announced later.)&lt;/p&gt;
+
+&lt;h4 id=&#34;project-reports&#34;&gt;Project Reports&lt;/h4&gt;
+
+&lt;p&gt;Final project reports are due, &lt;strong&gt;Monday, 6 May&lt;/strong&gt; (4:59pm).  The format
+of the report will depend on your topic and how to best present it,
+but we hope many teams will end up with project reports that are
+interactive web sites (which could be built from Jupyter notebooks)
+and include open source code and data.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 19: Mechanism Design</title>
@@ -421,22 +537,6 @@ four course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&l
 that group chat by attaching your jupyter notebook to a message (use
 the “+” at the left of the message entry field to attach a file).
 &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 8: Centralized Resource Allocation</title>
-      <link>https://uvammm.github.io/class8/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class8/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class8.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
