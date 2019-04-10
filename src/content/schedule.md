@@ -39,6 +39,13 @@ week of 15 April: Project Team Meetings
 06 March: [Class 16: Auctions with Integrity](/class16)  
 19 March: [Class 17: Algorithmic Mechanism Design](/class17)  
 21 March: [Class 18: Hardness of Auctions](/class18)  
+26 March: [Class 19: Mechanism Design](/class19)  
+28 March: [Class 20: Mechanism Design](/class20)
+02 April: [Class 21: Economics of Information](/class21)  
+04 April: Class 22: Visit from [Joeseph Calandrino](https://twitter.com/inplaintext?lang=en), Research Director, Federal Trade Commission  
+09 April: Class 23: [Project Discussion](https://news.virginia.edu/content/uva-wins-2019-ncaa-mens-basketball-championship)  
+
+
 
 <!--
 ## Preliminary Readings Schedule

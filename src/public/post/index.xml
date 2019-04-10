@@ -6,8 +6,22 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 21: Economics of Information</title>
+      <link>https://uvammm.github.io/class21/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class21/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class21.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Final Auction Results</title>
@@ -580,34 +594,6 @@ concludes with:&lt;/p&gt;
 
 &lt;p&gt;Statistically, it would seem improbable that any mathematician or scientist, at the age of 66, would be able through continued research efforts, to add much to his or her previous achievements. However I am still making the effort and it is conceivable that with the gap period of about 25 years of partially deluded thinking providing a sort of vacation my situation may be atypical. Thus I have hopes of being able to achieve something of value through my current studies or with any new ideas that come in the future.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 9: Linear Programming</title>
-      <link>https://uvammm.github.io/class9/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class9/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; is due on Friday, 22 February. Everyone should
-be set with a team that satisfies all the constraints now.&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;2e520d5139f44a578927c81f31a54f98&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/ikt6q2e8ntczqa5/class9-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/linear-programming.ipynb&#34;&gt;linear-programming.ipynb&lt;/a&gt; - Jupyter notebook with Linear Programming examples (&lt;a href=&#34;https://uvammm-evansde.notebooks.azure.com/j/notebooks/linear-programming.ipynb&#34;&gt;try on-line with Azure Notebooks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/NHx8eLOfyOk?t=21&#34;&gt;Zidane&amp;rsquo;s Penalty&lt;/a&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=olL9NOcCOTk&#34;&gt;Lionel Messi does not limit himself to such a simple payoff matrix&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
