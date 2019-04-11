@@ -44,6 +44,7 @@ week of 15 April: Project Team Meetings
 02 April: [Class 21: Economics of Information](/class21)  
 04 April: Class 22: Visit from [Joeseph Calandrino](https://twitter.com/inplaintext?lang=en), Research Director, Federal Trade Commission  
 09 April: Class 23: [Project Discussion](https://news.virginia.edu/content/uva-wins-2019-ncaa-mens-basketball-championship)  
+11 April: [Class 24: Privacy](/class24)  
 
 
 

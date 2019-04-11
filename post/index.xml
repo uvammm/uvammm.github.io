@@ -6,8 +6,41 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 24: Privacy</title>
+      <link>https://uvammm.github.io/class24/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class24/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;Your &lt;a href=&#34;https://uvammm.github.io/finalproject&#34;&gt;Final Project Proposal&lt;/a&gt; is due &lt;strong&gt;tonight at 8:59pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;078cb9f62f834b76bab9843244949f92&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/gu0z9u1xvskxr5w/class24-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Stanley Warner. &lt;a href=&#34;https://uvammm.github.io/docs/randomizedresponse.pdf&#34;&gt;&lt;em&gt;Randomized Response: A Survey Technique for Eliminating Evasive Answer Bias&lt;/em&gt;&lt;/a&gt;, Journal of the American Statistical Association, March 1965.&lt;/p&gt;
+
+&lt;p&gt;Cynthia Dwork and Aaron Roth. &lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf&#34;&gt;&lt;em&gt;The Algorithmic Foundations of Differential Privacy&lt;/em&gt;&lt;/a&gt;. NOW Foundations and Trends in Theoretical Computer Science, 2014.&lt;/p&gt;
+
+&lt;p&gt;Burton H. Bloom. &lt;a href=&#34;https://uvammm.github.io/docs/bloom.pdf&#34;&gt;&lt;em&gt;Space/Time Trade-offs in Hash Coding with Allowable Errors&lt;/em&gt;&lt;/a&gt;, Communications of the ACM, July 1970.&lt;/p&gt;
+
+&lt;p&gt;Úlfar Erlingsson, Vasyl Pihur, Aleksandra Korolova. &lt;a href=&#34;https://uvammm.github.io/docs/rappor.pdf&#34;&gt;&lt;em&gt;RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response&lt;/em&gt;&lt;/a&gt;. ACM CCS 2014. Code: &lt;a href=&#34;https://github.com/google/rappor&#34;&gt;&lt;em&gt;https://github.com/google/rappor&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bargav Jayaraman and David Evans. &lt;a href=&#34;https://arxiv.org/abs/1902.08874&#34;&gt;&lt;em&gt;When Relaxations Go Bad: &amp;ldquo;Differentially-Private&amp;rdquo; Machine Learning&lt;/em&gt;&lt;/a&gt;. February 2019.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 21: Economics of Information</title>
@@ -561,39 +594,6 @@ Auction&lt;/em&gt;&lt;/a&gt;. Journal of Political Economy, 1998.&lt;/p&gt;
 &lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;Continues slide from &lt;a href=&#34;https://uvammm.github.io/class 10&#34;&gt;Class 10&lt;/a&gt;: &lt;a href=&#34;https://uvammm.github.io/docs/class10.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 10: Introduction to Game Theory</title>
-      <link>https://uvammm.github.io/class10/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class10/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class10.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;John F. Nash Jr. (1928-2015) received the Nobel Prize in 1994 for
-developing the theory of equilibria in games that was introduced in
-class today. The 2002 academy award best picture movie &lt;a href=&#34;https://www.imdb.com/title/tt0268978/&#34;&gt;&lt;em&gt;A Beautiful
-Mind&lt;/em&gt;&lt;/a&gt; featuring Russell Crowe
-as John Nash, based on the book by Sylvia Nasar, is an only somewhat
-fictionalized telling of his life story. His &lt;a href=&#34;https://www.nobelprize.org/prizes/economic-sciences/1994/nash/biographical/&#34;&gt;Nobel Prize
-autobiography&lt;/a&gt;
-concludes with:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Thus further time passed. Then gradually I began to intellectually reject some of the delusionally influenced lines of thinking which had been characteristic of my orientation. This began, most recognizably, with the rejection of politically-oriented thinking as essentially a hopeless waste of intellectual effort.&lt;/p&gt;
-
-&lt;p&gt;So at the present time I seem to be thinking rationally again in the style that is characteristic of scientists. However this is not entirely a matter of joy as if someone returned from physical disability to good physical health. One aspect of this is that rationality of thought imposes a limit on a person’s concept of his relation to the cosmos. For example, a non-Zoroastrian could think of Zarathustra as simply a madman who led millions of naive followers to adopt a cult of ritual fire worship. But without his “madness” Zarathustra would necessarily have been only another of the millions or billions of human individuals who have lived and then been forgotten.&lt;/p&gt;
-
-&lt;p&gt;Statistically, it would seem improbable that any mathematician or scientist, at the age of 66, would be able through continued research efforts, to add much to his or her previous achievements. However I am still making the effort and it is conceivable that with the gap period of about 25 years of partially deluded thinking providing a sort of vacation my situation may be atypical. Thus I have hopes of being able to achieve something of value through my current studies or with any new ideas that come in the future.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
