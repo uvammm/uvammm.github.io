@@ -27,4 +27,5 @@ Burton H. Bloom. [_Space/Time Trade-offs in Hash Coding with Allowable Errors_](
 
 Úlfar Erlingsson, Vasyl Pihur, Aleksandra Korolova. [_RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response_](/docs/rappor.pdf). ACM CCS 2014. Code: [_https://github.com/google/rappor_](https://github.com/google/rappor).
  
+[Privacy-Preserving Machine Learning](https://oblivc.org/ppml/).  
 Bargav Jayaraman and David Evans. [_When Relaxations Go Bad: "Differentially-Private" Machine Learning_](https://arxiv.org/abs/1902.08874). February 2019.
