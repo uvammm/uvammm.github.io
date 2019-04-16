@@ -6,8 +6,22 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 25: Privacy and Incentives</title>
+      <link>https://uvammm.github.io/class25/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class25/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class25.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 24: Privacy</title>
@@ -54,6 +68,20 @@ Bargav Jayaraman and David Evans. &lt;a href=&#34;https://arxiv.org/abs/1902.088
 &lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class21.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 20: Mechanism Design</title>
+      <link>https://uvammm.github.io/class20/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class20/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class19.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt; (slides continued from Class 19).&lt;/p&gt;
 </description>
     </item>
     
@@ -553,48 +581,6 @@ There are &lt;em&gt;four deliverable dates&lt;/em&gt; for Project 4 (see noteboo
 &lt;li&gt;Jeremy Fox and Patrick Bajari. &lt;a href=&#34;https://uvammm.github.io/docs/fox-and-bajari.pdf&#34;&gt;&lt;em&gt;Measuring the Efficiency of an FCC Spectrum Auction&lt;/em&gt;&lt;/a&gt;. American Economic Journal: Microeconomics 2013.&lt;/li&gt;
 &lt;li&gt;Thomas Hazlett. &lt;a href=&#34;https://uvammm.github.io/docs/hazlett.pdf&#34;&gt;&lt;em&gt;The Wireless Craze, The Unlimited Bandwidth Myth, The Spectrum Auction Faux Pas, and the Punchline to Ronald Coase’s ‘Big Joke’: An Essay on Airwave Allocation Policy&lt;/em&gt;&lt;/a&gt;. Harvard Journal of Law and Technology, Spring 2001.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 12: Imperfect Information Games</title>
-      <link>https://uvammm.github.io/class12/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class12/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; is due tomorrow (Friday, 22 February at 3:59pm).&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;8dd9cdec60ea4aada1e38fdddf14e187&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/fm9dislhibdcbca/class12-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;Benny Moldovanu and Manfred Tietzel. &lt;a href=&#34;https://uvammm.github.io/docs/goethe.pdf&#34;&gt;&lt;em&gt;Goethe&amp;rsquo;s Second-Price
-Auction&lt;/em&gt;&lt;/a&gt;. Journal of Political Economy, 1998.&lt;/p&gt;
-
-&lt;p&gt;The Ace-King-Queen Poker game is based on Bill Chen and Jerrod Ankenman&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Mathematics-Poker-Bill-Chen/dp/1886070253&#34;&gt;&lt;em&gt;The Mathematics of Poker&lt;/em&gt;&lt;/a&gt;, 2006.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 11: Incomplete Information Games</title>
-      <link>https://uvammm.github.io/class11/</link>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class11/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;Continues slide from &lt;a href=&#34;https://uvammm.github.io/class 10&#34;&gt;Class 10&lt;/a&gt;: &lt;a href=&#34;https://uvammm.github.io/docs/class10.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
