@@ -6,8 +6,38 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 27: Cryptocurrency</title>
+      <link>https://uvammm.github.io/class27/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class27/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;Your &lt;a href=&#34;https://uvammm.github.io/finalproject&#34;&gt;Final Project Presentations&lt;/a&gt; will be next Tuesday
+(29 April) in class.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;17bf8f9979ce4672889a653779dc1d46&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/ykj335mx6plolky/class27-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;More &lt;a href=&#34;https://www.cs.virginia.edu/evans/talks/metatalk/&#34;&gt;advice on presentations&lt;/a&gt; (a bit dated, but mostly still agreeable)&lt;/p&gt;
+
+&lt;p&gt;Some examples of creative project presentations: &lt;a href=&#34;https://uvacs2102.github.io/psomega/&#34;&gt;cs2012 Fall 2017&lt;/a&gt;, &lt;a href=&#34;https://uvacs2102.github.io/ps/psomega/&#34;&gt;Earlier examples&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are lots of sites for examining the blockchain. Most of the graphs I used in the lecture are from &lt;a href=&#34;https://www.blockchain.com/explorer&#34;&gt;https://www.blockchain.com/explorer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 25: Privacy and Incentives</title>
@@ -552,45 +582,6 @@ There are &lt;em&gt;four deliverable dates&lt;/em&gt; for Project 4 (see noteboo
 &lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class14.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 13: Auctioning Air</title>
-      <link>https://uvammm.github.io/class13/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class13/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be posted soon.  Please form your team for Project 4 following these rules:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Three or four students.&lt;/li&gt;
-&lt;li&gt;At least one team member majoring in CS, one majoring in Economics.&lt;/li&gt;
-&lt;li&gt;Cannot have any team members who have worked together on &lt;em&gt;two&lt;/em&gt; previous projects (but okay to work with someone you have worked with once before).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;9714b511c990451b9be3d0d4617df230&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/4p0s4jonxdki0r5/class13-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt; (sorry, ink was lost)
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://www.fcc.gov/auctions&#34;&gt;FCC Auctions Site&lt;/a&gt; has lots of information on the FCC spectrum auctions. The one we looked at in class was the &lt;a href=&#34;https://www.fcc.gov/auction/5&#34;&gt;1995 C Block Auction&lt;/a&gt;. You can see the &lt;a href=&#34;https://www.fcc.gov/sites/default/files/wireless/auctions/05/charts/5_cht1.gif&#34;&gt;activity and revenue graph&lt;/a&gt; and the &lt;a href=&#34;https://www.fcc.gov/sites/default/files/wireless/auctions/05/charts/5markets.xls&#34;&gt;final results (Excel file)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are lots of interesting articles on Spectrum Auctions. Some of the ones I found most interesting are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Paul Milgrom. &lt;a href=&#34;https://uvammm.github.io/docs/milgrom.pdf&#34;&gt;&lt;em&gt;Putting Auction Theory to Work: The Simultaneous Ascending Auction&lt;/em&gt;&lt;/a&gt;. Journal of Political Economy 2000.&lt;/li&gt;
-&lt;li&gt;Jeremy Fox and Patrick Bajari. &lt;a href=&#34;https://uvammm.github.io/docs/fox-and-bajari.pdf&#34;&gt;&lt;em&gt;Measuring the Efficiency of an FCC Spectrum Auction&lt;/em&gt;&lt;/a&gt;. American Economic Journal: Microeconomics 2013.&lt;/li&gt;
-&lt;li&gt;Thomas Hazlett. &lt;a href=&#34;https://uvammm.github.io/docs/hazlett.pdf&#34;&gt;&lt;em&gt;The Wireless Craze, The Unlimited Bandwidth Myth, The Spectrum Auction Faux Pas, and the Punchline to Ronald Coase’s ‘Big Joke’: An Essay on Airwave Allocation Policy&lt;/em&gt;&lt;/a&gt;. Harvard Journal of Law and Technology, Spring 2001.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
