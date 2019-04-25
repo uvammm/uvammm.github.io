@@ -48,6 +48,9 @@ week of 15 April: Project Team Meetings
 16 April: [Class 25: Privacy and Incentives](/class25)  
 18 April: Class 26: Project Progress Meetings  
 23 April: [Class 27: Cryptocurrency](/class27)  
+25 April: [Class 28: Information and Crime](/class28)  
+30 April: Project Presentations  
+  
 
 
 
