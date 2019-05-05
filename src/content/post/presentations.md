@@ -26,7 +26,7 @@ Kaiming Cheng, Junyan Lin
 [_DOTA Hero Picking_](https://docs.google.com/presentation/d/1fOidDcbmR1Cm6xEbLKOjYa8nGQWZuWL7iT2yznjjk-k/edit#slide=id.g56e7c94482_0_84)
 
 Barry Chin, Youbeen Shim, Grace Wu  
-[_Let's Redesign Food Recommendations_]()
+[_Let's Redesign Food Recommendations_](https://docs.google.com/presentation/d/1QiV7uyH_0eetVZLp7WMMULiN6Jnx18bzjHadTEHHNOQ/edit#slide=id.g35f391192_00)
 
 Isaiah Chan, Zack Reavis, Kavya Ravikanti, Claire Zhu  
 [_Cap-and-Trade or Carbon Tax?_](https://tinkerbellkr.wixsite.com/mmmfinalproject)
