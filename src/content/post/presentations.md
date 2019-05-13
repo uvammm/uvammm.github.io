@@ -7,6 +7,10 @@ slug = "class29"
 +++
 
 
+<center>
+<a href="/images/presentation.jpg"><img src="/images/presentation.jpg" width="60%" align="center"></a>
+</center>
+
 Connor Atkins, Maggie Hunter, Jae Jun, Nicole Quinn, TJ Sample  
 [_How to Beat Your Friends in Poker_](/projects/presentations/poker.pdf)
 
@@ -16,7 +20,7 @@ Cyrus Morshedi, Hunter Rockley, Sharon Liu, Vivian Kim
 Ryan Dailey, Leo Dominguez, Logan King  
 [_Pay the Players_](https://docs.google.com/presentation/d/1SclOgX7GeXPGfth2RoO4mVx_ARsodZMx_niqkm4FCN8/edit#slide=id.gc6fa3c898_0_0)
 
-Ian Hardman, Julia Heinzel, Andrew Vaaler,and David Bennett  
+Ian Hardman, Julia Heinzel, Andrew Vaaler, and David Bennett  
 [_Simplifying the Search for Housing_](/projects/presentations/housing.pdf)
 
 Samantha Burr  
@@ -36,3 +40,7 @@ Chang Feng, Caroline Zhao, Yijing Wang
 
 Cameron Lloyd, Michael Chinn, Aditya Kamath, Cathy Chang, David King, Alexander Hyldmar  
 [_Optimizing Course Allocation for Students &mdash; "The Future of SIS"_](/projects/presentations/courseallocation.pdf)
+
+<Center>
+<img src="/images/cookies.jpg" width="50%">
+</center>
