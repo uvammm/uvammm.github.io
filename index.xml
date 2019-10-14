@@ -6,8 +6,24 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring 2020 Class</title>
+      <link>https://uvammm.github.io/spring-2020-class/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/spring-2020-class/</guid>
+      <description>&lt;p&gt;This course will be offered again in Spring 2020. The content and
+format of the class will evolve from what was done in the first
+offering of the course, but will mostly cover similar topics and have
+a similar structure.  We will post more information about the Spring
+2020 class, and an updated syllabus soon, but for now, you can get a
+good idea what the course will be like by looking at the materials
+here from the Spring 2019 course.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Final Project Reports</title>
@@ -610,36 +626,6 @@ auction.&lt;/p&gt;
 &lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
 
 &lt;p&gt;Noam Nisan, &lt;a href=&#34;https://uvammm.github.io/docs/amd-mua.pdf&#34;&gt;&lt;em&gt;Algorithmic Mechanism Design: Through the lens of Multi-unit auctions&lt;/em&gt;&lt;/a&gt;, 2014.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 16: Auctions with Integrity</title>
-      <link>https://uvammm.github.io/class16/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class16/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;The trial auction for &lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be Thursday, 21 March.&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;465f75684e3044c09607c98b806c9e99&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/m19rvn24rgfk91q/class16-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uvammm.github.io/docs/class15.pdf&#34;&gt;Denis&amp;rsquo; slide continue from Class 15&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;Martin Shubik. &lt;a href=&#34;https://uvammm.github.io/docs/dollarauction.pdf&#34;&gt;&lt;em&gt;The Dollar Auction game: a paradox in noncooperative
-behavior and escalation&lt;/em&gt;&lt;/a&gt;. The Journal of
-Conflict Resolution. March 1971.&lt;/p&gt;
-
-&lt;p&gt;Sebastian Angel and Michael Walfish. &lt;a href=&#34;https://uvammm.github.io/docs/verifiableauctions.pdf&#34;&gt;&lt;em&gt;Verifiable Auctions for Online Ad Exchanges&lt;/em&gt;&lt;/a&gt;. SIGCOMM 2013.&lt;/p&gt;
 </description>
     </item>
     
