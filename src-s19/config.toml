@@ -1,0 +1,50 @@
+baseurl = "https://uvammm.github.io/"
+languageCode = "en-us"
+title = "Markets, Mechanisms, Machines"
+subtitle = "UVA CS 4501/ECON 4559 Spring 2019"
+copyright = ""
+theme = "mmm"
+
+paginate = 10
+paginatePath = "page"
+
+pageNotFoundTitle = "Not Found"
+pageNotFoundDetail = "Your request was determined to be an adversarial example by our web server. This could be because you are evil or because of a supply-demand imbalance, but it is most likely a bad link or mistyped URL."
+
+# disqusShortname = "evans1629"
+
+[permalinks]
+    post = "/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "MMM"
+    #    email = "evans@virginia.edu"
+
+[params]
+    brand = "Markets, Mechanisms, Machines"
+    topline = "Markets, Mechanisms, Machines" 
+    footline = "<p align=\"center\">CS 4501 / ECON 4559 | University of Virginia, Spring 2019 | <a href=\"https://www.cs.virginia.edu/evans\">David Evans</a> and <a href=\"http://people.virginia.edu/~dn4w/\">Denis Nekipelov</a></p>"
+    sidebar = "left"
+    googleAnalytics = "UA-3775212-1"
+
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[blackfriday]
+    angledQuotes = false
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+[[menu.footer]]

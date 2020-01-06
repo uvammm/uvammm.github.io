@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Markets, Mechanisms, Machines</title>
+    <link>https://uvammm.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring 2020 Class</title>
+      <link>https://uvammm.github.io/spring-2020-class/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/spring-2020-class/</guid>
+      <description>&lt;p&gt;This course will be offered again in Spring 2020. The content and
+format of the class will evolve from what was done in the first
+offering of the course, but will mostly cover similar topics and have
+a similar structure.  We will post more information about the Spring
+2020 class, and an updated syllabus soon, but for now, you can get a
+good idea what the course will be like by looking at the materials
+here from the Spring 2019 course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Final Project Reports</title>
+      <link>https://uvammm.github.io/finalreports/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/finalreports/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/virginia.edu/future-of-sis/home&#34;&gt;&lt;strong&gt;Optimizing Course Allocation for Students &amp;mdash; &amp;ldquo;The Future of SIS&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Cameron Lloyd, Michael Chinn, Aditya Kamath, Cathy Chang, David King, Alexander Hyldmar&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cf4ff.github.io/uvammm-license-auction/&#34;&gt;&lt;strong&gt;Shanghai License Plate Auction Study&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Chang Feng, Caroline Zhao, Yijing Wang&lt;br /&gt;
+Code: &lt;a href=&#34;https://github.com/cf4ff/uvammm-license-auction&#34;&gt;https://github.com/cf4ff/uvammm-license-auction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tinkerbellkr.wixsite.com/mmmfinalproject&#34;&gt;&lt;strong&gt;Cap-and-Trade or Carbon Tax?&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Isaiah Chan, Zack Reavis, Kavya Ravikanti, Claire Zhu&lt;br /&gt;
+Notebook: &lt;a href=&#34;https://github.com/xz4nf/MMM-Final-Project/blob/master/Codes.ipynb&#34;&gt;https://github.com/xz4nf/MMM-Final-Project/blob/master/Codes.ipynb&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mmmfinalproject.herokuapp.com/&#34;&gt;&lt;strong&gt;Simplifying the Search for Housing&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+David Bennett, Ian Hardman, Julia Heinzel, and Andrew Vaaler&lt;br /&gt;
+Code: &lt;a href=&#34;https://github.com/DavidBennett019/MMMFinalProject&#34;&gt;https://github.com/DavidBennett019/MMMFinalProject&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thisismymom.online/pay-the-players&#34;&gt;&lt;strong&gt;Pay the Players&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Ryan Dailey, Leo Dominguez, Logan King&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://notebooks.azure.com/chengkaiming/projects/4501-final&#34;&gt;&lt;strong&gt;DOTA Hero Picking&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Kaiming Cheng, Junyan Lin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vast-plains-48563.herokuapp.com/blog&#34;&gt;&lt;strong&gt;Analyzing Behavioral Trends of Online Poker Players&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Connor Atkins, Maggie Hunter, Jae Jun, Nicole Quinn, TJ Sample&lt;br /&gt;
+&lt;img src=&#34;https://uvammm.github.io/images/profitbyposition.png&#34; width=70% align=&#34;center&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sammyburr5.wixsite.com/mmmfinalproject&#34;&gt;&lt;strong&gt;Predicting Location in Atlanta&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Samantha Burr&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1D9sY5qAHySU7yGfX1GXsHS2rx8t-CURK&#34;&gt;&lt;strong&gt;Nowcasting measles outbreaks using Google Trends&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Cyrus Morshedi, Hunter Rockley, Sharon Liu, Vivian Kim&lt;br /&gt;
+&lt;a href=&#34;https://colab.research.google.com/drive/1vkTU4bNuZ4Bxzq9PmkaMMqffgAwc_jVk&#34;&gt;Colab Notebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/projects/mmmfood.zip&#34;&gt;&lt;strong&gt;Let&amp;rsquo;s Redesign Food Recommendations&lt;/strong&gt;&lt;/a&gt; (.zip file with data and code)&lt;br /&gt;
+Barry Chin, Youbeen Shim, Grace Wu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 29: Project Presentations</title>
+      <link>https://uvammm.github.io/class29/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class29/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;https://uvammm.github.io/images/presentation.jpg&#34;&gt;&lt;img src=&#34;https://uvammm.github.io/images/presentation.jpg&#34; width=&#34;60%&#34; align=&#34;center&#34;&gt;&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Connor Atkins, Maggie Hunter, Jae Jun, Nicole Quinn, TJ Sample&lt;br /&gt;
+&lt;a href=&#34;https://uvammm.github.io/projects/presentations/poker.pdf&#34;&gt;&lt;em&gt;How to Beat Your Friends in Poker&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cyrus Morshedi, Hunter Rockley, Sharon Liu, Vivian Kim&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/1C7AdJuGKSw2gb6cRAo3MBH2eFEJC2212cU1pvfzseY4/edit&#34;&gt;&lt;em&gt;Nowcasting measles outbreaks using Google Trends&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ryan Dailey, Leo Dominguez, Logan King&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/1SclOgX7GeXPGfth2RoO4mVx_ARsodZMx_niqkm4FCN8/edit#slide=id.gc6fa3c898_0_0&#34;&gt;&lt;em&gt;Pay the Players&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ian Hardman, Julia Heinzel, Andrew Vaaler, and David Bennett&lt;br /&gt;
+&lt;a href=&#34;https://uvammm.github.io/projects/presentations/housing.pdf&#34;&gt;&lt;em&gt;Simplifying the Search for Housing&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Samantha Burr&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/1wR2AG-VjHxLlz42Z0XzpV0jo6_JR_ESHkrbrozp719c/edit#slide=id.ge9090756a_1_58&#34;&gt;&lt;em&gt;Predicting Location in Atlanta&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kaiming Cheng, Junyan Lin&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/1fOidDcbmR1Cm6xEbLKOjYa8nGQWZuWL7iT2yznjjk-k/edit#slide=id.g56e7c94482_0_84&#34;&gt;&lt;em&gt;DOTA Hero Picking&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Barry Chin, Youbeen Shim, Grace Wu&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/1QiV7uyH_0eetVZLp7WMMULiN6Jnx18bzjHadTEHHNOQ/edit#slide=id.g35f391192_00&#34;&gt;&lt;em&gt;Let&amp;rsquo;s Redesign Food Recommendations&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Isaiah Chan, Zack Reavis, Kavya Ravikanti, Claire Zhu&lt;br /&gt;
+&lt;a href=&#34;https://tinkerbellkr.wixsite.com/mmmfinalproject&#34;&gt;&lt;em&gt;Cap-and-Trade or Carbon Tax?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chang Feng, Caroline Zhao, Yijing Wang&lt;br /&gt;
+&lt;a href=&#34;https://uvammm.github.io/projects/presentations/licenseplates.pdf&#34;&gt;&lt;em&gt;Shanghai License Plate Auction Study&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cameron Lloyd, Michael Chinn, Aditya Kamath, Cathy Chang, David King, Alexander Hyldmar&lt;br /&gt;
+&lt;a href=&#34;https://uvammm.github.io/projects/presentations/courseallocation.pdf&#34;&gt;&lt;em&gt;Optimizing Course Allocation for Students &amp;mdash; &amp;ldquo;The Future of SIS&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;Center&gt;
+&lt;img src=&#34;https://uvammm.github.io/images/cookies.jpg&#34; width=&#34;50%&#34;&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 28: Information and Crime</title>
+      <link>https://uvammm.github.io/class28/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class28/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule-update&#34;&gt;Schedule Update&lt;/h1&gt;
+
+&lt;p&gt;Your &lt;a href=&#34;https://uvammm.github.io/finalproject&#34;&gt;Final Project Presentations&lt;/a&gt; will be next Tuesday
+(29 April) in class. See &lt;a href=&#34;https://uvammm.github.io/class27&#34;&gt;class27&lt;/a&gt; for details and advice on
+your presentations.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class28.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 27: Cryptocurrency</title>
+      <link>https://uvammm.github.io/class27/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class27/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;Your &lt;a href=&#34;https://uvammm.github.io/finalproject&#34;&gt;Final Project Presentations&lt;/a&gt; will be next Tuesday
+(29 April) in class.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;17bf8f9979ce4672889a653779dc1d46&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/ykj335mx6plolky/class27-post.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;More &lt;a href=&#34;https://www.cs.virginia.edu/evans/talks/metatalk/&#34;&gt;advice on presentations&lt;/a&gt; (a bit dated, but mostly still agreeable)&lt;/p&gt;
+
+&lt;p&gt;Some examples of creative project presentations: &lt;a href=&#34;https://uvacs2102.github.io/psomega/&#34;&gt;cs2012 Fall 2017&lt;/a&gt;, &lt;a href=&#34;https://uvacs2102.github.io/ps/psomega/&#34;&gt;Earlier examples&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are lots of sites for examining the blockchain. Most of the graphs I used in the lecture are from &lt;a href=&#34;https://www.blockchain.com/explorer&#34;&gt;https://www.blockchain.com/explorer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 25: Privacy and Incentives</title>
+      <link>https://uvammm.github.io/class25/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class25/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule-update&#34;&gt;Schedule Update&lt;/h1&gt;
+
+&lt;p&gt;Thursday&amp;rsquo;s class will be project review meetings. We will meet with
+each of the teams to discuss feedback on your proposals and progress
+on the projects. Weather permitting, class will meet at the picnic
+tables in the Thornton hall courtyard. Please ensure that your team is
+ready to discuss issues raised in the feedback we&amp;rsquo;ve sent on your
+project, explain your progress so far, and any things you think we can
+help with.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class25.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 24: Privacy</title>
+      <link>https://uvammm.github.io/class24/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class24/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;Your &lt;a href=&#34;https://uvammm.github.io/finalproject&#34;&gt;Final Project Proposal&lt;/a&gt; is due &lt;strong&gt;tonight at 8:59pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;078cb9f62f834b76bab9843244949f92&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/gu0z9u1xvskxr5w/class24-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Stanley Warner. &lt;a href=&#34;https://uvammm.github.io/docs/randomizedresponse.pdf&#34;&gt;&lt;em&gt;Randomized Response: A Survey Technique for Eliminating Evasive Answer Bias&lt;/em&gt;&lt;/a&gt;, Journal of the American Statistical Association, March 1965.&lt;/p&gt;
+
+&lt;p&gt;Cynthia Dwork and Aaron Roth. &lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf&#34;&gt;&lt;em&gt;The Algorithmic Foundations of Differential Privacy&lt;/em&gt;&lt;/a&gt;. NOW Foundations and Trends in Theoretical Computer Science, 2014.&lt;/p&gt;
+
+&lt;p&gt;Burton H. Bloom. &lt;a href=&#34;https://uvammm.github.io/docs/bloom.pdf&#34;&gt;&lt;em&gt;Space/Time Trade-offs in Hash Coding with Allowable Errors&lt;/em&gt;&lt;/a&gt;, Communications of the ACM, July 1970.&lt;/p&gt;
+
+&lt;p&gt;Úlfar Erlingsson, Vasyl Pihur, Aleksandra Korolova. &lt;a href=&#34;https://uvammm.github.io/docs/rappor.pdf&#34;&gt;&lt;em&gt;RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response&lt;/em&gt;&lt;/a&gt;. ACM CCS 2014. Code: &lt;a href=&#34;https://github.com/google/rappor&#34;&gt;&lt;em&gt;https://github.com/google/rappor&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://oblivc.org/ppml/&#34;&gt;Privacy-Preserving Machine Learning&lt;/a&gt;.&lt;br /&gt;
+Bargav Jayaraman and David Evans. &lt;a href=&#34;https://arxiv.org/abs/1902.08874&#34;&gt;&lt;em&gt;When Relaxations Go Bad: &amp;ldquo;Differentially-Private&amp;rdquo; Machine Learning&lt;/em&gt;&lt;/a&gt;. February 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 21: Economics of Information</title>
+      <link>https://uvammm.github.io/class21/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class21/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class21.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 20: Mechanism Design</title>
+      <link>https://uvammm.github.io/class20/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class20/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class19.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt; (slides continued from Class 19).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Final Auction Results</title>
+      <link>https://uvammm.github.io/finalauction/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/finalauction/</guid>
+      <description>&lt;p&gt;Here are the final auction results:&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-w8l0{font-weight:bold;background-color:#fffc9e;text-align:center;vertical-align:top}
+.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&#34;tg&#34;&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Team&lt;/th&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Clicks&lt;/th&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Bids Submitted&lt;/th&gt;
+    &lt;th class=&#34;tg-w8l0&#34;&gt;Budget Unspent&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4507&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;53&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;3274&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$0.42&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4501&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;48&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;3380&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.68&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4509&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;45&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;3094&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$222.04&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4504&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;41&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;3362&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.06&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4506&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;37&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;1986&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$0.94&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4502&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;37&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;3487&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.63&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4505&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;26&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;631&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$2,965.38&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4503&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;22&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;1658&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$0.40&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;4510&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;21&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;3450&lt;/td&gt;
+    &lt;td class=&#34;tg-dzk6&#34;&gt;$0.12&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;4508&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;13&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;694&lt;/td&gt;
+    &lt;td class=&#34;tg-baqh&#34;&gt;$2.82&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Team 7: Cyrus Morshedi, Ian Hardman, Ryan Dailey, and Hunter Rockley!&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;A href=&#34;https://uvammm.github.io/images/avg_winning_bids_final.png&#34;&gt;&lt;img src=&#34;https://uvammm.github.io/images/avg_winning_bids_final.png&#34; width=&#34;80%&#34; border=&#34;0&#34;&gt;&lt;/a&gt;&lt;Br&gt;
+&lt;A href=&#34;https://uvammm.github.io/images/cumulative_clicks.png&#34;&gt;&lt;img src=&#34;https://uvammm.github.io/images/cumulative_clicks.png&#34; width=&#34;80%&#34; border=&#34;0&#34;&gt;&lt;/a&gt;&lt;Br&gt;
+&lt;A href=&#34;https://uvammm.github.io/images/cumulative_spending.png&#34;&gt;&lt;img src=&#34;https://uvammm.github.io/images/cumulative_spending.png&#34; width=&#34;80%&#34; border=&#34;0&#34;&gt;&lt;/a&gt;&lt;Br&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Final Project: Your Choice</title>
+      <link>https://uvammm.github.io/finalproject/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/finalproject/</guid>
+      <description>
+
+&lt;p&gt;For the Final Project, it is up to you to decide what to do,
+consistent with the course goals.&lt;/p&gt;
+
+&lt;h3 id=&#34;teams&#34;&gt;Teams&lt;/h3&gt;
+
+&lt;p&gt;You may work in a team of from 1 to 38 students, but we expect most
+teams to be 2-4 students. If you want to work alone, you will need to
+make a convincing case why you will get more from the project by
+working alone than by working with others.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;impressiveness&lt;/em&gt; of your project should scale with at least the
+square root of the number of class participants on your project
+team. If you want to form a team with more than four students, you
+will need to make a case that you have a project idea that benefits
+from such a large team, and a management plan for making a large team
+successful.  There are no other constraints on the formation of your
+team, although we expect most teams will be a mix of CS and Economics
+majors.&lt;/p&gt;
+
+&lt;p&gt;Regardless of the size of your team, you should have a project plan
+that involves contributions from all team members. Everyone on the
+team should have a clear responsibility for parts of the project, and
+contribute substantially to the overall success of the project. Except
+in extraordinary circumstances, all team members will receive the same
+grade.&lt;/p&gt;
+
+&lt;h3 id=&#34;topic&#34;&gt;Topic&lt;/h3&gt;
+
+&lt;p&gt;For your project topic, you can work on any topic you would like that
+is relevant to the course. This means it should involve aspects of
+both Economics and Computer Science, with broad definitions of what
+each discipline encompasses.&lt;/p&gt;
+
+&lt;p&gt;A project topic should satisfy at least three of these goals:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;fun&lt;/strong&gt; (for you to do, and for others to see)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;relevant&lt;/strong&gt; (to the class)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;technically interesting&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;useful&lt;/strong&gt; (at least to your team, but hopefully to many)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will provide some ideas for potential projects to help you think of
+a project idea, but you should not feel constrained by these
+suggestions, and we hope many student teams will come up with creative
+ideas that are not based on our suggestions.&lt;/p&gt;
+
+&lt;h2 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h2&gt;
+
+&lt;p&gt;There are four deliverables for the Final Project, described next.&lt;/p&gt;
+
+&lt;h4 id=&#34;project-proposal&#34;&gt;Project Proposal&lt;/h4&gt;
+
+&lt;p&gt;Due &lt;strong&gt;Thursday, 11 April (8:59pm)&lt;/strong&gt;. Your project proposal should contain:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Title of your project: short description that clearly captures your project idea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A short paragraph that describes the goal of your project.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A project jusfication that explains for at least three of the goals
+above (fun, relevant, technically interesting, useful) how your
+project satisfies them.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A project plan that explains the main tasks needed to successfully
+complete your project and what you will actually do.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Resources you have found or your plan for finding them. For most
+projects, this should include a list of papers relevant to your
+project. For many projects, it will also include datasets and code
+that you plan to use.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A list of your team members and their roles and responsibilities. If
+your team has more than two people, this should also explain how you
+plan to coordinate and manage your team.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You should submit your project proposal by sending a slack message to
+a group that includes all of your team members and all of the course
+staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Joe
+Roessler&lt;/code&gt; &lt;code&gt;@Jonas&lt;/code&gt;. You can submit the proposal as a
+PDF file attachment to the message.&lt;/p&gt;
+
+&lt;h4 id=&#34;project-team-meetings-and-progress-reports&#34;&gt;Project Team Meetings and Progress Reports&lt;/h4&gt;
+
+&lt;p&gt;These will be scheduled individually, the week of April 15. All team
+members are expected to participate in the team meeting. At the team
+meeting, you will be expected to adress any questions that were raised
+about your proposal, and to explain what your team has done so
+far. This is also an opportunity to ask any questions you have and get
+advice from the course staff.&lt;/p&gt;
+
+&lt;h4 id=&#34;project-presentations&#34;&gt;Project Presentations&lt;/h4&gt;
+
+&lt;p&gt;In class, on &lt;strong&gt;Tuesday, 30 April&lt;/strong&gt; (the last day of class), each team
+will have an opportunity to present your project. (Details will be
+announced later.)&lt;/p&gt;
+
+&lt;h4 id=&#34;project-reports&#34;&gt;Project Reports&lt;/h4&gt;
+
+&lt;p&gt;Final project reports are due, &lt;strong&gt;Monday, 6 May&lt;/strong&gt; (4:59pm).  The format
+of the report will depend on your topic and how to best present it,
+but we hope many teams will end up with project reports that are
+interactive web sites (which could be built from Jupyter notebooks)
+and include open source code and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 19: Mechanism Design</title>
+      <link>https://uvammm.github.io/class19/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class19/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class19.pdf&#34;&gt;Download (full resolution) PDF&lt;/a&gt; (slides continue through Class 20).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trial Auction Results</title>
+      <link>https://uvammm.github.io/trialauction/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/trialauction/</guid>
+      <description>&lt;p&gt;Here are the final results of the trial auction from &lt;a href=&#34;https://uvammm.github.io/class18&#34;&gt;Thursday&amp;rsquo;s class&lt;/a&gt;:&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-k5c1{font-weight:bold;background-color:#ffffc7;text-align:center;vertical-align:top}
+.tg .tg-lqy6{text-align:center;vertical-align:top}
+.tg .tg-p5oz{background-color:#f9f9f9;text-align:center;vertical-align:top}
+&lt;/style&gt;
+
+&lt;table class=&#34;tg&#34; style=&#34;width:80%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-k5c1&#34; width=&#34;20%&#34;&gt;TeamID&lt;/th&gt;
+    &lt;th class=&#34;tg-k5c1&#34; width=&#34;20%&#34;&gt;Clicks&lt;/th&gt;
+    &lt;th class=&#34;tg-k5c1&#34; width=&#34;25%&#34;&gt;Bids Submitted&lt;/th&gt;
+    &lt;th class=&#34;tg-k5c1&#34; width=&#34;25%&#34;&gt;Unspent Budget&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;4504&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;82&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;3246&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;$243.62&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;4509&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;74&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;3468&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;$3120.05&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;4503&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;39&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;3488&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;$0.15&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;4507&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;37&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;629&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;$130.78&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;4505&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;27&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;673&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;$1944.46&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;4508&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;26&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;3479&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;$9638.47&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;4501&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;23&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;704&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;$5887.23&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;4506&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;18&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;791&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;$1278.35&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;4502&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;15&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;1113&lt;/td&gt;
+    &lt;td class=&#34;tg-p5oz&#34;&gt;$0.80&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;4510&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;14&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;1235&lt;/td&gt;
+    &lt;td class=&#34;tg-lqy6&#34;&gt;$5.49&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This graph shows the average winning bid for the three slots, averaged over each group of 100 auctions:
+&lt;center&gt;
+&lt;img src=&#34;https://uvammm.github.io/images/avg_winning_bids.png&#34; width=80%&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 17: Algorithmic Mechanism Design</title>
+      <link>https://uvammm.github.io/class17/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class17/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;The trial auction for &lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be Thursday, 21
+March. Your team should be ready at the beginning of class Thursday
+with your client code ready to run on a laptop to start the trial
+auction.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;3247318e9fb34d08a50bc2db4dd85457&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/gbe8sqb4uy0ls4c/class17-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Noam Nisan, &lt;a href=&#34;https://uvammm.github.io/docs/amd-mua.pdf&#34;&gt;&lt;em&gt;Algorithmic Mechanism Design: Through the lens of Multi-unit auctions&lt;/em&gt;&lt;/a&gt;, 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 18: Hardness of Auctions</title>
+      <link>https://uvammm.github.io/class18/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class18/</guid>
+      <description>
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;The final auction for &lt;a href=&#34;https://uvammm.github.io/project4&#34;&gt;Project 4&lt;/a&gt; will be Thursday, 28
+March, and final reports are due on Friday, 29 March.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;7126e004a55e4fba8de445b837ee2dc7&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/d1r64s0t3ibl7sw/class18-inked.pdf?dl=0&#34;&gt;Download (full resolution) PDF&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;trial-auction-results&#34;&gt;Trial Auction Results&lt;/h1&gt;
+
+&lt;p&gt;Congratulations to team 4 - TJ Sample, Connor Atkins, and Andrew
+Vaaler - for winning the trial auction! The prize is a $1000 bonus for
+the final auction. All other team budgets are reset for the final
+auction.&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Noam Nisan, &lt;a href=&#34;https://uvammm.github.io/docs/amd-mua.pdf&#34;&gt;&lt;em&gt;Algorithmic Mechanism Design: Through the lens of Multi-unit auctions&lt;/em&gt;&lt;/a&gt;, 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

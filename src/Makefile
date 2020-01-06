@@ -22,6 +22,11 @@ github: html
 	cp -r public/* ../
 	git add -A; git commit -m "Rebuilt site" ; git push
 
+archive: html
+	mkdir ../s19
+	cp -r public/* ../s19/
+	git add -A; git commit -m "Rebuilt site" ; git push
+
 %.pdf: $(PAGEDIR)/%.md
 	$(LATEXIFY) $< > $(LATEXDIR)/temp-latex.md
 	pandoc --read=markdown+raw_tex --template=$(LATEXDIR)/mmm.template $(LATEXDIR)/temp-latex.md -o $(DOCSDIR)/$@
