@@ -1,7 +1,7 @@
-baseurl = "https://uvammm.github.io/s19"
+baseurl = "https://uvammm.github.io"
 languageCode = "en-us"
 title = "Markets, Mechanisms, Machines"
-subtitle = "UVA CS 4501/ECON 4559 Spring 2019"
+subtitle = "UVA CS 4501/ECON 4730 Spring 2020"
 copyright = ""
 theme = "mmm"
 
