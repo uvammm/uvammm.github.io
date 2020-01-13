@@ -49,7 +49,7 @@ Office hours: <b>TBD</b>
 <A href="https://www.linkedin.com/in/cameron-lloyd/">
 Cameron Lloyd
 </a> (CS 4th-year Student)<br>
-Office hours: Wednesdays, 5-6:30pm, Rice 442
+Office hours: <b>TBD</b>
   </div>
   </div>
 </section>
