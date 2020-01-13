@@ -459,7 +459,7 @@ p {
 }
 
 .whatisthis a:visited {
-    color: var(--inverse-color);
+    color: var(--tb-color);
     text-decoration: none; border-bottom: 1px dotted var(--inverse-light-color);
 }
 
