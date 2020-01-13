@@ -67,14 +67,18 @@ mechanism design, and privacy.
 
 # Assignments
 
-The main assignments for the class will be two team projects. For the
-first project, teams will select an interesting economics paper and
-replicate or extend some part of the paper, and present the paper and
-their results to the class.  For the second project, students will
-have an opportunity to define their own open-ended project to answer
-an interesting question about the world using methods and techniques
-from the class. This could build on the paper studied for the first
-project, or be on a new topic.
+The main assignments for the class will be a series of team projects
+where students will be grouped into teams of two to four students,
+including both computer scientists and economists. The project teams
+and assignments will emulate the work of real interdisciplinary teams
+at leading companies. It will be the team's responsibility to
+distribute the tasks, communicate with each other and explain in the
+project report what part of the project was completed by what team
+member.
+
+For the final project, students will have an opportunity to define
+their own open-ended project to answer an interesting question about
+the world using methods and techniques from the class.
 
 In addition to the project assignments, there will be reading
 assignments and other preparation assignments for classes, and there
@@ -86,21 +90,16 @@ students who are not contributing fully to team assignments).
 The due dates for the projects are below.  Unless specified different,
 projects will be due at the beginning of class on the due date.
 
-### Project 1: Paper Replication and Presentation
+**Tuesday, 21 January:** Project 1: Predictions from Data (warm-up)  
+**Thursday, 30 January:** Project 2: Market Predictions  
+**Thursday, 13 February:** Project 3: Allocating Kidneys  
+**Tuesday, 3 March:** Project 4: On-Line Auctions
 
-**Tuesday, 21 January:** Team and paper selection  
-**Tuesday, 28 January:** Write-up of plan for replication and presentation  
-**11 or 13 February:** In-class presentation  
-**Tuesday, 18 February:** Blog post on Project 1
+### Final Project
 
-### Project 2
-
-**Thursday, 20 February:** Team and General Idea  
-**Tuesday, 25 February:** Team meetings (in class)  
-**Tuesday, 3 March:** Project Proposal  
-**Thursday, 26 March:** Progress Report  
-**Thursday, 2 April:** Progress Report  
-**Thursday, 16 April:** Preliminary Report  
+**Thursday, 19 March:**: Team and General Idea  
+**Sunday, 29 March:** Project Proposal  
+**Thursday, 9 April:** Progress Report  
 **23 or 28 April:** Final Presentations  
 **Tuesday, 28 April:** Final Project Report  
 
@@ -112,6 +111,20 @@ projects, everyone in a team will normally receive the same grade,
 except in situations where there are problems or where not all team
 members contribute fully to the project. All students are expected to
 be present at all the project meetings and presentations.
+
+Grades will be calculated with several different weightings, where
+your grade is based primarily on whichever weighting results in the
+highest score. The range of possible weightings is:
+
+- Project 1: 0-5%
+- Project 2: 5-15%
+- Project 3: 10-20%
+- Project 4: 10-25%
+- Final Project: 25-75%
+- Class Contribution: 0-25% 
+
+Spend your energy focusing on what you are learning, instead of
+worrying about your grade.
  
 ## Honor
 
