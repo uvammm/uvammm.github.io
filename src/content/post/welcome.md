@@ -6,7 +6,7 @@ author = "David Evans"
 slug = "welcome"
 +++
 
-Welcome to the website for the joint Computer Science/Economics
+Welcome to the website for the joint Economics/Computer Science
 course, _Markets, Mechanisms, and Machines_.
 
 More information will be posted here soon. For
