@@ -28,9 +28,30 @@
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/schedule/</guid>
-      <description>&lt;p&gt;The schedule for the Spring 2020 class will be here soon.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/s19/schedule&#34;&gt;Schedule for 2019 Course&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;class-meetings&#34;&gt;Class Meetings&lt;/h1&gt;
+
+&lt;p&gt;Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.&lt;/p&gt;
+
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Tuesday, 21 January:&lt;/strong&gt; Project 1: Predictions from Data (warm-up)&lt;br /&gt;
+&lt;strong&gt;Thursday, 30 January:&lt;/strong&gt; Project 2: Market Predictions&lt;br /&gt;
+&lt;strong&gt;Thursday, 13 February:&lt;/strong&gt; Project 3: Allocating Kidneys&lt;br /&gt;
+&lt;strong&gt;Tuesday, 3 March:&lt;/strong&gt; Project 4: On-Line Auctions&lt;/p&gt;
+
+&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thursday, 19 March:&lt;/strong&gt; Team and General Idea&lt;br /&gt;
+&lt;strong&gt;Sunday, 29 March:&lt;/strong&gt; Project Proposal&lt;br /&gt;
+&lt;strong&gt;Thursday, 9 April:&lt;/strong&gt; Progress Report&lt;br /&gt;
+&lt;strong&gt;23 or 28 April:&lt;/strong&gt; Final Presentations&lt;br /&gt;
+&lt;strong&gt;Tuesday, 28 April:&lt;/strong&gt; Final Project Report&lt;/p&gt;
+
+&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
+
+&lt;p&gt;14 January: &lt;a href=&#34;https://uvammm.github.io/class1&#34;&gt;Class 1: Introduction&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -40,6 +61,174 @@
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/syllabus-draft/</guid>
+      <description>
+
+&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://uvammm.github.io/docs/syllabus.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;CS 4501/ECON 4730: &lt;em&gt;Markets, Mechanisms, and Machines&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+University of Virginia, Spring 2020&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meetings:&lt;/strong&gt; Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Computer Science majors should register for the CS
+4501 course, which has CS 2150 as a prerequisite. Economics majors
+should register for the ECON 4730 course, which has ECON 3010 or 3110
+and ECON 3720 or 4720 as a prerequisite.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Course materials will be posted on the course
+  website: &lt;a href=&#34;https://uvammm.github.io&#34;&gt;https://uvammm.github.io&lt;/a&gt;. We
+  will use slack
+  (&lt;a href=&#34;https://uvammm.slack.com&#34;&gt;https://uvammm.slack.com&lt;/a&gt;) for most
+  communications with the class, and encourage you to use it for
+  asking questions and discussions with the course staff and your
+  classmates.&lt;/p&gt;
+
+&lt;h2 id=&#34;course-staff-and-office-hours&#34;&gt;Course Staff and Office Hours&lt;/h2&gt;
+
+&lt;section style=&#34;display: table;width: 100%; align: center&#34;&gt;
+  &lt;div style=&#34;display: table-row; padding: 0.5rem&#34;&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt; 
+  &lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/dave-2.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/evans&#34;&gt;David Evans&lt;/a&gt; (Professor of Computer Science)&lt;br&gt;
+Office hours: &lt;b&gt;TBD&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt;
+  &lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/denis-2.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;a href=&#34;http://people.virginia.edu/~dn4w/&#34;&gt;Denis Nekipelov&lt;/a&gt; (Professor of Economics)&lt;br&gt;
+Office hours: &lt;b&gt;TBD&lt;/b&gt;
+  &lt;/div&gt;&lt;/div&gt;
+  &lt;div style=&#34;display: table-row; padding: 0.5rem&#34;&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt;
+  &lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/missing.png&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;a href=&#34;https://economics.virginia.edu/people/profile/kd5tt&#34;&gt;Kyeongtak Do&lt;/a&gt; (Economics PhD Student)&lt;br&gt;
+Office hours: &lt;b&gt;TBD&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: table-cell; padding: 0.5rem; text-align: center;width: 49%&#34;&gt;
+&lt;img class=&#34;img-circle&#34; src=&#34;https://uvammm.github.io/images/cam.jpg&#34; height=250 width=200&gt;&lt;br&gt;
+&lt;A href=&#34;https://www.linkedin.com/in/cameron-lloyd/&#34;&gt;
+Cameron Lloyd
+&lt;/a&gt; (CS 4th-year Student)&lt;br&gt;
+Office hours: &lt;b&gt;TBD&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
+
+&lt;p&gt;This course explores connections between Computer Science and
+Economics, and aims to develop students who can work in
+interdisciplinary teams to use techniques from both computer science
+and economics to solve important societal problems.&lt;/p&gt;
+
+&lt;p&gt;Likely topics include causation, statistical machine learning, natural
+experiments, resource allocation, game theory, auction theory,
+mechanism design, and privacy.&lt;/p&gt;
+
+&lt;h1 id=&#34;assignments&#34;&gt;Assignments&lt;/h1&gt;
+
+&lt;p&gt;The main assignments for the class will be a series of team projects
+where students will be grouped into teams of two to four students,
+including both computer scientists and economists. The project teams
+and assignments will emulate the work of real interdisciplinary teams
+at leading companies. It will be the team&amp;rsquo;s responsibility to
+distribute the tasks, communicate with each other and explain in the
+project report what part of the project was completed by what team
+member.&lt;/p&gt;
+
+&lt;p&gt;For the final project, students will have an opportunity to define
+their own open-ended project to answer an interesting question about
+the world using methods and techniques from the class.&lt;/p&gt;
+
+&lt;p&gt;In addition to the project assignments, there will be reading
+assignments and other preparation assignments for classes, and there
+may be some individual problem sets or quizzes (we hope that these
+will not be necessary, but will use them if it seems like they will be
+helpful for improving engagement in the class, or if there are
+students who are not contributing fully to team assignments).&lt;/p&gt;
+
+&lt;p&gt;The due dates for the projects are below.  Unless specified different,
+projects will be due at the beginning of class on the due date.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tuesday, 21 January:&lt;/strong&gt; Project 1: Predictions from Data (warm-up)&lt;br /&gt;
+&lt;strong&gt;Thursday, 30 January:&lt;/strong&gt; Project 2: Market Predictions&lt;br /&gt;
+&lt;strong&gt;Thursday, 13 February:&lt;/strong&gt; Project 3: Allocating Kidneys&lt;br /&gt;
+&lt;strong&gt;Tuesday, 3 March:&lt;/strong&gt; Project 4: On-Line Auctions&lt;/p&gt;
+
+&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Thursday, 19 March:&lt;/strong&gt; Team and General Idea&lt;br /&gt;
+&lt;strong&gt;Sunday, 29 March:&lt;/strong&gt; Project Proposal&lt;br /&gt;
+&lt;strong&gt;Thursday, 9 April:&lt;/strong&gt; Progress Report&lt;br /&gt;
+&lt;strong&gt;23 or 28 April:&lt;/strong&gt; Final Presentations&lt;br /&gt;
+&lt;strong&gt;Tuesday, 28 April:&lt;/strong&gt; Final Project Report&lt;/p&gt;
+
+&lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;
+
+&lt;p&gt;Grading will be based primarily on your performance on the projects,
+with adjustments for outstanding contributions to the class.  For team
+projects, everyone in a team will normally receive the same grade,
+except in situations where there are problems or where not all team
+members contribute fully to the project. All students are expected to
+be present at all the project meetings and presentations.&lt;/p&gt;
+
+&lt;p&gt;Grades will be calculated with several different weightings, where
+your grade is based primarily on whichever weighting results in the
+highest score. The range of possible weightings is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project 1: 0-5%&lt;/li&gt;
+&lt;li&gt;Project 2: 5-15%&lt;/li&gt;
+&lt;li&gt;Project 3: 10-20%&lt;/li&gt;
+&lt;li&gt;Project 4: 10-25%&lt;/li&gt;
+&lt;li&gt;Final Project: 25-75%&lt;/li&gt;
+&lt;li&gt;Class Contribution: 0-25%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spend your energy focusing on what you are learning, instead of
+worrying about your grade.&lt;/p&gt;
+
+&lt;h2 id=&#34;honor&#34;&gt;Honor&lt;/h2&gt;
+
+&lt;p&gt;We believe strongly in the value of a &lt;em&gt;community of trust&lt;/em&gt;, and expect
+all of the students in this class to contribute to strenghtening and
+enhancing that community.&lt;/p&gt;
+
+&lt;p&gt;As a student at the University of Virginia, you are trusted to be
+honorable and expected to behave in ways that merit that trust. We
+take advantage of this trust to provide a better learning environment
+for everyone.  The course will be better for everyone if everyone can
+assume everyone else is trustworthy, and we start from the assumption
+that all students at the university deserve to be trusted.&lt;/p&gt;
+
+&lt;p&gt;For most assignments in this course, you will be expected to work in a
+team.  We expect you to be honest, fair, and respectful with your
+teammates, and to contribute fully to your team to the best of your
+ability.  We also expect you to notify the course staff if there are
+any problems with your team, or if you have teammates that are not
+behaving honorably.&lt;/p&gt;
+
+&lt;p&gt;You will always be expected to credit any collaborators and properly
+cite any resources you use.&lt;/p&gt;
+
+&lt;h3 id=&#34;expectations-and-accommodations&#34;&gt;Expectations and Accommodations&lt;/h3&gt;
+
+&lt;p&gt;If you anticipate any issues related to the format, materials, or
+requirements of this course, please meet with one of the instructors
+outside of class so we can explore potential options. Students with
+disabilities may also wish to work with the Student Disability Access
+Center to discuss a range of options to removing barriers in this
+course, including official accommodations. Please visit their website
+for information on this process and to apply for services online:
+&lt;a href=&#34;sdac.studenthealth.virginia.edu&#34;&gt;sdac.studenthealth.virginia.edu&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://uvammm.github.io/syllabus/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/syllabus/</guid>
       <description>
 
 &lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://uvammm.github.io/docs/syllabus.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
