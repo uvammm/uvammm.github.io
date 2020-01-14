@@ -3,7 +3,7 @@ date = "14 Jan 2020"
 draft = false
 title = "Class 1: Introduction, Causation"
 author = "David Evans"
-slug = "survey"
+slug = "class1"
 +++
 
 # Schedule
