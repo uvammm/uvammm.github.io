@@ -97,7 +97,7 @@ projects will be due at the beginning of class on the due date.
 
 ### Final Project
 
-**Thursday, 19 March:**: Team and General Idea  
+**Thursday, 19 March:** Team and General Idea  
 **Sunday, 29 March:** Project Proposal  
 **Thursday, 9 April:** Progress Report  
 **23 or 28 April:** Final Presentations  
