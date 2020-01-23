@@ -12,7 +12,7 @@ Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
 # Projects
 
 **Tuesday, 21 January:** Project 1: Predictions from Data (warm-up)  
-**Thursday, 30 January:** Project 2: Market Predictions  
+**Tuesday, 4 February:** [Project 2: Market Predictions](/project2)
 **Thursday, 13 February:** Project 3: Allocating Kidneys  
 **Tuesday, 3 March:** Project 4: On-Line Auctions
 
@@ -27,3 +27,6 @@ Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
 # Classes
 
 14 January: [Class 1: Introduction](/class1)
+16 January: [Class 2: Why do we need casual inference?](/class2)
+21 January: [Class 3: Introduction to Statistical Learning Theory](/class3)
+23 January: [Class 4: Cost of Empirical Risk Minimization](/class4)
