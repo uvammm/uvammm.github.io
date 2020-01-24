@@ -26,7 +26,9 @@ Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
 
 # Classes
 
-14 January: [Class 1: Introduction](/class1)
-16 January: [Class 2: Why do we need causal inference?](/class2)
-21 January: [Class 3: Introduction to Statistical Learning Theory](/class3)
-23 January: [Class 4: Cost of Empirical Risk Minimization](/class4)
+14 January: [Class 1: Introduction](/class1)  
+16 January: [Class 2: Why do we need causal inference?](/class2)  
+21 January: [Class 3: Introduction to Statistical Learning Theory](/class3)  
+23 January: [Class 4: Cost of Empirical Risk Minimization](/class4)  
+
+
