@@ -15,6 +15,8 @@ works best on a (secret until then) testing data set. You should
 follow the spirit of this project, not try to cheat (for example, see
 [_How a Kaggle Grandmaster cheated in $25,000 AI contest with hidden
 code – and was fired from dream SV
-job_](https://www.theregister.co.uk/2020/01/21/ai_kaggle_contest_cheat/)). If
-you do discover a way to "cheat", you can get "bonus points" for this,
-but please don't use it in the model you submit for the competition.
+job_](https://www.theregister.co.uk/2020/01/21/ai_kaggle_contest_cheat/)
+- this is an extreme example of the kind of overfitting we talked
+about [last class](/class4)). If you do discover a way to "cheat", you can get
+"bonus points" for this, but please don't use it in the model you
+submit for the competition.

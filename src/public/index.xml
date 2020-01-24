@@ -42,9 +42,11 @@ works best on a (secret until then) testing data set. You should
 follow the spirit of this project, not try to cheat (for example, see
 &lt;a href=&#34;https://www.theregister.co.uk/2020/01/21/ai_kaggle_contest_cheat/&#34;&gt;&lt;em&gt;How a Kaggle Grandmaster cheated in $25,000 AI contest with hidden
 code – and was fired from dream SV
-job&lt;/em&gt;&lt;/a&gt;). If
-you do discover a way to &amp;ldquo;cheat&amp;rdquo;, you can get &amp;ldquo;bonus points&amp;rdquo; for this,
-but please don&amp;rsquo;t use it in the model you submit for the competition.&lt;/p&gt;
+job&lt;/em&gt;&lt;/a&gt;
+- this is an extreme example of the kind of overfitting we talked
+about &lt;a href=&#34;https://uvammm.github.io/class4&#34;&gt;last class&lt;/a&gt;). If you do discover a way to &amp;ldquo;cheat&amp;rdquo;, you can get
+&amp;ldquo;bonus points&amp;rdquo; for this, but please don&amp;rsquo;t use it in the model you
+submit for the competition.&lt;/p&gt;
 </description>
     </item>
     
