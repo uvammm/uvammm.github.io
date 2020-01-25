@@ -31,25 +31,25 @@ and ECON 3720 or 4720 as a prerequisite.
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%"> 
   <img class="img-circle" src="/images/dave-2.jpg" height=250 width=200><br>
 <a href="https://www.cs.virginia.edu/evans">David Evans</a> (Professor of Computer Science)<br>
-Office hours: <b>TBD</b>
+Office hours: <b>Fridays, 8:30-10:00am</b> (Rice 507)
   </div>
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
   <img class="img-circle" src="/images/denis-2.jpg" height=250 width=200><br>
 <a href="http://people.virginia.edu/~dn4w/">Denis Nekipelov</a> (Professor of Economics)<br>
-Office hours: <b>TBD</b>
+Office hours: <b>Tuesdays, 11am-12:30pm</b> (Monroe 254)
   </div></div>
   <div style="display: table-row; padding: 0.5rem">
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
   <img class="img-circle" src="/images/missing.png" height=250 width=200><br>
 <a href="https://economics.virginia.edu/people/profile/kd5tt">Kyeongtak Do</a> (Economics PhD Student)<br>
-Office hours: <b>TBD</b>
+Office hours: <b>Thursdays, 11am-12:30pm</b>
   </div>
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
 <img class="img-circle" src="/images/cam.jpg" height=250 width=200><br>
 <A href="https://www.linkedin.com/in/cameron-lloyd/">
 Cameron Lloyd
 </a> (CS 4th-year Student)<br>
-Office hours: <b>TBD</b>
+Office hours: <b>Mondays, 6-7:30pm</b>
   </div>
   </div>
 </section>
