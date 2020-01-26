@@ -13,7 +13,7 @@ Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
 
 Cameron Lloyd, Mondays, 6-7:30pm  
 Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)  
-Kyeongtak Do, Thursdays, 11am-12:30pm  
+Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)  
 David Evans, Fridays, 8:30-10:00am (Rice 507)
 
 

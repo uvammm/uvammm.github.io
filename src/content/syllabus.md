@@ -42,7 +42,7 @@ Office hours: <b>Tuesdays, 11am-12:30pm</b> (Monroe 254)
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
   <img class="img-circle" src="/images/missing.png" height=250 width=200><br>
 <a href="https://economics.virginia.edu/people/profile/kd5tt">Kyeongtak Do</a> (Economics PhD Student)<br>
-Office hours: <b>Thursdays, 11am-12:30pm</b>
+Office hours: <b>Thursdays, 11am-12:30pm</b> (Monroe Basement)
   </div>
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%">
 <img class="img-circle" src="/images/cam.jpg" height=250 width=200><br>
