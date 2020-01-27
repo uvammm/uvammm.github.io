@@ -6,8 +6,31 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Office Hours Schedule</title>
+      <link>https://uvammm.github.io/officehours/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/officehours/</guid>
+      <description>&lt;p&gt;The office hours schedule is now set:&lt;/p&gt;
+
+&lt;p&gt;Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)&lt;br /&gt;
+Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)&lt;br /&gt;
+Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)&lt;br /&gt;
+David Evans, Fridays, 8:30-10:00am (Rice 507)&lt;/p&gt;
+
+&lt;p&gt;You don&amp;rsquo;t need to make an appointment for office hours - the point of
+them is that you can just stop by and discuss whatever you want. If
+you do want to meet with one of us but can&amp;rsquo;t make an office hours
+time, best to send a message on slack to schedule another time (or for
+me, you can use
+&lt;a href=&#34;https://davidevans.youcanbook.me/&#34;&gt;https://davidevans.youcanbook.me/&lt;/a&gt;
+to schedule it directly).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Survey Questions Answered</title>
