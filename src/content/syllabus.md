@@ -49,7 +49,7 @@ Office hours: <b>Thursdays, 11am-12:30pm</b> (Monroe Basement)
 <A href="https://www.linkedin.com/in/cameron-lloyd/">
 Cameron Lloyd
 </a> (CS 4th-year Student)<br>
-Office hours: <b>Mondays, 6-7:30pm</b>
+Office hours: <b>Mondays, 6-7:30pm</b> (Rice 442)
   </div>
   </div>
 </section>
