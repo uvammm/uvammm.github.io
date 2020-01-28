@@ -19,7 +19,7 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 
 # Projects
 
-**Tuesday, 21 January:** Project 1: Predictions from Data (warm-up)  
+**Tuesday, 21 January:** [Project 1: Predictions from Data](/project1) (warm-up)  
 **Tuesday, 4 February:** [Project 2: Market Predictions](/project2)  
 **Tuesday, 18 February:** Project 3: Allocating Kidneys  
 **Tuesday, 3 March:** Project 4: On-Line Auctions
