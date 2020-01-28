@@ -91,8 +91,8 @@ The due dates for the projects are below.  Unless specified different,
 projects will be due at the beginning of class on the due date.
 
 **Tuesday, 21 January:** Project 1: Predictions from Data (warm-up)  
-**Thursday, 30 January:** Project 2: Market Predictions  
-**Thursday, 13 February:** Project 3: Allocating Kidneys  
+**Tuesday, 4 February** <strike>Thursday, 30 January</strike>: Project 2: Market Predictions  
+**Tuesday, 18 February** <strike>Thursday, 13 February</strike>:** Project 3: Allocating Kidneys  
 **Tuesday, 3 March:** Project 4: On-Line Auctions
 
 ### Final Project
