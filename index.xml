@@ -6,8 +6,38 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 7: Matching without Markets</title>
+      <link>https://uvammm.github.io/class7/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class7/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/lxmsantv87lccuv/class7.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/stablematching.ipynb&#34;&gt;stablematching.ipynb&lt;/a&gt; - Jupyter notebook with code for Gale-Shapley algorithm&lt;/p&gt;
+
+&lt;p&gt;D. Gale and L. S. Shapley, &lt;a href=&#34;https://uvammm.github.io/docs/gale-shapley.pdf&#34;&gt;&lt;em&gt;College Admissions and the Stability of Marriage&lt;/em&gt;&lt;/a&gt;. The American Mathematical Monthly. Jan 1962. (&lt;a href=&#34;https://youtu.be/l_FWKLpoGBc&#34;&gt;2019 Superbowl commercial about optimality proof&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Alvin Roth and Elliott Peranson, &lt;a href=&#34;https://uvammm.github.io/docs/roth-peranson.pdf&#34;&gt;&lt;em&gt;The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design&lt;/em&gt;&lt;/a&gt;. American Economic Review, Sept 1999.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t trust a central authority to do the matching fairly or keep the preferences secret, you can use secure computation:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jack Doerner, David Evans, abhi shelat. &lt;a href=&#34;http://oblivc.org/docs/matching.pdf&#34;&gt;&lt;em&gt;Secure Stable Matching at Scale&lt;/em&gt;&lt;/a&gt;.  In &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2016/&#34;&gt;&lt;em&gt;23&lt;sup&gt;rd&lt;/sup&gt; ACM Conference on Computer and Communications Security&lt;/em&gt;&lt;/a&gt; (CCS). Vienna, Austria. 24-28 October 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;India&amp;rsquo;s &lt;a href=&#34;https://josaa.nic.in/webinfocms/Public/View.aspx?page=71&#34;&gt;Joint Entrance Examination&lt;/a&gt;, &lt;a href=&#34;https://www.collegepravesh.com/cutoff/iit-bombay-cutoff-2019/&#34;&gt;cut-off ranks for IIT Bombay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 6: Experiments and False Findings</title>
@@ -884,21 +914,6 @@ Center to discuss a range of options to removing barriers in this
 course, including official accommodations. Please visit their website
 for information on this process and to apply for services online:
 &lt;a href=&#34;sdac.studenthealth.virginia.edu&#34;&gt;sdac.studenthealth.virginia.edu&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://uvammm.github.io/welcome/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for the joint Economics/Computer Science
-course, &lt;em&gt;Markets, Mechanisms, and Machines&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;More information will be posted here soon. For
-now, you can get a rough idea what the course will be like by looking
-at the &lt;a href=&#34;https://uvammm.github.io/s19&#34;&gt;Spring 2019 version of the course&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
