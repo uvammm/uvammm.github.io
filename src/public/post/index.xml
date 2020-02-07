@@ -24,6 +24,24 @@
     </item>
     
     <item>
+      <title>Project 3</title>
+      <link>https://uvammm.github.io/project3posted/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project3posted/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3/&#34;&gt;Project 3&lt;/a&gt; is now posted, and is due 9:59pm, Tuesday, 18
+February 2020 (note the later than normal due time).&lt;/p&gt;
+
+&lt;p&gt;For instructions for Project 3, see the
+&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;Project 3 Notebook&lt;/a&gt;. You will also want to download:
+&lt;ul&gt;
+&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/simulator.py&#34;&gt;simulator.py&lt;/a&gt; (Kidney exchange simulator)
+&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/patients.csv&#34;&gt;patients.csv&lt;/a&gt; (provided dataset of patients that you should use for the notebook questions)
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Class 7: Matching without Markets</title>
       <link>https://uvammm.github.io/class7/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>

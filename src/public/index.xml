@@ -24,6 +24,24 @@
     </item>
     
     <item>
+      <title>Project 3</title>
+      <link>https://uvammm.github.io/project3posted/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project3posted/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3/&#34;&gt;Project 3&lt;/a&gt; is now posted, and is due 9:59pm, Tuesday, 18
+February 2020 (note the later than normal due time).&lt;/p&gt;
+
+&lt;p&gt;For instructions for Project 3, see the
+&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;Project 3 Notebook&lt;/a&gt;. You will also want to download:
+&lt;ul&gt;
+&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/simulator.py&#34;&gt;simulator.py&lt;/a&gt; (Kidney exchange simulator)
+&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/patients.csv&#34;&gt;patients.csv&lt;/a&gt; (provided dataset of patients that you should use for the notebook questions)
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Project 3: Kidney Exchange</title>
       <link>https://uvammm.github.io/project3/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
@@ -593,59 +611,6 @@ a file).&lt;/p&gt;
 &lt;a href=&#34;https://forms.gle/5gmDkR5xnA6xFfst5&#34;&gt;https://forms.gle/5gmDkR5xnA6xFfst5&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(You should do this if you want to take the class, whether or not you are officially enrolled in it now.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvammm.github.io/schedule/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/schedule/</guid>
-      <description>
-
-&lt;h1 id=&#34;class-meetings&#34;&gt;Class Meetings&lt;/h1&gt;
-
-&lt;p&gt;Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.&lt;/p&gt;
-
-&lt;h3 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h3&gt;
-
-&lt;p&gt;Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)&lt;br /&gt;
-Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)&lt;br /&gt;
-Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)&lt;br /&gt;
-David Evans, Fridays, 8:30-10:00am (Rice 507)&lt;/p&gt;
-
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Tuesday, 21 January:&lt;/strong&gt; &lt;a href=&#34;https://uvammm.github.io/project1&#34;&gt;Project 1: Predictions from Data&lt;/a&gt; (warm-up)&lt;br /&gt;
-&lt;strong&gt;Tuesday, 4 February:&lt;/strong&gt; &lt;a href=&#34;https://uvammm.github.io/project2&#34;&gt;Project 2: Market Predictions&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Tuesday, 18 February:&lt;/strong&gt; &lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3: Allocating Kidneys&lt;/a&gt;
-&lt;strong&gt;Tuesday, 3 March:&lt;/strong&gt; Project 4: On-Line Auctions&lt;/p&gt;
-
-&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursday, 19 March:&lt;/strong&gt; Team and General Idea&lt;br /&gt;
-&lt;strong&gt;Sunday, 29 March:&lt;/strong&gt; Project Proposal&lt;br /&gt;
-&lt;strong&gt;Thursday, 9 April:&lt;/strong&gt; Progress Report&lt;br /&gt;
-&lt;strong&gt;23 or 28 April:&lt;/strong&gt; Final Presentations&lt;br /&gt;
-&lt;strong&gt;Tuesday, 28 April:&lt;/strong&gt; Final Project Report&lt;/p&gt;
-
-&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
-
-&lt;p&gt;14 January: &lt;a href=&#34;https://uvammm.github.io/class1&#34;&gt;Class 1: Introduction&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;causation&#34;&gt;Causation&lt;/h3&gt;
-
-&lt;p&gt;16 January: &lt;a href=&#34;https://uvammm.github.io/class2&#34;&gt;Class 2: Why do we need causal inference?&lt;/a&gt;&lt;br /&gt;
-21 January: &lt;a href=&#34;https://uvammm.github.io/class3&#34;&gt;Class 3: Introduction to Statistical Learning Theory&lt;/a&gt;&lt;br /&gt;
-23 January: &lt;a href=&#34;https://uvammm.github.io/class4&#34;&gt;Class 4: Cost of Empirical Risk Minimization&lt;/a&gt;&lt;br /&gt;
-28 January: Class 5&lt;br /&gt;
-30 January: &lt;a href=&#34;https://uvammm.github.io/class6&#34;&gt;Class 6: Experiments and False Findings&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;centralized-resource-allocation&#34;&gt;Centralized Resource Allocation&lt;/h3&gt;
-
-&lt;p&gt;04 February: &lt;a href=&#34;https://uvammm.github.io/class7&#34;&gt;Class 7: Matching without Markets (Stable Matching)&lt;/a&gt;&lt;br /&gt;
-06 February: &lt;a href=&#34;https://uvammm.github.io/class8&#34;&gt;Class 8: Centralized Resource Allocation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
