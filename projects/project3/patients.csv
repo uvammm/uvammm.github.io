@@ -1,4 +1,4 @@
-TimePeriod,ReceiverTissueID,ReceiverBloodType,ReceiverPRA,ReceiverSurvivalPrb,DonorTissueID,DonorBloodType
+TimePeriod,ReceiverID,ReceiverBloodType,ReceiverPRA,ReceiverSurvivalPrb,DonorID,DonorBloodType
 0,2321,B,Medium,0.21,9869,O
 0,4049,O,Low,0.12,8262,A
 0,5538,B,Low,0.47,5611,A
