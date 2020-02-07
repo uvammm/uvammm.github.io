@@ -21,7 +21,7 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 
 **Tuesday, 21 January:** [Project 1: Predictions from Data](/project1) (warm-up)  
 **Tuesday, 4 February:** [Project 2: Market Predictions](/project2)  
-**Tuesday, 18 February:** Project 3: Allocating Kidneys  
+**Tuesday, 18 February:** [Project 3: Allocating Kidneys](/project3)
 **Tuesday, 3 March:** Project 4: On-Line Auctions
 
 ### Final Project
@@ -35,8 +35,19 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 # Classes
 
 14 January: [Class 1: Introduction](/class1)  
+
+### Causation
+
 16 January: [Class 2: Why do we need causal inference?](/class2)  
 21 January: [Class 3: Introduction to Statistical Learning Theory](/class3)  
 23 January: [Class 4: Cost of Empirical Risk Minimization](/class4)  
+28 January: Class 5  
+30 January: [Class 6: Experiments and False Findings](/class6)  
+
+### Centralized Resource Allocation 
+
+04 February: [Class 7: Matching without Markets (Stable Matching)](/class7)  
+06 February: [Class 8: Centralized Resource Allocation](/class8)  
+
 
 
