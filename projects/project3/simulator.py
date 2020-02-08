@@ -149,22 +149,25 @@ def rand_pair():
     assert not is_pair_compatible(receiver=pair_dict, donor=pair_dict)
     return pair_dict
  
-def generate_dataset(ntimeperiods, npatients):
+def generate_dataset(ntimeperiods, npatients, output=False):
     random.seed(45014730)
     patients = []
     keys = ['TimePeriod', 'ReceiverID', 'ReceiverBloodType', 'ReceiverPRA', 
             'ReceiverSurvivalPrb', 'DonorID', 'DonorBloodType']
     idsused = []
-    #print(','.join(keys))
+    if output:
+        print(','.join(keys))
     for t in range(ntimeperiods):
         for i in range(npatients):
             pair_dict = rand_pair()
             while pair_dict['ReceiverID'] in idsused or pair_dict['DonorID'] in idsused:
                 pair_dict = rand_pair() # redraw
-            #print(','.join([str(t)] + [str(pair_dict[k]) for k in keys[1:]]))
+            if output:
+                print(','.join([str(t)] + [str(pair_dict[k]) for k in keys[1:]]))
             pair_dict['TimePeriod'] = t
             patients.append(pair_dict)
-            idsused += [pair_dict['ReceiverID'], pair_dict['DonorID']]
+            idsused += [pair_dict['ReceiverID']]
+            idsused += [pair_dict['DonorID']]
 
     return patients
 
@@ -284,9 +287,9 @@ def run_simulation(matcher, patients, ntimeperiods):
 
 if __name__ == "__main__":
     # this generated the patients.csv file: 
-    generate_dataset(10, 100)
-    
-    #exit()
+    # patients = generate_dataset(10, 100, output=True)
+    # exit()
+
     ## patients = read_dataset('patients.csv')
     patients = generate_dataset(10, 1000)
     olen = len(patients)
