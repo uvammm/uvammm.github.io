@@ -48,6 +48,8 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 
 04 February: [Class 7: Matching without Markets (Stable Matching)](/class7)  
 06 February: [Class 8: Centralized Resource Allocation](/class8)  
+11 February: [Class 9: Kidney Exchange](/class9)  
+13 February: [Class 10: Graph Theory](/class10)  
 
 
 
