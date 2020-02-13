@@ -6,26 +6,8 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Class 10: Graph Theory</title>
-      <link>https://uvammm.github.io/class10/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class10/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule-reminder&#34;&gt;Schedule Reminder&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; is due Tuesday, 18 February (9:59pm).&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/8papraaody7m2hs/class10.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Class 9: Kidney Exchange</title>
@@ -565,6 +547,71 @@ a file).&lt;/p&gt;
 &lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/2gv5p9152udfr0c/class1.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Housing Price Prediction</title>
+      <link>https://uvammm.github.io/project1/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project1/</guid>
+      <description>&lt;div class=&#34;due&#34;&gt;
+Project 1 is due &lt;b&gt;Tuesday, 21 January, 9:29am&lt;/b&gt;.
+   &lt;/div&gt;
+
+&lt;p&gt;Communicate with your classmates to form teams of four. Each team
+should have at least one CS major and at least one Econ major. Your
+team should work together on this assignment. All team members should
+fully understand everything you submit.  If there are parts you
+understand quickly but are new to your partner, it is your
+responsibility to explain them to your partner until everyone
+understands.  If there are parts that your partner understands quickly
+but that are new to you, it is your responsibility to insist that your
+partner explains things to you until you understand them well.&lt;/p&gt;
+
+&lt;p&gt;To do Project 1, you will need to install &lt;a
+href=&#34;https://jupyter.org/&#34;&gt;Jupyter&lt;/a&gt;. Follow the directions at &lt;a
+href=&#34;https://jupyter.org/install.html&#34;&gt;https://jupyter.org/install.html&lt;/a&gt;. (As
+in the directions there, we recommend using &lt;a
+href=&#34;https://www.anaconda.com/downloads&#34;&gt;Anaconda&lt;/a&gt;, which will
+also install Python and many useful Python packages. The instructions
+in the project notebook assume you have installed Anaconda.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve installed Jupyter, download the Project 1 Notebook:
+&lt;a
+href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project1.ipynb&#34;&gt;&lt;code&gt;project1.ipynb&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Then download the data contained in &lt;a href=&#34;https://www.dropbox.com/s/kfuqovtz5lv2529/zillow-prize-1.zip?dl=0&#34;&gt;zillow-prize-1.zip&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then run:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;jupyter notebook project1.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;to get started. This will start the jupyter local server and open the notebook in your web browser.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The notebook contains the questions and starting code for Project
+1. You will do your assignment by editing this file, and will submit
+your completed jupyter notebook as your assignment.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
+Submit your Project 1 notebook by &lt;b&gt;Tuesday, 21 January, 9:29am&lt;/b&gt; by creating a slack group (click
+“Direct Messages”) containing you and your teammate and the four
+course staff: &lt;code&gt;@Cam&lt;/code&gt; &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Kyeongtak&lt;/code&gt;. Submit your
+project to that group chat by attaching your jupyter notebook to a
+message (use the “+” at the left of the message entry field to attach
+a file).&lt;/p&gt;
+
+&lt;p&gt;You should include a comment at the top of the notebook that contains:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammate)&lt;/li&gt;
+&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
