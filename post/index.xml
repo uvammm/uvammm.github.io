@@ -6,8 +6,31 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 11: Game Theory</title>
+      <link>https://uvammm.github.io/class11/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class11/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ciptxo1j1v7u2rx/class11.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;John von Neumann and Oskar Morgenstern, &lt;a href=&#34;https://uvammm.github.io/docs/theoryofgames.pdf&#34;&gt;&lt;em&gt;Theory of Games and Economic
+Behavior&lt;/em&gt;&lt;/a&gt;. 1944.&lt;/p&gt;
+
+&lt;p&gt;Ran Canetti and Alon Rosen, &lt;a href=&#34;http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe6.pdf&#34;&gt;&lt;em&gt;Basics of Game
+Theory&lt;/em&gt;&lt;/a&gt;
+(lecture from &lt;em&gt;Crytography and Game Theory&lt;/em&gt; course, November 2009.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 10: Graph Theory</title>
@@ -469,21 +492,6 @@ submit for the competition.&lt;/p&gt;
 &lt;a href=&#34;https://forms.gle/5gmDkR5xnA6xFfst5&#34;&gt;https://forms.gle/5gmDkR5xnA6xFfst5&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(You should do this if you want to take the class, whether or not you are officially enrolled in it now.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://uvammm.github.io/welcome/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for the joint Economics/Computer Science
-course, &lt;em&gt;Markets, Mechanisms, and Machines&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;More information will be posted here soon. For
-now, you can get a rough idea what the course will be like by looking
-at the &lt;a href=&#34;https://uvammm.github.io/s19&#34;&gt;Spring 2019 version of the course&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

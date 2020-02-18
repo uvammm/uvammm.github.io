@@ -6,8 +6,31 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 11: Game Theory</title>
+      <link>https://uvammm.github.io/class11/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class11/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ciptxo1j1v7u2rx/class11.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;John von Neumann and Oskar Morgenstern, &lt;a href=&#34;https://uvammm.github.io/docs/theoryofgames.pdf&#34;&gt;&lt;em&gt;Theory of Games and Economic
+Behavior&lt;/em&gt;&lt;/a&gt;. 1944.&lt;/p&gt;
+
+&lt;p&gt;Ran Canetti and Alon Rosen, &lt;a href=&#34;http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe6.pdf&#34;&gt;&lt;em&gt;Basics of Game
+Theory&lt;/em&gt;&lt;/a&gt;
+(lecture from &lt;em&gt;Crytography and Game Theory&lt;/em&gt; course, November 2009.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 10: Graph Theory</title>
@@ -541,30 +564,6 @@ a file).&lt;/p&gt;
 &lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class2.pdf&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 1: Introduction, Causation</title>
-      <link>https://uvammm.github.io/class1/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class1/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;Everyone wanting to be in the class should:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Submit the &lt;a href=&#34;https://forms.gle/5gmDkR5xnA6xFfst5&#34;&gt;MMM Pre-Semester Survey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Join the &lt;a href=&#34;https://uvammm.slack.com/signup&#34;&gt;Course Slack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Start forming a team for &lt;a href=&#34;https://uvammm.github.io/project1&#34;&gt;Project 1&lt;/a&gt; (you can use the &lt;code&gt;#teaming&lt;/code&gt; channel in slack to find teammates). Your team should be 2 Econ majors and 2 CS majors. (If you don&amp;rsquo;t find a full team, we will help form teams at Thursday&amp;rsquo;s class.)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/2gv5p9152udfr0c/class1.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
