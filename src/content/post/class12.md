@@ -34,4 +34,12 @@ Will Define
 
 We will finish finding the optimal strategy next class!
 
+## Links
+
+John F. Nash, Jr. [_Equilibrium Points in N-Person
+Games_](https://www.pnas.org/content/pnas/36/1/48.full.pdf). Proceedings
+of the National Academy of Sciences. 1950.
+
+Here is the infamous scene in _A Beautiful Mind_ where John Nash discovers mixed strategy equilibria: [https://www.youtube.com/watch?v=2d_dtTZQyUM)](https://www.youtube.com/watch?v=2d_dtTZQyUM)
+
 
