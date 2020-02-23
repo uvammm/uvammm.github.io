@@ -6,8 +6,59 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://uvammm.github.io/project4posted/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project4posted/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project4/&#34;&gt;Project 4&lt;/a&gt; is now posted, and is due on &lt;strong&gt;Tuesday, 3
+March, 9:29am&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 4: On-line Advertising Auctions</title>
+      <link>https://uvammm.github.io/project4/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project4/</guid>
+      <description>&lt;div class=&#34;due&#34;&gt;
+Tuesday, 3 March, 9:29am. We will run an on-line auction in class on Tuesday, 3 March. 
+   &lt;/div&gt;
+
+&lt;p&gt;For instructions for Project 4, see the
+&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project4/project4.ipynb&#34;&gt;Project 4 Notebook&lt;/a&gt;. You will also want to download:
+&lt;ul&gt;
+&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project4/app.py&#34;&gt;app.py&lt;/a&gt; (provided code for running the auction server)
+&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project4/auction.py&#34;&gt;auction.py&lt;/a&gt; (provided code for running an auction client)
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Then run,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   
+   jupyter notebook project4.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;to get started. This will start the jupyter local server and open the
+notebook in your web browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
+As with previous projects, submit your final Project 4 notebook by &lt;strong&gt;Tuesday, 3 March, 9:29am&lt;/strong&gt; to a group slack containing you and your teammate and the four course staff: @Dave @Denis Nekipelov @Cam @Kyeongtak Do. After you submit your notebook, you will receive an API key that you will need to connect to the server for the in-class auction.&lt;/p&gt;
+
+&lt;p&gt;You should include a comment at the top of the notebook that contains:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammates)&lt;/li&gt;
+&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 12: Imperfect Information Games</title>
@@ -516,85 +567,6 @@ job&lt;/em&gt;&lt;/a&gt;
 about &lt;a href=&#34;https://uvammm.github.io/class4&#34;&gt;last class&lt;/a&gt;). If you do discover a way to &amp;ldquo;cheat&amp;rdquo;, you can get
 &amp;ldquo;bonus points&amp;rdquo; for this, but please don&amp;rsquo;t use it in the model you
 submit for the competition.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 2: Zesty Kaggle Challenge</title>
-      <link>https://uvammm.github.io/project2/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project2/</guid>
-      <description>&lt;div class=&#34;due&#34;&gt;
-Project 2 is due &lt;b&gt;Tuesday, 4 February, 9:29am&lt;/b&gt;.
-   &lt;/div&gt;
-
-&lt;p&gt;For this project you will work with the same team of four that you
-formed for the first project (DM instructors on Slack if you would
-like to switch teams announce teams in slack).  All team members
-should fully understand everything you submit.  If there are parts you
-understand quickly but are new to your partners, it is your
-responsibility to explain them to your partners until everyone
-understands.  If there are parts that your partners understand quickly
-but that are new to you, it is your responsibility to insist that your
-partners explain things to you until you understand them well.&lt;/p&gt;
-
-&lt;p&gt;To do Project 2, we continue using Jupyter. Project 2 Notebook is available at:
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project2v4.ipynb&#34;&gt;project2.ipynb&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Then run,&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;   
-   jupyter notebook project2.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;to get started. This will start the jupyter local server and open the
-notebook in your web browser.&lt;/p&gt;
-
-&lt;p&gt;The notebook contains the questions and starting code for Project
-2. You will do your assignment by editing this file, and will submit
-your completed jupyter notebook as your assignment.&lt;/p&gt;
-
-&lt;p&gt;Using the prediction algorithm developed by your team write Python
-script that uses the model for prediction. Your script will be entered
-in team competition in which we run each team&amp;rsquo;s script on (secret)
-challenge data. The team with the smallest prediction error in their
-algorithm will win the challenge. You create the sript by copying the
-algorithm that you created in your Notebook to the template script
-available at
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/predictor.py&#34;&gt;predictor.py&lt;/a&gt;.
-You will do your assignment by editing this file, and will submit
-your completed script. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
-Submit your Project 2 notebook by &lt;b&gt;Tuesday, 4 February, 9:29am&lt;/b&gt; by creating a slack group (click
-“Direct Messages”) containing you and your teammate and the four
-course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Cam&lt;/code&gt; &lt;code&gt;@Kyeongtak Do&lt;/code&gt;. Submit your
-project to that group chat by attaching your jupyter notebook and Python script to a
-message (use the “+” at the left of the message entry field to attach
-a file).&lt;/p&gt;
-
-&lt;p&gt;You should include a comment at the top of the notebook that contains:
-&lt;ol&gt;
-&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammates)&lt;/li&gt;
-&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 3: Introduction to Statistical Learning Theory</title>
-      <link>https://uvammm.github.io/class3/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class3/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class3.pdf&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

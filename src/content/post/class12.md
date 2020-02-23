@@ -27,7 +27,6 @@ Christian Paget
 Shen Yan  
 Will Define  
 
-
 # Slides
 
 [Slides (PDF)](https://www.dropbox.com/s/6m2o8eord3qq2vo/class12.pdf?dl=0)
