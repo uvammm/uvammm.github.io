@@ -6,8 +6,62 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 14: Poker Wrap-up, Auction Theory</title>
+      <link>https://uvammm.github.io/class14/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class14/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/sjc8yhap7clhghx/class14-wrapup.pdf?dl=0&#34;&gt;Poker Game Wrap-up (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/cmdf2p6m3ztljsu/class14.pdf?dl=0&#34;&gt;Class 14 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 15: In-Class Auction, Auction Theory</title>
+      <link>https://uvammm.github.io/class15/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class15/</guid>
+      <description>
+
+&lt;h1 id=&#34;in-class-auction&#34;&gt;In-Class Auction&lt;/h1&gt;
+
+&lt;p&gt;Congratulations to Kiara Gan, Aaron Ho, Rashid Lasker, and Eli Lifland for winning the Project 4 Auction!&lt;/p&gt;
+
+&lt;p&gt;It was a close competition with Team 6 (Anna Davis, Sally Greenberg,
+Chris Puglisi, Courtney Jacobs) and Team 3 (Maxwell Patek, Nicolas
+Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll have some more results and analysis from the auction in class Thursday.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hwynfvfhbrz67uy/class15.pdf?dl=0&#34;&gt;Class 15 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 13: Auction Theory</title>
+      <link>https://uvammm.github.io/class13/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class13/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/6ov0vuqug51uszg/class13.pdf?dl=0&#34;&gt;Class 13 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project 4</title>
@@ -460,57 +514,6 @@ valued and incentives set up to encourage privacy.&lt;/p&gt;
 &lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2/&#34;&gt;Project 2&lt;/a&gt; is due Tuesday, 4 February (9:29am).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>https://uvammm.github.io/project2posted/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project2posted/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2/&#34;&gt;Project 2&lt;/a&gt; is now posted, and is due Tuesday, 4 February (9:29am).&lt;/p&gt;
-
-&lt;p&gt;For Project 2, you will develop your model from &lt;a href=&#34;https://uvammm.github.io/project1/&#34;&gt;Project 1&lt;/a&gt;, with a goal of improving the the &amp;ldquo;Zestimate&amp;rdquo; residual error using the data for 2017 in the &lt;a href=&#34;https://www.kaggle.com/c/zillow-prize-1&#34;&gt;Kaggle Zillow prize competition&lt;/a&gt;. The Kaggle competition has been concluded, so you&amp;rsquo;ll have to settle for learning, wisdom, and glory in place of Zillow&amp;rsquo;s $1.2M prize.&lt;/p&gt;
-
-&lt;p&gt;We will run a competition in class on February 4 to see which model
-works best on a (secret until then) testing data set. You should
-follow the spirit of this project, not try to cheat (for example, see
-&lt;a href=&#34;https://www.theregister.co.uk/2020/01/21/ai_kaggle_contest_cheat/&#34;&gt;&lt;em&gt;How a Kaggle Grandmaster cheated in $25,000 AI contest with hidden
-code – and was fired from dream SV
-job&lt;/em&gt;&lt;/a&gt;
-- this is an extreme example of the kind of overfitting we talked
-about &lt;a href=&#34;https://uvammm.github.io/class4&#34;&gt;last class&lt;/a&gt;). If you do discover a way to &amp;ldquo;cheat&amp;rdquo;, you can get
-&amp;ldquo;bonus points&amp;rdquo; for this, but please don&amp;rsquo;t use it in the model you
-submit for the competition.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 3: Introduction to Statistical Learning Theory</title>
-      <link>https://uvammm.github.io/class3/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class3/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class3.pdf&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 2: Why do we need causal inference?</title>
-      <link>https://uvammm.github.io/class2/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class2/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/docs/class2.pdf&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

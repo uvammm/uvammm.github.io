@@ -51,6 +51,7 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 11 February: [Class 9: Kidney Exchange](/class9)  
 13 February: [Class 10: Graph Theory](/class10)  
 18 February: [Class 11: Game Theory](/class11)  
-
-
-
+20 February: [Class 12: Imperfect Information Games](/class12)  
+25 February: [Class 13: Auction Theory](/class13)  
+27 February: [Class 14: Poker Wrap-up, Auction Theory](/class14)  
+03 March: [Class 15: In-Class Auction, Auction Theory](/class15)  
