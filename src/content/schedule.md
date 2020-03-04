@@ -50,6 +50,9 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 06 February: [Class 8: Centralized Resource Allocation](/class8)  
 11 February: [Class 9: Kidney Exchange](/class9)  
 13 February: [Class 10: Graph Theory](/class10)  
+
+### Distributed Resource Allocation 
+
 18 February: [Class 11: Game Theory](/class11)  
 20 February: [Class 12: Imperfect Information Games](/class12)  
 25 February: [Class 13: Auction Theory](/class13)  
