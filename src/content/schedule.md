@@ -22,11 +22,11 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 **Tuesday, 21 January:** [Project 1: Predictions from Data](/project1) (warm-up)  
 **Tuesday, 4 February:** [Project 2: Market Predictions](/project2)  
 **Tuesday, 18 February:** [Project 3: Allocating Kidneys](/project3)  
-**Tuesday, 3 March:** Project 4: On-Line Auctions
+**Tuesday, 3 March:** [Project 4: On-Line Auctions](/project4)
 
 ### Final Project
 
-**Thursday, 19 March:** Team and General Idea  
+**Thursday, 19 March:** Team and General Idea (see [Class 16](/class16))  
 **Sunday, 29 March:** Project Proposal  
 **Thursday, 9 April:** Progress Report  
 **23 or 28 April:** Final Presentations  
@@ -58,3 +58,7 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 25 February: [Class 13: Auction Theory](/class13)  
 27 February: [Class 14: Poker Wrap-up, Auction Theory](/class14)  
 03 March: [Class 15: In-Class Auction, Auction Theory](/class15)  
+05 March: [Class 16: Auction Results, Project Ideas](/class16)  
+
+
+
