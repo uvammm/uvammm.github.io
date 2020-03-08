@@ -25,12 +25,15 @@
 
 &lt;p&gt;The &lt;em&gt;Team and General Idea&lt;/em&gt; for your final project is due &lt;strong&gt;Thursday, 19 March&lt;/strong&gt; (ready to present in class that day).&lt;/p&gt;
 
-&lt;p&gt;Your team should be prepared to present a few slides with:
-- &lt;strong&gt;Name of your project&lt;/strong&gt;
-- List of your &lt;strong&gt;team members&lt;/strong&gt;
-- Purpose of your project: &lt;em&gt;how it satisfies the four project desiderata&lt;/em&gt;
-- What you &lt;strong&gt;plan to do&lt;/strong&gt;
-- What you hope the &lt;strong&gt;outcome&lt;/strong&gt; will be&lt;/p&gt;
+&lt;p&gt;Your team should be prepared to present a few slides with:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name of your project&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;List of your &lt;strong&gt;team members&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Purpose of your project: &lt;em&gt;how it satisfies the four project desiderata&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;What you &lt;strong&gt;plan to do&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What you hope the &lt;strong&gt;outcome&lt;/strong&gt; will be&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
 
@@ -74,6 +77,30 @@ Big Data Analytics, New Technology, and Proactive Testing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/sjc8yhap7clhghx/class14-wrapup.pdf?dl=0&#34;&gt;Poker Game Wrap-up (PDF)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/cmdf2p6m3ztljsu/class14.pdf?dl=0&#34;&gt;Class 14 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 15: In-Class Auction, Auction Theory</title>
+      <link>https://uvammm.github.io/class15/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class15/</guid>
+      <description>
+
+&lt;h1 id=&#34;in-class-auction&#34;&gt;In-Class Auction&lt;/h1&gt;
+
+&lt;p&gt;Congratulations to Kiara Gan, Aaron Ho, Rashid Lasker, and Eli Lifland for winning the Project 4 Auction!&lt;/p&gt;
+
+&lt;p&gt;It was a close competition with Team 6 (Anna Davis, Sally Greenberg,
+Chris Puglisi, Courtney Jacobs) and Team 3 (Maxwell Patek, Nicolas
+Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll have some more results and analysis from the auction in class Thursday.&lt;/p&gt;
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hwynfvfhbrz67uy/class15.pdf?dl=0&#34;&gt;Class 15 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -371,29 +398,6 @@ a file).&lt;/p&gt;
 &lt;p&gt;John Ioannidis. &lt;a href=&#34;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124&#34;&gt;&lt;em&gt;Why Most Published Research Findings Are False&lt;/em&gt;&lt;/a&gt;. PLOS Medicine, August 2005.&lt;/p&gt;
 
 &lt;p&gt;Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). &lt;a href=&#34;https://uvammm.github.io/docs/controlledExperimentDMKD.pdf&#34;&gt;&lt;em&gt;Controlled experiments on the web: survey and practical guide&lt;/em&gt;&lt;/a&gt;. Data Mining Knowledge and Discovery, 2009.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Office Hours Schedule</title>
-      <link>https://uvammm.github.io/officehours/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/officehours/</guid>
-      <description>&lt;p&gt;The office hours schedule is now set:&lt;/p&gt;
-
-&lt;p&gt;Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)&lt;br /&gt;
-Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)&lt;br /&gt;
-Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)&lt;br /&gt;
-David Evans, Fridays, 8:30-10:00am (Rice 507)&lt;/p&gt;
-
-&lt;p&gt;You don&amp;rsquo;t need to make an appointment for office hours - the point of
-them is that you can just stop by and discuss whatever you want. If
-you do want to meet with one of us but can&amp;rsquo;t make an office hours
-time, best to send a message on slack to schedule another time (or for
-me, you can use
-&lt;a href=&#34;https://davidevans.youcanbook.me/&#34;&gt;https://davidevans.youcanbook.me/&lt;/a&gt;
-to schedule it directly).&lt;/p&gt;
 </description>
     </item>
     
