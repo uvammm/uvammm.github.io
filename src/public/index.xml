@@ -6,8 +6,21 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zoom Link</title>
+      <link>https://uvammm.github.io/zoomlink/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/zoomlink/</guid>
+      <description>&lt;p&gt;The link for our zoom class meetings is: &lt;a href=&#34;https://virginia.zoom.us/j/237871483&#34;&gt;https://virginia.zoom.us/j/237871483&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Everyone should have received the message on slack and email about our
+plans for the rest of the semester.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 16: Auction Results, Project Ideas</title>
@@ -372,32 +385,6 @@ a file).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;India&amp;rsquo;s &lt;a href=&#34;https://josaa.nic.in/webinfocms/Public/View.aspx?page=71&#34;&gt;Joint Entrance Examination&lt;/a&gt;, &lt;a href=&#34;https://www.collegepravesh.com/cutoff/iit-bombay-cutoff-2019/&#34;&gt;cut-off ranks for IIT Bombay&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 6: Experiments and False Findings</title>
-      <link>https://uvammm.github.io/class6/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class6/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/1qlxf5q1zo9a0qk/class6.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2/&#34;&gt;Project 2&lt;/a&gt; is due Tuesday, 4 February (9:29am).&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/falsefindings.ipynb&#34;&gt;falsefindings.ipynb&lt;/a&gt; - Jupyter notebook on false findings&lt;/p&gt;
-
-&lt;p&gt;John Ioannidis. &lt;a href=&#34;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124&#34;&gt;&lt;em&gt;Why Most Published Research Findings Are False&lt;/em&gt;&lt;/a&gt;. PLOS Medicine, August 2005.&lt;/p&gt;
-
-&lt;p&gt;Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). &lt;a href=&#34;https://uvammm.github.io/docs/controlledExperimentDMKD.pdf&#34;&gt;&lt;em&gt;Controlled experiments on the web: survey and practical guide&lt;/em&gt;&lt;/a&gt;. Data Mining Knowledge and Discovery, 2009.&lt;/p&gt;
 </description>
     </item>
     
