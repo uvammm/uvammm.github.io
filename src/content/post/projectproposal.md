@@ -6,8 +6,6 @@ author = "David Evans"
 slug = "projectproposals"
 +++
 
-# Project Proposals
-
 The Project Proposals (originally scheduled to be due on Sunday, 29
 March) are now due on Wednesday, 1 April (8:59pm). If you do have your
 proposal ready earlier, we appreciate early submissions and will
