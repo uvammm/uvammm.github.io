@@ -1,13 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Markets, Mechanisms, Machines</title>
-    <link>https://uvammm.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
+    <title>Posts on Markets, Mechanisms, Machines</title>
+    <link>https://uvammm.github.io/post/</link>
+    <description>Recent content in Posts on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Proposals</title>
+      <link>https://uvammm.github.io/projectproposals/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/projectproposals/</guid>
+      <description>Project Proposals The Project Proposals (originally scheduled to be due on Sunday, 29 March) are now due on Wednesday, 1 April (8:59pm). If you do have your proposal ready earlier, we appreciate early submissions and will prioritize giving feedback to proposals in (roughly) the order they are received.
+Your project proposal should contain:
+  Title of your project: short description that clearly captures your project idea.
+  A short paragraph that describes the goal of your project.</description>
+    </item>
     
     <item>
       <title>Zoom Link</title>
@@ -15,11 +29,8 @@
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/zoomlink/</guid>
-      <description>&lt;p&gt;The link for our zoom class meetings is: &lt;a href=&#34;https://virginia.zoom.us/j/237871483&#34;&gt;https://virginia.zoom.us/j/237871483&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Everyone should have received the message on slack and email about our
-plans for the rest of the semester.&lt;/p&gt;
-</description>
+      <description>The link for our zoom class meetings is: https://virginia.zoom.us/j/237871483.
+Everyone should have received the message on slack and email about our plans for the rest of the semester.</description>
     </item>
     
     <item>
@@ -28,53 +39,10 @@ plans for the rest of the semester.&lt;/p&gt;
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class16/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/2dxafko1oxceinr/class16.pdf?dl=0&#34;&gt;Class 16 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;project-ideas&#34;&gt;Project Ideas&lt;/h1&gt;
-
-&lt;p&gt;The &lt;em&gt;Team and General Idea&lt;/em&gt; for your final project is due &lt;strong&gt;Thursday, 19 March&lt;/strong&gt; (ready to present in class that day).&lt;/p&gt;
-
-&lt;p&gt;Your team should be prepared to present a few slides with:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Name of your project&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;List of your &lt;strong&gt;team members&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Purpose of your project: &lt;em&gt;how it satisfies the four project desiderata&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;What you &lt;strong&gt;plan to do&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;What you hope the &lt;strong&gt;outcome&lt;/strong&gt; will be&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;Here are links to some of the ideas and resources I presented in class.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.pnas.org/content/109/26/10409&#34;&gt;&lt;em&gt;Iterated Prisoner&amp;rsquo;s Dilemma&lt;/em&gt;&lt;/a&gt; (William Press and Feemman Dyson). See also &lt;a href=&#34;https://www.ias.edu/ideas/2012/dyson-prisoners-dilemma&#34;&gt;&lt;em&gt;The Prisoner’s Dilemma&lt;/em&gt;&lt;/a&gt;, Freeman Dyson, IAS, 2012.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/papers/w26480&#34;&gt;&lt;em&gt;Teacher Effects on Student Achievement and Height: A Cautionary Tale&lt;/em&gt;&lt;/a&gt; (Marianne Bitler, Sean Corcoran, Thurston Domina, Emily Penner), NBER 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/papers/w26533&#34;&gt;&lt;em&gt;Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach&lt;/em&gt;&lt;/a&gt; (Jacob Goldin, Ithai Z. Lurie, Janet McCubbin), NBER 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/papers/w26752&#34;&gt;&lt;em&gt;Stagnation and Scientific Incentives&lt;/em&gt;&lt;/a&gt; (Jay Bhattacharya, Mikko Packalen), NBER 2020. (Didn&amp;rsquo;t talk about this one.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ads.google.com/aw/keywords&#34;&gt;Google Ads Keywords&lt;/a&gt; (requires Google Ads account)&lt;/p&gt;
-
-&lt;p&gt;Yelp privacy (contact us for more information on this, as well as access to the dataset)&lt;/p&gt;
-
-&lt;p&gt;Harvard admissions lawsuit: &lt;a href=&#34;https://samv91khoyt2i553a2t1s05i-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Doc-415-1-Arcidiacono-Expert-Report.pdf&#34;&gt;Peter Arcidiacono&amp;rsquo;s expert report (for &amp;ldquo;Students for Fair Admissions&amp;rdquo;)&lt;/a&gt; &lt;a href=&#34;https://projects.iq.harvard.edu/files/diverse-education/files/expert_report_-_2017-12-15_dr._david_card_expert_report_updated_confid_desigs_redacted.pdf&#34;&gt;David Card&amp;rsquo;s expert report (for Harvard)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.povertyactionlab.org/&#34;&gt;Poverty Action Lab&lt;/a&gt; (&lt;a href=&#34;https://www.povertyactionlab.org/admindatacatalog&#34;&gt;Data Sets&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;COVID-19: there is lots of data available, and more being produced every hour.
-&lt;a href=&#34;https://ourworldindata.org/coronavirus&#34;&gt;OurWorldInData&lt;/a&gt; is a good collection of resources.
-Also recommend reading: &lt;a href=&#34;https://jamanetwork.com/journals/jama/fullarticle/2762689&#34;&gt;Response to COVID-19 in Taiwan
-Big Data Analytics, New Technology, and Proactive Testing&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.fcc.gov/auction/103/factsheet&#34;&gt;FCC Spectrum Auctions&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1023/A:1008174031940&#34;&gt;&lt;em&gt;Collusive Bidding: Lessons from the FCC Spectrum Auctions&lt;/em&gt;&lt;/a&gt; (Peter Cramton and Jesse Schwartz, 2000).&lt;/p&gt;
-</description>
+      <description>Slides Class 16 Slides (PDF)
+Project Ideas The Team and General Idea for your final project is due Thursday, 19 March (ready to present in class that day).
+Your team should be prepared to present a few slides with:
+ Name of your project List of your team members Purpose of your project: how it satisfies the four project desiderata What you plan to do What you hope the outcome will be  Links Here are links to some of the ideas and resources I presented in class.</description>
     </item>
     
     <item>
@@ -83,14 +51,8 @@ Big Data Analytics, New Technology, and Proactive Testing&lt;/a&gt;.&lt;/p&gt;
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class14/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/sjc8yhap7clhghx/class14-wrapup.pdf?dl=0&#34;&gt;Poker Game Wrap-up (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/cmdf2p6m3ztljsu/class14.pdf?dl=0&#34;&gt;Class 14 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Slides Poker Game Wrap-up (PDF)
+Class 14 Slides (PDF)</description>
     </item>
     
     <item>
@@ -99,22 +61,10 @@ Big Data Analytics, New Technology, and Proactive Testing&lt;/a&gt;.&lt;/p&gt;
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class15/</guid>
-      <description>
-
-&lt;h1 id=&#34;in-class-auction&#34;&gt;In-Class Auction&lt;/h1&gt;
-
-&lt;p&gt;Congratulations to Kiara Gan, Aaron Ho, Rashid Lasker, and Eli Lifland for winning the Project 4 Auction!&lt;/p&gt;
-
-&lt;p&gt;It was a close competition with Team 6 (Anna Davis, Sally Greenberg,
-Chris Puglisi, Courtney Jacobs) and Team 3 (Maxwell Patek, Nicolas
-Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ll have some more results and analysis from the auction in class Thursday.&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hwynfvfhbrz67uy/class15.pdf?dl=0&#34;&gt;Class 15 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>In-Class Auction Congratulations to Kiara Gan, Aaron Ho, Rashid Lasker, and Eli Lifland for winning the Project 4 Auction!
+It was a close competition with Team 6 (Anna Davis, Sally Greenberg, Chris Puglisi, Courtney Jacobs) and Team 3 (Maxwell Patek, Nicolas Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.
+We&amp;rsquo;ll have some more results and analysis from the auction in class Thursday.
+Slides Class 15 Slides (PDF)</description>
     </item>
     
     <item>
@@ -123,12 +73,7 @@ Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.&lt;/p&gt;
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class13/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/6ov0vuqug51uszg/class13.pdf?dl=0&#34;&gt;Class 13 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Slides Class 13 Slides (PDF)</description>
     </item>
     
     <item>
@@ -137,9 +82,7 @@ Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.&lt;/p&gt;
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/project4posted/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project4/&#34;&gt;Project 4&lt;/a&gt; is now posted, and is due on &lt;strong&gt;Tuesday, 3
-March, 9:29am&lt;/strong&gt;.&lt;/p&gt;
-</description>
+      <description>Project 4 is now posted, and is due on Tuesday, 3 March, 9:29am.</description>
     </item>
     
     <item>
@@ -148,43 +91,24 @@ March, 9:29am&lt;/strong&gt;.&lt;/p&gt;
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class12/</guid>
-      <description>
-
-&lt;h1 id=&#34;kidney-exchange-champions&#34;&gt;Kidney Exchange Champions&lt;/h1&gt;
-
-&lt;p&gt;Congratulations to the winners of the Kidney Exchange Challenge:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bronze Kidney&lt;/strong&gt;&lt;br /&gt;
-Rashid Lasker&lt;br /&gt;
-Eli Lafland&lt;br /&gt;
-Aaron Ho&lt;br /&gt;
-Kiara Gan&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gold Kidney (Tie for First Place)&lt;/strong&gt;&lt;br /&gt;
-Margaret Cheng&lt;br /&gt;
-Sophia Cheung&lt;br /&gt;
-Yilin Huang&lt;br /&gt;
-Yutong Zhong&lt;/p&gt;
-
-&lt;p&gt;Brienne Tyler&lt;br /&gt;
-Christian Paget&lt;br /&gt;
-Shen Yan&lt;br /&gt;
-Will Define&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/6m2o8eord3qq2vo/class12.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We will finish finding the optimal strategy next class!&lt;/p&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;John F. Nash, Jr. &lt;a href=&#34;https://www.pnas.org/content/pnas/36/1/48.full.pdf&#34;&gt;&lt;em&gt;Equilibrium Points in N-Person
-Games&lt;/em&gt;&lt;/a&gt;. Proceedings
-of the National Academy of Sciences. 1950.&lt;/p&gt;
-
-&lt;p&gt;Here is the infamous scene in &lt;em&gt;A Beautiful Mind&lt;/em&gt; where John Nash discovers mixed strategy equilibria: &lt;a href=&#34;https://www.youtube.com/watch?v=2d_dtTZQyUM&#34;&gt;https://www.youtube.com/watch?v=2d_dtTZQyUM)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Kidney Exchange Champions Congratulations to the winners of the Kidney Exchange Challenge:
+Bronze Kidney
+Rashid Lasker
+Eli Lafland
+Aaron Ho
+Kiara Gan
+Gold Kidney (Tie for First Place)
+Margaret Cheng
+Sophia Cheung
+Yilin Huang
+Yutong Zhong
+Brienne Tyler
+Christian Paget
+Shen Yan
+Will Define
+Slides Slides (PDF)
+We will finish finding the optimal strategy next class!
+Links John F. Nash, Jr. Equilibrium Points in N-Person Games. Proceedings of the National Academy of Sciences.</description>
     </item>
     
     <item>
@@ -193,21 +117,9 @@ of the National Academy of Sciences. 1950.&lt;/p&gt;
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class11/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ciptxo1j1v7u2rx/class11.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;John von Neumann and Oskar Morgenstern, &lt;a href=&#34;https://uvammm.github.io/docs/theoryofgames.pdf&#34;&gt;&lt;em&gt;Theory of Games and Economic
-Behavior&lt;/em&gt;&lt;/a&gt;. 1944.&lt;/p&gt;
-
-&lt;p&gt;Ran Canetti and Alon Rosen, &lt;a href=&#34;http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe6.pdf&#34;&gt;&lt;em&gt;Basics of Game
-Theory&lt;/em&gt;&lt;/a&gt;
-(lecture from &lt;em&gt;Crytography and Game Theory&lt;/em&gt; course, November 2009.&lt;/p&gt;
-</description>
+      <description>Slides Slides (PDF)
+Links John von Neumann and Oskar Morgenstern, Theory of Games and Economic Behavior. 1944.
+Ran Canetti and Alon Rosen, Basics of Game Theory (lecture from Crytography and Game Theory course, November 2009.</description>
     </item>
     
     <item>
@@ -216,16 +128,8 @@ Theory&lt;/em&gt;&lt;/a&gt;
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class10/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule-reminder&#34;&gt;Schedule Reminder&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; is due Tuesday (18 February).&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;Continued from &lt;a href=&#34;https://www.dropbox.com/s/f2vtzf64n55r1g6/class9.pdf?dl=0&#34;&gt;Class 9 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Schedule Reminder Project 3 is due Tuesday (18 February).
+Slides Continued from Class 9 Slides (PDF)</description>
     </item>
     
     <item>
@@ -234,12 +138,7 @@ Theory&lt;/em&gt;&lt;/a&gt;
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class9/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/f2vtzf64n55r1g6/class9.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Slides Slides (PDF)</description>
     </item>
     
     <item>
@@ -248,12 +147,7 @@ Theory&lt;/em&gt;&lt;/a&gt;
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class8/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/mu87fva44om6xbi/class8.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Slides Slides (PDF)</description>
     </item>
     
     <item>
@@ -262,16 +156,8 @@ Theory&lt;/em&gt;&lt;/a&gt;
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/project3posted/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3/&#34;&gt;Project 3&lt;/a&gt; is now posted, and is due 9:59pm, Tuesday, 18
-February 2020 (note the later than normal due time).&lt;/p&gt;
-
-&lt;p&gt;For instructions for Project 3, see the
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;Project 3 Notebook&lt;/a&gt;. You will also want to download:
-&lt;ul&gt;
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/simulator.py&#34;&gt;simulator.py&lt;/a&gt; (Kidney exchange simulator)
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/patients.csv&#34;&gt;patients.csv&lt;/a&gt; (provided dataset of patients that you should use for the notebook questions)
-&lt;/ul&gt;&lt;/p&gt;
-</description>
+      <description>Project 3 is now posted, and is due 9:59pm, Tuesday, 18 February 2020 (note the later than normal due time).
+For instructions for Project 3, see the Project 3 Notebook. You will also want to download:</description>
     </item>
     
     <item>
@@ -280,28 +166,11 @@ February 2020 (note the later than normal due time).&lt;/p&gt;
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class7/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/lxmsantv87lccuv/class7.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/stablematching.ipynb&#34;&gt;stablematching.ipynb&lt;/a&gt; - Jupyter notebook with code for Gale-Shapley algorithm&lt;/p&gt;
-
-&lt;p&gt;D. Gale and L. S. Shapley, &lt;a href=&#34;https://uvammm.github.io/docs/gale-shapley.pdf&#34;&gt;&lt;em&gt;College Admissions and the Stability of Marriage&lt;/em&gt;&lt;/a&gt;. The American Mathematical Monthly. Jan 1962. (&lt;a href=&#34;https://youtu.be/l_FWKLpoGBc&#34;&gt;2019 Superbowl commercial about optimality proof&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Alvin Roth and Elliott Peranson, &lt;a href=&#34;https://uvammm.github.io/docs/roth-peranson.pdf&#34;&gt;&lt;em&gt;The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design&lt;/em&gt;&lt;/a&gt;. American Economic Review, Sept 1999.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t trust a central authority to do the matching fairly or keep the preferences secret, you can use secure computation:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Jack Doerner, David Evans, abhi shelat. &lt;a href=&#34;http://oblivc.org/docs/matching.pdf&#34;&gt;&lt;em&gt;Secure Stable Matching at Scale&lt;/em&gt;&lt;/a&gt;.  In &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2016/&#34;&gt;&lt;em&gt;23&lt;sup&gt;rd&lt;/sup&gt; ACM Conference on Computer and Communications Security&lt;/em&gt;&lt;/a&gt; (CCS). Vienna, Austria. 24-28 October 2016.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;India&amp;rsquo;s &lt;a href=&#34;https://josaa.nic.in/webinfocms/Public/View.aspx?page=71&#34;&gt;Joint Entrance Examination&lt;/a&gt;, &lt;a href=&#34;https://www.collegepravesh.com/cutoff/iit-bombay-cutoff-2019/&#34;&gt;cut-off ranks for IIT Bombay&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Slides Slides (PDF)
+Links stablematching.ipynb - Jupyter notebook with code for Gale-Shapley algorithm
+D. Gale and L. S. Shapley, College Admissions and the Stability of Marriage. The American Mathematical Monthly. Jan 1962. (2019 Superbowl commercial about optimality proof)
+Alvin Roth and Elliott Peranson, The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design. American Economic Review, Sept 1999.
+If you don&amp;rsquo;t trust a central authority to do the matching fairly or keep the preferences secret, you can use secure computation:</description>
     </item>
     
     <item>
@@ -310,24 +179,11 @@ February 2020 (note the later than normal due time).&lt;/p&gt;
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class6/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/1qlxf5q1zo9a0qk/class6.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2/&#34;&gt;Project 2&lt;/a&gt; is due Tuesday, 4 February (9:29am).&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/falsefindings.ipynb&#34;&gt;falsefindings.ipynb&lt;/a&gt; - Jupyter notebook on false findings&lt;/p&gt;
-
-&lt;p&gt;John Ioannidis. &lt;a href=&#34;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124&#34;&gt;&lt;em&gt;Why Most Published Research Findings Are False&lt;/em&gt;&lt;/a&gt;. PLOS Medicine, August 2005.&lt;/p&gt;
-
-&lt;p&gt;Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). &lt;a href=&#34;https://uvammm.github.io/docs/controlledExperimentDMKD.pdf&#34;&gt;&lt;em&gt;Controlled experiments on the web: survey and practical guide&lt;/em&gt;&lt;/a&gt;. Data Mining Knowledge and Discovery, 2009.&lt;/p&gt;
-</description>
+      <description>Slides Slides (PDF)
+Schedule Project 2 is due Tuesday, 4 February (9:29am).
+Links falsefindings.ipynb - Jupyter notebook on false findings
+John Ioannidis. Why Most Published Research Findings Are False. PLOS Medicine, August 2005.
+Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). Controlled experiments on the web: survey and practical guide. Data Mining Knowledge and Discovery, 2009.</description>
     </item>
     
     <item>
@@ -336,21 +192,101 @@ February 2020 (note the later than normal due time).&lt;/p&gt;
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/officehours/</guid>
-      <description>&lt;p&gt;The office hours schedule is now set:&lt;/p&gt;
-
-&lt;p&gt;Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)&lt;br /&gt;
-Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)&lt;br /&gt;
-Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)&lt;br /&gt;
-David Evans, Fridays, 8:30-10:00am (Rice 507)&lt;/p&gt;
-
-&lt;p&gt;You don&amp;rsquo;t need to make an appointment for office hours - the point of
-them is that you can just stop by and discuss whatever you want. If
-you do want to meet with one of us but can&amp;rsquo;t make an office hours
-time, best to send a message on slack to schedule another time (or for
-me, you can use
-&lt;a href=&#34;https://davidevans.youcanbook.me/&#34;&gt;https://davidevans.youcanbook.me/&lt;/a&gt;
-to schedule it directly).&lt;/p&gt;
-</description>
+      <description>The office hours schedule is now set:
+Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)
+Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)
+Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)
+David Evans, Fridays, 8:30-10:00am (Rice 507)
+You don&amp;rsquo;t need to make an appointment for office hours - the point of them is that you can just stop by and discuss whatever you want. If you do want to meet with one of us but can&amp;rsquo;t make an office hours time, best to send a message on slack to schedule another time (or for me, you can use https://davidevans.</description>
+    </item>
+    
+    <item>
+      <title>Survey Questions Answered</title>
+      <link>https://uvammm.github.io/surveyquestions/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/surveyquestions/</guid>
+      <description>Here are my (Dave) answers to questions you asked for the What question do you have for us?question on the Beginning of Semester Survey. If you missed your chance to ask a question on the survey, or want to follow-up on any of these, feel free to ask additional questions in slack.
+The way we ran the final project last year, students had about a week to form a project team and come up with a project idea.</description>
+    </item>
+    
+    <item>
+      <title>Class 4: Cost of Empirical Rick Minimization</title>
+      <link>https://uvammm.github.io/class4/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class4/</guid>
+      <description>Slides Slides (PDF)
+Schedule Project 2 is due Tuesday, 4 February (9:29am).</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://uvammm.github.io/project2posted/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project2posted/</guid>
+      <description>Project 2 is now posted, and is due Tuesday, 4 February (9:29am).
+For Project 2, you will develop your model from Project 1, with a goal of improving the the &amp;ldquo;Zestimate&amp;rdquo; residual error using the data for 2017 in the Kaggle Zillow prize competition. The Kaggle competition has been concluded, so you&amp;rsquo;ll have to settle for learning, wisdom, and glory in place of Zillow&amp;rsquo;s $1.2M prize.
+We will run a competition in class on February 4 to see which model works best on a (secret until then) testing data set.</description>
+    </item>
+    
+    <item>
+      <title>Class 3: Introduction to Statistical Learning Theory</title>
+      <link>https://uvammm.github.io/class3/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class3/</guid>
+      <description>Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 2: Why do we need causal inference?</title>
+      <link>https://uvammm.github.io/class2/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class2/</guid>
+      <description>Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 1: Introduction, Causation</title>
+      <link>https://uvammm.github.io/class1/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class1/</guid>
+      <description>Schedule Everyone wanting to be in the class should:
+ Submit the MMM Pre-Semester Survey Join the Course Slack Start forming a team for Project 1 (you can use the #teaming channel in slack to find teammates). Your team should be 2 Econ majors and 2 CS majors. (If you don&amp;rsquo;t find a full team, we will help form teams at Thursday&amp;rsquo;s class.)  Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Beginning of Semester Survey</title>
+      <link>https://uvammm.github.io/survey/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/survey/</guid>
+      <description>Please submit this survey to register for the class:
+https://forms.gle/5gmDkR5xnA6xFfst5
+(You should do this if you want to take the class, whether or not you are officially enrolled in it now.)</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://uvammm.github.io/welcome/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/welcome/</guid>
+      <description>Welcome to the website for the joint Economics/Computer Science course, Markets, Mechanisms, and Machines.
+More information will be posted here soon. For now, you can get a rough idea what the course will be like by looking at the Spring 2019 version of the course.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uvammm.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/</guid>
+      <description>Final Projects You can see the final projects from last year&amp;rsquo;s class here: https://uvammm.github.io/s19/finalreports/. You&amp;rsquo;ll have more time for the final project this year than they did, and we have higher expectations for what you&amp;rsquo;ll be able to do, but several of the projects there are quite</description>
     </item>
     
   </channel>
