@@ -26,8 +26,8 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 
 ### Final Project
 
-**Thursday, 19 March:** Team and General Idea (see [Class 16](/class16))  
-**Sunday, 29 March:** Project Proposal  
+**Tuseday, 24 March:** Team and General Idea (see [Class 16](/class16))  
+**Wednesday, 1 April:** Project Proposal  
 **Thursday, 9 April:** Progress Report  
 **23 or 28 April:** Final Presentations  
 **Tuesday, 28 April:** Final Project Report  
@@ -60,5 +60,11 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 03 March: [Class 15: In-Class Auction, Auction Theory](/class15)  
 05 March: [Class 16: Auction Results, Project Ideas](/class16)  
 
+### Classes Under Lockdown
 
+19 March: [Class 17: Class Meeting](/class17)  
+24 March: [Class 18: Project Ideas](/class18)  
+26 March: [Class 19: Tammy Wang](/class19)  
+31 March: [Class 20: Peer Effects](/class20)  
+02 April: [Class 21: Joseph Calandrino](/class21)  
 

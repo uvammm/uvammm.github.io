@@ -6,8 +6,43 @@
     <description>Recent content in Post-rsses on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 21: Joseph Calandrino</title>
+      <link>https://uvammm.github.io/class21/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class21/</guid>
+      <description>&lt;p&gt;Guest lecture and discussion with Joseph Calandrino, Research
+Director, Office of Technology Research and Investigation, Federal
+Trade Commission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 20: Peer Effects</title>
+      <link>https://uvammm.github.io/class20/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class20/</guid>
+      <description>&lt;p&gt;Slides&lt;/p&gt;
+
+&lt;p&gt;The video we watched is &lt;a href=&#34;https://www.youtube.com/watch?v=0zvrGiPkVcs&#34;&gt;Esther Duflo, &lt;em&gt;Social experiments to fight poverty&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 19: Guest - Tammy Wang</title>
+      <link>https://uvammm.github.io/class19/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class19/</guid>
+      <description>&lt;p&gt;Guest lecture and discussion with Tammy Wang, Vice President of Data
+Science and Engineering at Riviera Partners.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project Proposals</title>
@@ -52,6 +87,26 @@ staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt;
 &lt;code&gt;@Cam&lt;/code&gt; &lt;code&gt;@Kyeongtak Do&lt;/code&gt;. (If you already have a
 channel set up with all of us on it, please use that.)  You should
 submit the proposal as a PDF file attachment to the message.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 18: Project Ideas</title>
+      <link>https://uvammm.github.io/class18/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class18/</guid>
+      <description>&lt;p&gt;Students presented ideas for their final projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 17: Class Meeting</title>
+      <link>https://uvammm.github.io/class17/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class17/</guid>
+      <description>&lt;p&gt;We discussed plans for the semester and course projects.&lt;/p&gt;
 </description>
     </item>
     
@@ -271,108 +326,6 @@ Theory&lt;/em&gt;&lt;/a&gt;
 &lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;Continued from &lt;a href=&#34;https://www.dropbox.com/s/f2vtzf64n55r1g6/class9.pdf?dl=0&#34;&gt;Class 9 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 9: Kidney Exchange</title>
-      <link>https://uvammm.github.io/class9/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class9/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/f2vtzf64n55r1g6/class9.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 8: Centralized Resource Allocation</title>
-      <link>https://uvammm.github.io/class8/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class8/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/mu87fva44om6xbi/class8.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>https://uvammm.github.io/project3posted/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project3posted/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3/&#34;&gt;Project 3&lt;/a&gt; is now posted, and is due 9:59pm, Tuesday, 18
-February 2020 (note the later than normal due time).&lt;/p&gt;
-
-&lt;p&gt;For instructions for Project 3, see the
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;Project 3 Notebook&lt;/a&gt;. You will also want to download:
-&lt;ul&gt;
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/simulator.py&#34;&gt;simulator.py&lt;/a&gt; (Kidney exchange simulator)
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/patients.csv&#34;&gt;patients.csv&lt;/a&gt; (provided dataset of patients that you should use for the notebook questions)
-&lt;/ul&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 7: Matching without Markets</title>
-      <link>https://uvammm.github.io/class7/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class7/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/lxmsantv87lccuv/class7.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/stablematching.ipynb&#34;&gt;stablematching.ipynb&lt;/a&gt; - Jupyter notebook with code for Gale-Shapley algorithm&lt;/p&gt;
-
-&lt;p&gt;D. Gale and L. S. Shapley, &lt;a href=&#34;https://uvammm.github.io/docs/gale-shapley.pdf&#34;&gt;&lt;em&gt;College Admissions and the Stability of Marriage&lt;/em&gt;&lt;/a&gt;. The American Mathematical Monthly. Jan 1962. (&lt;a href=&#34;https://youtu.be/l_FWKLpoGBc&#34;&gt;2019 Superbowl commercial about optimality proof&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Alvin Roth and Elliott Peranson, &lt;a href=&#34;https://uvammm.github.io/docs/roth-peranson.pdf&#34;&gt;&lt;em&gt;The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design&lt;/em&gt;&lt;/a&gt;. American Economic Review, Sept 1999.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t trust a central authority to do the matching fairly or keep the preferences secret, you can use secure computation:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Jack Doerner, David Evans, abhi shelat. &lt;a href=&#34;http://oblivc.org/docs/matching.pdf&#34;&gt;&lt;em&gt;Secure Stable Matching at Scale&lt;/em&gt;&lt;/a&gt;.  In &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2016/&#34;&gt;&lt;em&gt;23&lt;sup&gt;rd&lt;/sup&gt; ACM Conference on Computer and Communications Security&lt;/em&gt;&lt;/a&gt; (CCS). Vienna, Austria. 24-28 October 2016.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;India&amp;rsquo;s &lt;a href=&#34;https://josaa.nic.in/webinfocms/Public/View.aspx?page=71&#34;&gt;Joint Entrance Examination&lt;/a&gt;, &lt;a href=&#34;https://www.collegepravesh.com/cutoff/iit-bombay-cutoff-2019/&#34;&gt;cut-off ranks for IIT Bombay&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 6: Experiments and False Findings</title>
-      <link>https://uvammm.github.io/class6/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class6/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/1qlxf5q1zo9a0qk/class6.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project2/&#34;&gt;Project 2&lt;/a&gt; is due Tuesday, 4 February (9:29am).&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/blob/master/src/code/falsefindings.ipynb&#34;&gt;falsefindings.ipynb&lt;/a&gt; - Jupyter notebook on false findings&lt;/p&gt;
-
-&lt;p&gt;John Ioannidis. &lt;a href=&#34;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124&#34;&gt;&lt;em&gt;Why Most Published Research Findings Are False&lt;/em&gt;&lt;/a&gt;. PLOS Medicine, August 2005.&lt;/p&gt;
-
-&lt;p&gt;Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). &lt;a href=&#34;https://uvammm.github.io/docs/controlledExperimentDMKD.pdf&#34;&gt;&lt;em&gt;Controlled experiments on the web: survey and practical guide&lt;/em&gt;&lt;/a&gt;. Data Mining Knowledge and Discovery, 2009.&lt;/p&gt;
 </description>
     </item>
     

@@ -6,8 +6,43 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 21: Joseph Calandrino</title>
+      <link>https://uvammm.github.io/class21/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class21/</guid>
+      <description>&lt;p&gt;Guest lecture and discussion with Joseph Calandrino, Research
+Director, Office of Technology Research and Investigation, Federal
+Trade Commission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 20: Peer Effects</title>
+      <link>https://uvammm.github.io/class20/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class20/</guid>
+      <description>&lt;p&gt;Slides&lt;/p&gt;
+
+&lt;p&gt;The video we watched is &lt;a href=&#34;https://www.youtube.com/watch?v=0zvrGiPkVcs&#34;&gt;Esther Duflo, &lt;em&gt;Social experiments to fight poverty&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 19: Guest - Tammy Wang</title>
+      <link>https://uvammm.github.io/class19/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class19/</guid>
+      <description>&lt;p&gt;Guest lecture and discussion with Tammy Wang, Vice President of Data
+Science and Engineering at Riviera Partners.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project Proposals</title>
@@ -52,6 +87,26 @@ staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt;
 &lt;code&gt;@Cam&lt;/code&gt; &lt;code&gt;@Kyeongtak Do&lt;/code&gt;. (If you already have a
 channel set up with all of us on it, please use that.)  You should
 submit the proposal as a PDF file attachment to the message.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 18: Project Ideas</title>
+      <link>https://uvammm.github.io/class18/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class18/</guid>
+      <description>&lt;p&gt;Students presented ideas for their final projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class 17: Class Meeting</title>
+      <link>https://uvammm.github.io/class17/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class17/</guid>
+      <description>&lt;p&gt;We discussed plans for the semester and course projects.&lt;/p&gt;
 </description>
     </item>
     
@@ -293,114 +348,6 @@ Behavior&lt;/em&gt;&lt;/a&gt;. 1944.&lt;/p&gt;
 &lt;p&gt;Ran Canetti and Alon Rosen, &lt;a href=&#34;http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe6.pdf&#34;&gt;&lt;em&gt;Basics of Game
 Theory&lt;/em&gt;&lt;/a&gt;
 (lecture from &lt;em&gt;Crytography and Game Theory&lt;/em&gt; course, November 2009.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 10: Graph Theory</title>
-      <link>https://uvammm.github.io/class10/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class10/</guid>
-      <description>
-
-&lt;h1 id=&#34;schedule-reminder&#34;&gt;Schedule Reminder&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3&#34;&gt;Project 3&lt;/a&gt; is due Tuesday (18 February).&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;Continued from &lt;a href=&#34;https://www.dropbox.com/s/f2vtzf64n55r1g6/class9.pdf?dl=0&#34;&gt;Class 9 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 9: Kidney Exchange</title>
-      <link>https://uvammm.github.io/class9/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class9/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/f2vtzf64n55r1g6/class9.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 8: Centralized Resource Allocation</title>
-      <link>https://uvammm.github.io/class8/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class8/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/mu87fva44om6xbi/class8.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>https://uvammm.github.io/project3posted/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project3posted/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/project3/&#34;&gt;Project 3&lt;/a&gt; is now posted, and is due 9:59pm, Tuesday, 18
-February 2020 (note the later than normal due time).&lt;/p&gt;
-
-&lt;p&gt;For instructions for Project 3, see the
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;Project 3 Notebook&lt;/a&gt;. You will also want to download:
-&lt;ul&gt;
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/simulator.py&#34;&gt;simulator.py&lt;/a&gt; (Kidney exchange simulator)
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/patients.csv&#34;&gt;patients.csv&lt;/a&gt; (provided dataset of patients that you should use for the notebook questions)
-&lt;/ul&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 3: Kidney Exchange</title>
-      <link>https://uvammm.github.io/project3/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/project3/</guid>
-      <description>&lt;div class=&#34;due&#34;&gt;
-Due: 9:59pm, Tuesday, 18 February 2020 (note the later than normal due time!) 
-   &lt;/div&gt;
-
-&lt;p&gt;For instructions for Project 3, see the
-&lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/project3.ipynb&#34;&gt;Project 3 Notebook&lt;/a&gt;. You will also want to download:
-&lt;ul&gt;
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/simulator.py&#34;&gt;simulator.py&lt;/a&gt; (Kidney exchange simulator)
-&lt;li&gt; &lt;a href=&#34;https://github.com/uvammm/uvammm.github.io/raw/master/projects/project3/patients.csv&#34;&gt;patients.csv&lt;/a&gt; (provided dataset of patients that you should use for the notebook questions)
-&lt;/ul&gt;&lt;/p&gt;
-
-&lt;p&gt;Then run,&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;   
-   jupyter notebook project3.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;to get started. This will start the jupyter local server and open the
-notebook in your web browser.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;yellownote&#34;&gt;
-Similarly to Project 2, submit your Project 3 notebook by &lt;b&gt;Tuesday, 18 February, 9:59pm&lt;/b&gt; by creating a slack group (click
-“Direct Messages”) containing you and your teammate and the four
-course staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt; &lt;code&gt;@Cam&lt;/code&gt; &lt;code&gt;@Kyeongtak Do&lt;/code&gt;. Submit your
-project to that group chat by attaching your jupyter notebook and Python script implementing your &lt;code&gt;match_kidneys&lt;/code&gt; function for the competition problem to a
-message (use the “+” at the left of the message entry field to attach
-a file).&lt;/p&gt;
-
-&lt;p&gt;You should include a comment at the top of the notebook that contains:
-&lt;ol&gt;
-&lt;li&gt;The names and UVA email ids of the people submitting (you and your teammates)&lt;/li&gt;
-&lt;li&gt;A note on anyone else you collaborated with and how, and external resources you used.
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
