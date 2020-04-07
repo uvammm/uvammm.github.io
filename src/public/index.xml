@@ -6,8 +6,41 @@
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 22: Privacy in the Age of Coronavirus</title>
+      <link>https://uvammm.github.io/class22/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class22/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/xcz60ri1oq2o4xj/class22.pdf?dl=0&#34;&gt;Class 22 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;Video: &lt;a href=&#34;https://youtu.be/YfsdJGj3-jM&#34;&gt;&lt;em&gt;Coronavirus: From 93 infected to 0, what did this Chinese City do to contain the virus?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/covid19/mobility/&#34;&gt;Google&amp;rsquo;s COVID-19 Community Mobility Reports&lt;/a&gt; &lt;a href=&#34;https://uvammm.github.io/docs/2020-03-29_US_Virginia_Mobility_Report_en.pdf&#34;&gt;Virginia, 29 March 2020&lt;/a&gt; (You can see if you&amp;rsquo;ve contributed to this at &lt;a href=&#34;https://www.google.com/maps/timeline&#34;&gt;https://www.google.com/maps/timeline&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Kinsa &lt;a href=&#34;https://healthweather.us/?mode=Trends&#34;&gt;US Health Weather Map&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cynthia Dwork, Frank McSherry, Kobbi Nissim, and Adam Smith. &lt;a href=&#34;https://uvammm.github.io/docs/dwork.pdf&#34;&gt;&lt;em&gt;Calibrating Noise to Sensitivity in Private Data
+Analysis&lt;/em&gt;&lt;/a&gt;. TCC 2006. (Paper that introduced Differential Privacy.)&lt;/p&gt;
+
+&lt;p&gt;Video: &lt;a href=&#34;https://youtu.be/cq2zuE3ISYU&#34;&gt;&lt;em&gt;Tectonix: Spring Break vs. Covid-19&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Video: &lt;a href=&#34;https://www.youtube.com/watch?v=buj8ZTRtJes&#34;&gt;TraceTogether&lt;/a&gt; (Government of Singapore)&lt;/p&gt;
+
+&lt;p&gt;Privacy-Preserving Contact Tracing: &lt;a href=&#34;https://github.com/DP-3T&#34;&gt;https://github.com/DP-3T&lt;/a&gt; (see &lt;a href=&#34;https://github.com/DP-3T/documents/issues&#34;&gt;Issues&lt;/a&gt; for discussions on some of the issues we discussed)&lt;/p&gt;
+
+&lt;p&gt;Idle Words, &lt;a href=&#34;https://idlewords.com/2020/03/we_need_a_massive_surveillance_program.htm&#34;&gt;&lt;em&gt;We Need a Massive Surveillance Program&lt;/em&gt;&lt;/a&gt; (previous perspective on ambient privacy: &lt;a href=&#34;https://idlewords.com/2019/06/the_new_wilderness.htm&#34;&gt;The New Wilderness&lt;/a&gt;) (&lt;a href=&#34;https://jeffersonswheel.org/google-federated-privacy-2019-the-dragon-in-the-room/&#34;&gt;My talk at Google on this&lt;/a&gt;, June 2019.)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 21: Joseph Calandrino</title>
@@ -325,29 +358,6 @@ Games&lt;/em&gt;&lt;/a&gt;. Proceedings
 of the National Academy of Sciences. 1950.&lt;/p&gt;
 
 &lt;p&gt;Here is the infamous scene in &lt;em&gt;A Beautiful Mind&lt;/em&gt; where John Nash discovers mixed strategy equilibria: &lt;a href=&#34;https://www.youtube.com/watch?v=2d_dtTZQyUM&#34;&gt;https://www.youtube.com/watch?v=2d_dtTZQyUM)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 11: Game Theory</title>
-      <link>https://uvammm.github.io/class11/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvammm.github.io/class11/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ciptxo1j1v7u2rx/class11.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;John von Neumann and Oskar Morgenstern, &lt;a href=&#34;https://uvammm.github.io/docs/theoryofgames.pdf&#34;&gt;&lt;em&gt;Theory of Games and Economic
-Behavior&lt;/em&gt;&lt;/a&gt;. 1944.&lt;/p&gt;
-
-&lt;p&gt;Ran Canetti and Alon Rosen, &lt;a href=&#34;http://www.cs.tau.ac.il/~canetti/f09-materials/f09-scribe6.pdf&#34;&gt;&lt;em&gt;Basics of Game
-Theory&lt;/em&gt;&lt;/a&gt;
-(lecture from &lt;em&gt;Crytography and Game Theory&lt;/em&gt; course, November 2009.&lt;/p&gt;
 </description>
     </item>
     

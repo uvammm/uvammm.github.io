@@ -67,4 +67,6 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 26 March: [Class 19: Tammy Wang](/class19)  
 31 March: [Class 20: Peer Effects](/class20)  
 02 April: [Class 21: Joseph Calandrino](/class21)  
+07 April: [Class 22: Privacy in the Age of Coronavirus](/class22)  
+
 
