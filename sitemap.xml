@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://uvammm.github.io/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://uvammm.github.io/class26/</loc>
@@ -9,11 +13,6 @@
   
   <url>
     <loc>https://uvammm.github.io/finalplans/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uvammm.github.io/post/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,11 +79,6 @@
   <url>
     <loc>https://uvammm.github.io/class13/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uvammm.github.io/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -214,14 +208,6 @@
   
   <url>
     <loc>https://uvammm.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://uvammm.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://uvammm.github.io/topics/</loc>
   </url>
   
 </urlset>
