@@ -29,8 +29,8 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 **Tuseday, 24 March:** Team and General Idea (see [Class 16](/class16))  
 **Wednesday, 1 April:** Project Proposal  
 **Thursday, 9 April:** Progress Report  
-**23 or 28 April:** Final Presentations  
-**Tuesday, 28 April:** Final Project Report  
+**Tuesday, 28 April:** Final Project Submission  
+**Wednesday, 29 April:** Final Project Presentation  
 
 # Classes
 
@@ -68,5 +68,8 @@ David Evans, Fridays, 8:30-10:00am (Rice 507)
 31 March: [Class 20: Peer Effects](/class20)  
 02 April: [Class 21: Joseph Calandrino](/class21)  
 07 April: [Class 22: Privacy in the Age of Coronavirus](/class22)  
-
+09 April: [Class 23: Adam Davis](/class23)  
+12 April: Class 24: Project Progress Reports
+14 April: Class 25: Project Progress Reports
+21 April: [Class 26: Network Contagion](/class26)
 
