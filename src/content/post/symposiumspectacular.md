@@ -27,15 +27,15 @@ starting at 2:00pm on Wednesday, 29 April at <a href="https://virginia.zoom.us/j
 <tr bgcolor="#f5dea3">
 <td>3:15 PM</td><td colspan=2 align=center>Walk Around Your Room Break</td></tr>
 <tr>
-<td>3:25 PM</td><td>Soccer Player Ratings</td><td>Joe Karaki, Jack Short</td></tr>
+<td>3:30 PM</td><td>Soccer Player Ratings</td><td>Joe Karaki, Jack Short</td></tr>
 <tr>
-<td>3:35 PM</td><td>Hotel Occupancy Optimization</td><td>Sam Spreen, Arjun Iyer, Ashwin Krishnamurthi, Rohan Malladi</td></tr>
+<td>3:40 PM</td><td>Hotel Occupancy Optimization</td><td>Sam Spreen, Arjun Iyer, Ashwin Krishnamurthi, Rohan Malladi</td></tr>
 <tr>
-<td>3:45 PM</td><td>COVID-19 Stock Exploration and Time Series Analysis</td><td>Faisal Refai, Misran Dolan, Hisham Iqbal</td></tr>
+<td>3:50 PM</td><td>COVID-19 Stock Exploration and Time Series Analysis</td><td>Faisal Refai, Misran Dolan, Hisham Iqbal</td></tr>
 <tr>
-<td>3:55 PM</td><td>COVID-19 Interactive Simulator</td><td>Will Define, Shen Yan, Christian Paget, Brienne Tyler</td></tr>
-<tr><td>4:05 PM</td><td>COVIM: COVID-19 Intervention Modeling</td><td>Kiara Gan, Aaron Ho, Rashid Lasker, Eli Lifland</td></tr>
+<td>4:00 PM</td><td>COVID-19 Interactive Simulator</td><td>Will Define, Shen Yan, Christian Paget, Brienne Tyler</td></tr>
+<tr><td>4:10 PM</td><td>COVIM: COVID-19 Intervention Modeling</td><td>Kiara Gan, Aaron Ho, Rashid Lasker, Eli Lifland</td></tr>
 <tr>
-<td>4:15 PM</td><td>Analyzing the Impacts of Covid 19 Through Travel Data</td><td>Saeed Razavi, Sharvari Bhatt, Leon Smith, Yi Fan Lim, Lydia Kim</td>
+<td>4:20 PM</td><td>Analyzing the Impacts of Covid 19 Through Travel Data</td><td>Saeed Razavi, Sharvari Bhatt, Leon Smith, Yi Fan Lim, Lydia Kim</td>
 </tr>
 </table>
