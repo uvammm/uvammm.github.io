@@ -6,8 +6,7 @@ slug = "symposium"
 +++
 
 The schedule for the *Final Projects Symposium Spectacular* is below,
-starting at 2:00pm on Wednesday, 29 April.
-
+starting at 2:00pm on Wednesday, 29 April at <a href="https://virginia.zoom.us/j/97366214060"><em>https://virginia.zoom.us/j/97366214060</em></a>.
 
 <table>
 <tr bgcolor="#018383" color="white">
