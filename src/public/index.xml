@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markets, Mechanisms, Machines</title>
-    <link>https://uvammm.github.io/index.xml</link>
+    <link>https://uvammm.github.io/</link>
     <description>Recent content on Markets, Mechanisms, Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uvammm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Symposium Presentations</title>
@@ -15,100 +17,15 @@
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/symposiumpresentations/</guid>
-      <description>
-
-&lt;p&gt;Here are links to final projects and presentations from the &lt;a href=&#34;https://uvammm.github.io/symposium&#34;&gt;Symposium
-Spectacular&lt;/a&gt;. Congratulations to all the teams for
-impressive work and engaging presentations!&lt;/p&gt;
-
-&lt;h2 id=&#34;uva-students-and-covid-spread&#34;&gt;UVA Students and COVID Spread&lt;/h2&gt;
-
-&lt;p&gt;Maxwell Patek, Nate Strawser, Nicolas Izurrategui, Muxuan Yan&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pizza-Winning Presentation:&lt;/strong&gt; &lt;A href=&#34;https://www.dropbox.com/s/yk5wn4yeovjms0u/students-and-covid-spread.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;http://people.virginia.edu/~my2pk/infection-simulator/sites/&#34;&gt;http://people.virginia.edu/~my2pk/infection-simulator/sites/&lt;/a&gt;&lt;br /&gt;
-Source Code: &lt;a href=&#34;https://github.com/max7patek/infection-simulator&#34;&gt;https://github.com/max7patek/infection-simulator&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;covid-19-interactive-simulator&#34;&gt;COVID-19 Interactive Simulator&lt;/h2&gt;
-
-&lt;p&gt;Will Define, Shen Yan, Christian Paget, Brienne Tyler&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pizza-Winning Presentation:&lt;/strong&gt; &lt;A href=&#34;https://www.dropbox.com/s/k4shn45xjoe3xq3/covid-simulator.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;https://wdefine.github.io/mmmfinalproject/&#34;&gt;https://wdefine.github.io/mmmfinalproject/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;optimizing-your-covid-19-finances-a-survival-guide&#34;&gt;Optimizing your COVID-19 Finances: A Survival Guide&lt;/h2&gt;
-
-&lt;p&gt;Disha Jain, Sindhu Ranga, Jason Quinn, Sameer Gupta&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/4nhecrklv0fkzkx/optimizing-your-covid-finances.mp4?dl=0&#34;&gt;Video&lt;/a&gt;, &lt;A href=&#34;https://docs.google.com/presentation/d/1r_Vmf2o3AQ0IFCqDYMMOENTJYpZ4haYaflXEjTevXGo/edit?usp=sharing&#34;&gt;Presentation Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;nlp-for-covid19&#34;&gt;NLP for COVID19&lt;/h2&gt;
-
-&lt;p&gt;Eric Wang, Serena Jiao, Megan Cheng, Christine Cheng&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/u56a1otrb0zjs3j/nlpcovid.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;https://github.com/ericjoshuawang/NLP_COVID19&#34;&gt;
-&lt;a href=&#34;https://github.com/ericjoshuawang/NLP_COVID19&#34;&gt;https://github.com/ericjoshuawang/NLP_COVID19&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;effect-of-contact-tracing-on-the-spread-of-covid-19&#34;&gt;Effect of Contact Tracing on the Spread of COVID-19&lt;/h2&gt;
-
-&lt;p&gt;Rebecca Zhou, Avery Burton, Eimara Mirza, Louisa Evola&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/huv5nrf8onf9gh5/contacttracing.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;https://sites.google.com/virginia.edu/contact-tracing/home&#34;&gt;https://sites.google.com/virginia.edu/contact-tracing/home&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;risky-business-an-analysis-of-health-risk-factors&#34;&gt;Risky Business | An Analysis of Health Risk Factors&lt;/h2&gt;
-
-&lt;p&gt;Anna Davis, Courtney Jacobs, Sally Greenberg, Chris Puglisi&lt;/p&gt;
-
-&lt;p&gt;Project Site: &lt;a href=&#34;https://mmms20-riskybusiness.ue.r.appspot.com/&#34;&gt;&lt;a href=&#34;https://mmms20-riskybusiness.ue.r.appspot.com/&amp;quot;&#34;&gt;https://mmms20-riskybusiness.ue.r.appspot.com/&amp;quot;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;income-and-occupation-effects-on-social-distancing&#34;&gt;Income and Occupation Effects on Social Distancing&lt;/h2&gt;
-
-&lt;p&gt;Ryan Keller, Zac Bilmen, Ravi Kodali, Jami Park&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/7zymdx0yagdf4xt/social-distancing-by-occupation.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;https://github.com/zb3qk/Social-Distancing-By-Occupation&#34;&gt;https://github.com/zb3qk/Social-Distancing-By-Occupation&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;inside-china-s-two-child-policy&#34;&gt;Inside China&amp;rsquo;s Two-Child Policy&lt;/h2&gt;
-
-&lt;p&gt;Margaret Cheng, Sophia Cheung, Yilin Huang, Yutong Zhong&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/89sh37vy7b3kf3y/two-child-policy.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;https://yh3mw1.wixsite.com/mmm-2&#34;&gt;https://yh3mw1.wixsite.com/mmm-2&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;soccer-player-ratings&#34;&gt;Soccer Player Ratings&lt;/h2&gt;
-
-&lt;p&gt;Joe Karaki, Jack Short&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/5gb6rhutipvkt9l/soccer-player-value.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;hotel-occupancy-optimization&#34;&gt;Hotel Occupancy Optimization&lt;/h2&gt;
-
-&lt;p&gt;Sam Spreen, Arjun Iyer, Ashwin Krishnamurthi, Rohan Malladi&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/0xlx03l4qe7bank/hotel-occupancy.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Report: &lt;a href=&#34;https://drive.google.com/file/d/1XGGegTCT-5jZ4Ric7P11B0PPsY7Qhzge/view&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;covid-19-stock-exploration-and-time-series-analysis&#34;&gt;COVID-19 Stock Exploration and Time Series Analysis&lt;/h2&gt;
-
-&lt;p&gt;Faisal Refai, Misran Dolan, Hisham Iqbal&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/zxdmdk5gm92nuk1/stock-exploration.mp4?dl=0&#34;&gt;Video&lt;/a&gt;, &lt;a href=&#34;https://docs.google.com/presentation/d/1LlNnwEId2ubJr_jviplkqb4dOnQtrV601AWySX2SJAQ/edit#slide=id.p&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;covim-covid-19-intervention-modeling&#34;&gt;COVIM: COVID-19 Intervention Modeling&lt;/h2&gt;
-
-&lt;p&gt;Kiara Gan, Aaron Ho, Rashid Lasker, Eli Lifland&lt;/p&gt;
-
-&lt;p&gt;Presentation: &lt;a href=&#34;https://www.dropbox.com/s/18vj3ah5d8967t1/covid-intervention-modeling.mp4?dl=0&#34;&gt;Video&lt;/a&gt;&lt;br /&gt;
-Project Site: &lt;a href=&#34;https://covim.herokuapp.com/&#34;&gt;https://covim.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;analyzing-the-impacts-of-covid-19-through-travel-data&#34;&gt;Analyzing the Impacts of Covid 19 Through Travel Data&lt;/h2&gt;
-
-&lt;p&gt;Saeed Razavi, Sharvari Bhatt, Leon Smith, Yi Fan Lim, Lydia Kim&lt;/p&gt;
-
-&lt;p&gt;Project Site: &lt;a href=&#34;https://saeedrazavi.github.io/MMMAnalyzing-Economic-Impacts-of-COVID-19-Through-Travel-Data/&#34;&gt;https://saeedrazavi.github.io/MMMAnalyzing-Economic-Impacts-of-COVID-19-Through-Travel-Data/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Here are links to final projects and presentations from the Symposium Spectacular. Congratulations to all the teams for impressive work and engaging presentations!
+UVA Students and COVID Spread Maxwell Patek, Nate Strawser, Nicolas Izurrategui, Muxuan Yan
+Pizza-Winning Presentation: Video
+Project Site: http://people.virginia.edu/~my2pk/infection-simulator/sites/
+Source Code: https://github.com/max7patek/infection-simulator
+COVID-19 Interactive Simulator Will Define, Shen Yan, Christian Paget, Brienne Tyler
+Pizza-Winning Presentation: Video
+Project Site: https://wdefine.github.io/mmmfinalproject/
+Optimizing your COVID-19 Finances: A Survival Guide Disha Jain, Sindhu Ranga, Jason Quinn, Sameer Gupta</description>
     </item>
     
     <item>
@@ -117,41 +34,8 @@ Project Site: &lt;a href=&#34;https://covim.herokuapp.com/&#34;&gt;https://covim
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/symposium/</guid>
-      <description>&lt;p&gt;The schedule for the &lt;em&gt;Final Projects Symposium Spectacular&lt;/em&gt; is below,
-starting at 2:00pm on Wednesday, 29 April at &lt;a href=&#34;https://virginia.zoom.us/j/97366214060&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://virginia.zoom.us/j/97366214060&#34;&gt;https://virginia.zoom.us/j/97366214060&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;tr bgcolor=&#34;#018383&#34; color=&#34;white&#34;&gt;
-&lt;th&gt;&lt;font color=&#34;#faf8f8&#34;&gt;Start&amp;nbsp;Time&lt;/th&gt;  &lt;th&gt;&lt;font color=&#34;#faf8f8&#34;&gt;Project Title&lt;/th&gt;    &lt;th&gt;&lt;font color=&#34;#faf8f8&#34;&gt;Team&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2:00 PM&lt;/td&gt;    &lt;td&gt;Optimizing your COVID-19 Finances: A Survival Guide&lt;/td&gt;&lt;td&gt;Disha Jain, Sindhu Ranga, Jason Quinn, Sameer Gupta&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2:15 PM&lt;/td&gt;&lt;td&gt;NLP for COVID19&lt;/td&gt;&lt;td&gt;Eric Wang, Serena Jiao, Megan Cheng, Christine Cheng&lt;/td&gt;&lt;/tr&gt;
-&lt;td&gt;2:25 PM&lt;/td&gt;&lt;td&gt;Effect of Contact Tracing on the Spread of COVID-19&lt;/td&gt;&lt;td&gt;Rebecca Zhou, Avery Burton, Eimara Mirza, Louisa Evola&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2:35 PM&lt;/td&gt;&lt;td&gt;Risky Business | An Analysis of Health Risk Factors&lt;/td&gt;&lt;td&gt;Anna Davis, Courtney Jacobs, Sally Greenberg, Chris Puglisi&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2:45 PM&lt;/td&gt;&lt;td&gt;Income and Occupation Effects on Social Distancing&lt;/td&gt;&lt;td&gt;Ryan Keller, Zac Bilmen, Ravi Kodali, Jami Park&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2:55 PM&lt;/td&gt;&lt;td&gt;UVA Students and COVID Spread&lt;/td&gt;&lt;td&gt;Maxwell Patek, Nate Strawser, Nicolas Izurrategui, Muxuan Yan&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3:05 PM&lt;/td&gt;&lt;td&gt;Inside China&#39;s Two-Child Policy&lt;/td&gt;&lt;td&gt;Margaret Cheng, Sophia Cheung, Yilin Huang, Yutong Zhong&lt;/td&gt;&lt;/tr&gt;
-&lt;tr bgcolor=&#34;#f5dea3&#34;&gt;
-&lt;td&gt;3:15 PM&lt;/td&gt;&lt;td colspan=2 align=center&gt;Walk Around Your Room Break&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3:30 PM&lt;/td&gt;&lt;td&gt;Soccer Player Ratings&lt;/td&gt;&lt;td&gt;Joe Karaki, Jack Short&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3:40 PM&lt;/td&gt;&lt;td&gt;Hotel Occupancy Optimization&lt;/td&gt;&lt;td&gt;Sam Spreen, Arjun Iyer, Ashwin Krishnamurthi, Rohan Malladi&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3:50 PM&lt;/td&gt;&lt;td&gt;COVID-19 Stock Exploration and Time Series Analysis&lt;/td&gt;&lt;td&gt;Faisal Refai, Misran Dolan, Hisham Iqbal&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4:00 PM&lt;/td&gt;&lt;td&gt;COVID-19 Interactive Simulator&lt;/td&gt;&lt;td&gt;Will Define, Shen Yan, Christian Paget, Brienne Tyler&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;4:10 PM&lt;/td&gt;&lt;td&gt;COVIM: COVID-19 Intervention Modeling&lt;/td&gt;&lt;td&gt;Kiara Gan, Aaron Ho, Rashid Lasker, Eli Lifland&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4:20 PM&lt;/td&gt;&lt;td&gt;Analyzing the Impacts of Covid 19 Through Travel Data&lt;/td&gt;&lt;td&gt;Saeed Razavi, Sharvari Bhatt, Leon Smith, Yi Fan Lim, Lydia Kim&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-</description>
+      <description>The schedule for the Final Projects Symposium Spectacular is below, starting at 2:00pm on Wednesday, 29 April at https://virginia.zoom.us/j/97366214060.
+ Start&amp;nbsp;Time	Project Title	Team  2:00 PM	Optimizing your COVID-19 Finances: A Survival GuideDisha Jain, Sindhu Ranga, Jason Quinn, Sameer Gupta  2:15 PMNLP for COVID19Eric Wang, Serena Jiao, Megan Cheng, Christine Cheng 2:25 PMEffect of Contact Tracing on the Spread of COVID-19Rebecca Zhou, Avery Burton, Eimara Mirza, Louisa Evola  2:35 PMRisky Business | An Analysis of Health Risk FactorsAnna Davis, Courtney Jacobs, Sally Greenberg, Chris Puglisi  2:45 PMIncome and Occupation Effects on Social DistancingRyan Keller, Zac Bilmen, Ravi Kodali, Jami Park  2:55 PMUVA Students and COVID SpreadMaxwell Patek, Nate Strawser, Nicolas Izurrategui, Muxuan Yan  3:05 PMInside China&#39;s Two-Child PolicyMargaret Cheng, Sophia Cheung, Yilin Huang, Yutong Zhong 3:15 PMWalk Around Your Room Break  3:30 PMSoccer Player RatingsJoe Karaki, Jack Short  3:40 PMHotel Occupancy OptimizationSam Spreen, Arjun Iyer, Ashwin Krishnamurthi, Rohan Malladi  3:50 PMCOVID-19 Stock Exploration and Time Series AnalysisFaisal Refai, Misran Dolan, Hisham Iqbal  4:00 PMCOVID-19 Interactive SimulatorWill Define, Shen Yan, Christian Paget, Brienne Tyler 4:10 PMCOVIM: COVID-19 Intervention ModelingKiara Gan, Aaron Ho, Rashid Lasker, Eli Lifland  4:20 PMAnalyzing the Impacts of Covid 19 Through Travel DataSaeed Razavi, Sharvari Bhatt, Leon Smith, Yi Fan Lim, Lydia Kim   </description>
     </item>
     
     <item>
@@ -160,12 +44,8 @@ starting at 2:00pm on Wednesday, 29 April at &lt;a href=&#34;https://virginia.zo
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class26/</guid>
-      <description>&lt;p&gt;Chapter 21 of &lt;a href=&#34;https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf&#34;&gt;&lt;em&gt;Networks, Crowds, and Markets: Reasoning about a
-Highly Connected World&lt;/em&gt;&lt;/a&gt;
-by David Easley and Jon Kleinberg covers many of the topics from today&amp;rsquo;s class.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvammm.github.io/finalplans&#34;&gt;Final Plans&lt;/a&gt; summaries the plans for the rest of the semester, that were discussed in Class 26.&lt;/p&gt;
-</description>
+      <description>Chapter 21 of Networks, Crowds, and Markets: Reasoning about a Highly Connected World by David Easley and Jon Kleinberg covers many of the topics from today&amp;rsquo;s class.
+Final Plans summaries the plans for the rest of the semester, that were discussed in Class 26.</description>
     </item>
     
     <item>
@@ -174,50 +54,9 @@ by David Easley and Jon Kleinberg covers many of the topics from today&amp;rsquo
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/finalplans/</guid>
-      <description>
-
-&lt;p&gt;We discussed results from the survey and plans for the rest of the semester.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/qjdrr0d53auduc9/finalplans.pdf?dl=0&#34;&gt;Slides on Survey and Plans (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;remaining-classes&#34;&gt;Remaining Classes&lt;/h2&gt;
-
-&lt;p&gt;The scheduled class meetings on &lt;strong&gt;Thursday, 23 April&lt;/strong&gt; and &lt;strong&gt;Tuesday,
-28 April&lt;/strong&gt; will be open office hours for discussions about any topic
-you are interested in, including your final projects. This will be an
-opportunity to get feedback or advice on any issues for your project,
-including both techincal and research issues, as well as on planning
-your presentation.  You are also encouraged to use these times as
-opportunities to coordinate with your team and work on completing your
-project. You can also you the time on April 28 to test out presenting
-using zoom and experiment with different options you mnight want to
-use in your project presentation.&lt;/p&gt;
-
-&lt;h2 id=&#34;final-project-submissions&#34;&gt;Final Project Submissions&lt;/h2&gt;
-
-&lt;p&gt;Final project submissions are due &lt;strong&gt;Tuesday, 28 April, 2:59pm&lt;/strong&gt;. For
-the project submssion, you will submit a form with your project title,
-team members, URL (if you have a public project site), and answer
-questions about whether or not you want your presentation recorded and
-shared, and if you would like to request more than 10 minutes for your
-presentation.  It is not necessary to submit a formal project report
-or paper if the website you submit is self-contained (e.g., if it is a
-code repository, it should include a &lt;code&gt;README.md&lt;/code&gt; that explains the
-purpose of your project and describes your results).&lt;/p&gt;
-
-&lt;h2 id=&#34;final-projects-symposium-spectacular&#34;&gt;Final Projects Symposium Spectacular!&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Wednesday, 29 April, 2:00-4:30pm&lt;/strong&gt; we will hold a Final Projects
-  Symposium Spectacular! This will be in our favorite zoom meeting
-  room. Due to limitations of current &lt;a href=&#34;https://www.openhub.net/p/beeroverip&#34;&gt;Internet
-  Protocols&lt;/a&gt;, we regret that the
-  symposium will be BYOB.&lt;/p&gt;
-
-&lt;p&gt;Each team will have up to 10 minutes to present your project (unless
-you pre-arranged for additional time). Your presentation can be a
-demo, slide show, puppet show, musical, video, or any other form of
-presentation that you can transmit through zoom.&lt;/p&gt;
-</description>
+      <description>We discussed results from the survey and plans for the rest of the semester.
+Slides on Survey and Plans (PDF)
+Remaining Classes The scheduled class meetings on Thursday, 23 April and Tuesday, 28 April will be open office hours for discussions about any topic you are interested in, including your final projects. This will be an opportunity to get feedback or advice on any issues for your project, including both techincal and research issues, as well as on planning your presentation.</description>
     </item>
     
     <item>
@@ -226,12 +65,8 @@ presentation that you can transmit through zoom.&lt;/p&gt;
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class23/</guid>
-      <description>&lt;p&gt;Talk and discussion with Adam Davis,from Upstart, an AI lending
-platform, on business analytics and his experiences as a new employee
-at a startup company.&lt;/p&gt;
-
-&lt;p&gt;(A video is available for students in the class, but not publicly.)&lt;/p&gt;
-</description>
+      <description>Talk and discussion with Adam Davis,from Upstart, an AI lending platform, on business analytics and his experiences as a new employee at a startup company.
+(A video is available for students in the class, but not publicly.)</description>
     </item>
     
     <item>
@@ -240,31 +75,11 @@ at a startup company.&lt;/p&gt;
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class22/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/xcz60ri1oq2o4xj/class22.pdf?dl=0&#34;&gt;Class 22 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://youtu.be/YfsdJGj3-jM&#34;&gt;&lt;em&gt;Coronavirus: From 93 infected to 0, what did this Chinese City do to contain the virus?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.google.com/covid19/mobility/&#34;&gt;Google&amp;rsquo;s COVID-19 Community Mobility Reports&lt;/a&gt; &lt;a href=&#34;https://uvammm.github.io/docs/2020-03-29_US_Virginia_Mobility_Report_en.pdf&#34;&gt;Virginia, 29 March 2020&lt;/a&gt; (You can see if you&amp;rsquo;ve contributed to this at &lt;a href=&#34;https://www.google.com/maps/timeline&#34;&gt;https://www.google.com/maps/timeline&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;Kinsa &lt;a href=&#34;https://healthweather.us/?mode=Trends&#34;&gt;US Health Weather Map&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Cynthia Dwork, Frank McSherry, Kobbi Nissim, and Adam Smith. &lt;a href=&#34;https://uvammm.github.io/docs/dwork.pdf&#34;&gt;&lt;em&gt;Calibrating Noise to Sensitivity in Private Data
-Analysis&lt;/em&gt;&lt;/a&gt;. TCC 2006. (Paper that introduced Differential Privacy.)&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://youtu.be/cq2zuE3ISYU&#34;&gt;&lt;em&gt;Tectonix: Spring Break vs. Covid-19&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://www.youtube.com/watch?v=buj8ZTRtJes&#34;&gt;TraceTogether&lt;/a&gt; (Government of Singapore)&lt;/p&gt;
-
-&lt;p&gt;Privacy-Preserving Contact Tracing: &lt;a href=&#34;https://github.com/DP-3T&#34;&gt;https://github.com/DP-3T&lt;/a&gt; (see &lt;a href=&#34;https://github.com/DP-3T/documents/issues&#34;&gt;Issues&lt;/a&gt; for discussions on some of the issues we discussed)&lt;/p&gt;
-
-&lt;p&gt;Idle Words, &lt;a href=&#34;https://idlewords.com/2020/03/we_need_a_massive_surveillance_program.htm&#34;&gt;&lt;em&gt;We Need a Massive Surveillance Program&lt;/em&gt;&lt;/a&gt; (previous perspective on ambient privacy: &lt;a href=&#34;https://idlewords.com/2019/06/the_new_wilderness.htm&#34;&gt;The New Wilderness&lt;/a&gt;) (&lt;a href=&#34;https://jeffersonswheel.org/google-federated-privacy-2019-the-dragon-in-the-room/&#34;&gt;My talk at Google on this&lt;/a&gt;, June 2019.)&lt;/p&gt;
-</description>
+      <description>Slides Class 22 Slides (PDF)
+Links Video: Coronavirus: From 93 infected to 0, what did this Chinese City do to contain the virus?
+Google&amp;rsquo;s COVID-19 Community Mobility Reports Virginia, 29 March 2020 (You can see if you&amp;rsquo;ve contributed to this at https://www.google.com/maps/timeline.)
+Kinsa US Health Weather Map
+Cynthia Dwork, Frank McSherry, Kobbi Nissim, and Adam Smith. Calibrating Noise to Sensitivity in Private Data Analysis. TCC 2006. (Paper that introduced Differential Privacy.</description>
     </item>
     
     <item>
@@ -273,10 +88,7 @@ Analysis&lt;/em&gt;&lt;/a&gt;. TCC 2006. (Paper that introduced Differential Pri
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class21/</guid>
-      <description>&lt;p&gt;Guest lecture and discussion with Joseph Calandrino, Research
-Director, Office of Technology Research and Investigation, Federal
-Trade Commission.&lt;/p&gt;
-</description>
+      <description>Guest lecture and discussion with Joseph Calandrino, Research Director, Office of Technology Research and Investigation, Federal Trade Commission.</description>
     </item>
     
     <item>
@@ -285,10 +97,8 @@ Trade Commission.&lt;/p&gt;
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class20/</guid>
-      <description>&lt;p&gt;Slides&lt;/p&gt;
-
-&lt;p&gt;The video we watched is &lt;a href=&#34;https://www.youtube.com/watch?v=0zvrGiPkVcs&#34;&gt;Esther Duflo, &lt;em&gt;Social experiments to fight poverty&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Slides
+The video we watched is Esther Duflo, Social experiments to fight poverty.</description>
     </item>
     
     <item>
@@ -297,9 +107,7 @@ Trade Commission.&lt;/p&gt;
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class19/</guid>
-      <description>&lt;p&gt;Guest lecture and discussion with Tammy Wang, Vice President of Data
-Science and Engineering at Riviera Partners.&lt;/p&gt;
-</description>
+      <description>Guest lecture and discussion with Tammy Wang, Vice President of Data Science and Engineering at Riviera Partners.</description>
     </item>
     
     <item>
@@ -308,44 +116,10 @@ Science and Engineering at Riviera Partners.&lt;/p&gt;
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/projectproposals/</guid>
-      <description>&lt;p&gt;The Project Proposals (originally scheduled to be due on Sunday, 29
-March) are now due on Wednesday, 1 April (8:59pm). If you do have your
-proposal ready earlier, we appreciate early submissions and will
-prioritize giving feedback to proposals in (roughly) the order they
-are received.&lt;/p&gt;
-
-&lt;p&gt;Your project proposal should contain:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Title of your project: short description that clearly captures your
-project idea.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A short paragraph that describes the goal of your project.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A project jusfication that explains for at least three of the goals
-above (fun, relevant, technically interesting, useful) how your
-project satisfies them.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A project plan that explains the main tasks needed to successfully
-complete your project and what you will actually do.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Resources you have found or your plan for finding them. For most
-projects, this should include a list of papers relevant to your
-project. For many projects, it will also include datasets and code
-that you plan to use.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A list of your team members and their roles and
-responsibilities. If your team has more than two people, this should
-also explain how you plan to coordinate and manage your team.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;You should submit your project proposal by sending a slack message to
-a group that includes all of your team members and all of the course
-staff: &lt;code&gt;@Dave&lt;/code&gt; &lt;code&gt;@Denis Nekipelov&lt;/code&gt;
-&lt;code&gt;@Cam&lt;/code&gt; &lt;code&gt;@Kyeongtak Do&lt;/code&gt;. (If you already have a
-channel set up with all of us on it, please use that.)  You should
-submit the proposal as a PDF file attachment to the message.&lt;/p&gt;
-</description>
+      <description>The Project Proposals (originally scheduled to be due on Sunday, 29 March) are now due on Wednesday, 1 April (8:59pm). If you do have your proposal ready earlier, we appreciate early submissions and will prioritize giving feedback to proposals in (roughly) the order they are received.
+Your project proposal should contain:
+  Title of your project: short description that clearly captures your project idea.
+  A short paragraph that describes the goal of your project.</description>
     </item>
     
     <item>
@@ -354,8 +128,7 @@ submit the proposal as a PDF file attachment to the message.&lt;/p&gt;
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class18/</guid>
-      <description>&lt;p&gt;Students presented ideas for their final projects.&lt;/p&gt;
-</description>
+      <description>Students presented ideas for their final projects.</description>
     </item>
     
     <item>
@@ -364,8 +137,7 @@ submit the proposal as a PDF file attachment to the message.&lt;/p&gt;
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class17/</guid>
-      <description>&lt;p&gt;We discussed plans for the semester and course projects.&lt;/p&gt;
-</description>
+      <description>We discussed plans for the semester and course projects.</description>
     </item>
     
     <item>
@@ -374,11 +146,8 @@ submit the proposal as a PDF file attachment to the message.&lt;/p&gt;
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/zoomlink/</guid>
-      <description>&lt;p&gt;The link for our zoom class meetings is: &lt;a href=&#34;https://virginia.zoom.us/j/237871483&#34;&gt;https://virginia.zoom.us/j/237871483&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Everyone should have received the message on slack and email about our
-plans for the rest of the semester.&lt;/p&gt;
-</description>
+      <description>The link for our zoom class meetings is: https://virginia.zoom.us/j/237871483.
+Everyone should have received the message on slack and email about our plans for the rest of the semester.</description>
     </item>
     
     <item>
@@ -387,53 +156,10 @@ plans for the rest of the semester.&lt;/p&gt;
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class16/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/2dxafko1oxceinr/class16.pdf?dl=0&#34;&gt;Class 16 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;project-ideas&#34;&gt;Project Ideas&lt;/h1&gt;
-
-&lt;p&gt;The &lt;em&gt;Team and General Idea&lt;/em&gt; for your final project is due &lt;strong&gt;Thursday, 19 March&lt;/strong&gt; (ready to present in class that day).&lt;/p&gt;
-
-&lt;p&gt;Your team should be prepared to present a few slides with:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Name of your project&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;List of your &lt;strong&gt;team members&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Purpose of your project: &lt;em&gt;how it satisfies the four project desiderata&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;What you &lt;strong&gt;plan to do&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;What you hope the &lt;strong&gt;outcome&lt;/strong&gt; will be&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-
-&lt;p&gt;Here are links to some of the ideas and resources I presented in class.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.pnas.org/content/109/26/10409&#34;&gt;&lt;em&gt;Iterated Prisoner&amp;rsquo;s Dilemma&lt;/em&gt;&lt;/a&gt; (William Press and Feemman Dyson). See also &lt;a href=&#34;https://www.ias.edu/ideas/2012/dyson-prisoners-dilemma&#34;&gt;&lt;em&gt;The Prisoner’s Dilemma&lt;/em&gt;&lt;/a&gt;, Freeman Dyson, IAS, 2012.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/papers/w26480&#34;&gt;&lt;em&gt;Teacher Effects on Student Achievement and Height: A Cautionary Tale&lt;/em&gt;&lt;/a&gt; (Marianne Bitler, Sean Corcoran, Thurston Domina, Emily Penner), NBER 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/papers/w26533&#34;&gt;&lt;em&gt;Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach&lt;/em&gt;&lt;/a&gt; (Jacob Goldin, Ithai Z. Lurie, Janet McCubbin), NBER 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nber.org/papers/w26752&#34;&gt;&lt;em&gt;Stagnation and Scientific Incentives&lt;/em&gt;&lt;/a&gt; (Jay Bhattacharya, Mikko Packalen), NBER 2020. (Didn&amp;rsquo;t talk about this one.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ads.google.com/aw/keywords&#34;&gt;Google Ads Keywords&lt;/a&gt; (requires Google Ads account)&lt;/p&gt;
-
-&lt;p&gt;Yelp privacy (contact us for more information on this, as well as access to the dataset)&lt;/p&gt;
-
-&lt;p&gt;Harvard admissions lawsuit: &lt;a href=&#34;https://samv91khoyt2i553a2t1s05i-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Doc-415-1-Arcidiacono-Expert-Report.pdf&#34;&gt;Peter Arcidiacono&amp;rsquo;s expert report (for &amp;ldquo;Students for Fair Admissions&amp;rdquo;)&lt;/a&gt; &lt;a href=&#34;https://projects.iq.harvard.edu/files/diverse-education/files/expert_report_-_2017-12-15_dr._david_card_expert_report_updated_confid_desigs_redacted.pdf&#34;&gt;David Card&amp;rsquo;s expert report (for Harvard)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.povertyactionlab.org/&#34;&gt;Poverty Action Lab&lt;/a&gt; (&lt;a href=&#34;https://www.povertyactionlab.org/admindatacatalog&#34;&gt;Data Sets&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;COVID-19: there is lots of data available, and more being produced every hour.
-&lt;a href=&#34;https://ourworldindata.org/coronavirus&#34;&gt;OurWorldInData&lt;/a&gt; is a good collection of resources.
-Also recommend reading: &lt;a href=&#34;https://jamanetwork.com/journals/jama/fullarticle/2762689&#34;&gt;Response to COVID-19 in Taiwan
-Big Data Analytics, New Technology, and Proactive Testing&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.fcc.gov/auction/103/factsheet&#34;&gt;FCC Spectrum Auctions&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1023/A:1008174031940&#34;&gt;&lt;em&gt;Collusive Bidding: Lessons from the FCC Spectrum Auctions&lt;/em&gt;&lt;/a&gt; (Peter Cramton and Jesse Schwartz, 2000).&lt;/p&gt;
-</description>
+      <description>Slides Class 16 Slides (PDF)
+Project Ideas The Team and General Idea for your final project is due Thursday, 19 March (ready to present in class that day).
+Your team should be prepared to present a few slides with:
+ Name of your project List of your team members Purpose of your project: how it satisfies the four project desiderata What you plan to do What you hope the outcome will be  Links Here are links to some of the ideas and resources I presented in class.</description>
     </item>
     
     <item>
@@ -442,14 +168,327 @@ Big Data Analytics, New Technology, and Proactive Testing&lt;/a&gt;.&lt;/p&gt;
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvammm.github.io/class14/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/sjc8yhap7clhghx/class14-wrapup.pdf?dl=0&#34;&gt;Poker Game Wrap-up (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/cmdf2p6m3ztljsu/class14.pdf?dl=0&#34;&gt;Class 14 Slides (PDF)&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Slides Poker Game Wrap-up (PDF)
+Class 14 Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 15: In-Class Auction, Auction Theory</title>
+      <link>https://uvammm.github.io/class15/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class15/</guid>
+      <description>In-Class Auction Congratulations to Kiara Gan, Aaron Ho, Rashid Lasker, and Eli Lifland for winning the Project 4 Auction!
+It was a close competition with Team 6 (Anna Davis, Sally Greenberg, Chris Puglisi, Courtney Jacobs) and Team 3 (Maxwell Patek, Nicolas Izurrategui, Muxuan Yan, and Nate Strawser) tied for second.
+We&amp;rsquo;ll have some more results and analysis from the auction in class Thursday.
+Slides Class 15 Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 13: Auction Theory</title>
+      <link>https://uvammm.github.io/class13/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class13/</guid>
+      <description>Slides Class 13 Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://uvammm.github.io/project4posted/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project4posted/</guid>
+      <description>Project 4 is now posted, and is due on Tuesday, 3 March, 9:29am.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: On-line Advertising Auctions</title>
+      <link>https://uvammm.github.io/project4/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project4/</guid>
+      <description>Tuesday, 3 March, 9:29am. We will run an on-line auction in class on Tuesday, 3 March.  For instructions for Project 4, see the Project 4 Notebook. You will also want to download:
+  app.py (provided code for running the auction server)  auction.py (provided code for running an auction client)  Then run,
+ jupyter notebook project4.ipynb  to get started. This will start the jupyter local server and open the notebook in your web browser.</description>
+    </item>
+    
+    <item>
+      <title>Class 12: Imperfect Information Games</title>
+      <link>https://uvammm.github.io/class12/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class12/</guid>
+      <description>Kidney Exchange Champions Congratulations to the winners of the Kidney Exchange Challenge:
+Bronze Kidney
+Rashid Lasker
+Eli Lafland
+Aaron Ho
+Kiara Gan
+Gold Kidney (Tie for First Place)
+Margaret Cheng
+Sophia Cheung
+Yilin Huang
+Yutong Zhong
+Brienne Tyler
+Christian Paget
+Shen Yan
+Will Define
+Slides Slides (PDF)
+We will finish finding the optimal strategy next class!
+Links John F. Nash, Jr. Equilibrium Points in N-Person Games. Proceedings of the National Academy of Sciences.</description>
+    </item>
+    
+    <item>
+      <title>Class 11: Game Theory</title>
+      <link>https://uvammm.github.io/class11/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class11/</guid>
+      <description>Slides Slides (PDF)
+Links John von Neumann and Oskar Morgenstern, Theory of Games and Economic Behavior. 1944.
+Ran Canetti and Alon Rosen, Basics of Game Theory (lecture from Crytography and Game Theory course, November 2009.</description>
+    </item>
+    
+    <item>
+      <title>Class 10: Graph Theory</title>
+      <link>https://uvammm.github.io/class10/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class10/</guid>
+      <description>Schedule Reminder Project 3 is due Tuesday (18 February).
+Slides Continued from Class 9 Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 9: Kidney Exchange</title>
+      <link>https://uvammm.github.io/class9/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class9/</guid>
+      <description>Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 8: Centralized Resource Allocation</title>
+      <link>https://uvammm.github.io/class8/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class8/</guid>
+      <description>Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://uvammm.github.io/project3posted/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project3posted/</guid>
+      <description>Project 3 is now posted, and is due 9:59pm, Tuesday, 18 February 2020 (note the later than normal due time).
+For instructions for Project 3, see the Project 3 Notebook. You will also want to download:
+  simulator.py (Kidney exchange simulator)  patients.csv (provided dataset of patients that you should use for the notebook questions)  </description>
+    </item>
+    
+    <item>
+      <title>Project 3: Kidney Exchange</title>
+      <link>https://uvammm.github.io/project3/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project3/</guid>
+      <description>Due: 9:59pm, Tuesday, 18 February 2020 (note the later than normal due time!)  For instructions for Project 3, see the Project 3 Notebook. You will also want to download:
+  simulator.py (Kidney exchange simulator)  patients.csv (provided dataset of patients that you should use for the notebook questions)  Then run,
+ jupyter notebook project3.ipynb  to get started. This will start the jupyter local server and open the notebook in your web browser.</description>
+    </item>
+    
+    <item>
+      <title>Class 7: Matching without Markets</title>
+      <link>https://uvammm.github.io/class7/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class7/</guid>
+      <description>Slides Slides (PDF)
+Links stablematching.ipynb - Jupyter notebook with code for Gale-Shapley algorithm
+D. Gale and L. S. Shapley, College Admissions and the Stability of Marriage. The American Mathematical Monthly. Jan 1962. (2019 Superbowl commercial about optimality proof)
+Alvin Roth and Elliott Peranson, The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design. American Economic Review, Sept 1999.
+If you don&amp;rsquo;t trust a central authority to do the matching fairly or keep the preferences secret, you can use secure computation:</description>
+    </item>
+    
+    <item>
+      <title>Class 6: Experiments and False Findings</title>
+      <link>https://uvammm.github.io/class6/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class6/</guid>
+      <description>Slides Slides (PDF)
+Schedule Project 2 is due Tuesday, 4 February (9:29am).
+Links falsefindings.ipynb - Jupyter notebook on false findings
+John Ioannidis. Why Most Published Research Findings Are False. PLOS Medicine, August 2005.
+Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne (Microsoft). Controlled experiments on the web: survey and practical guide. Data Mining Knowledge and Discovery, 2009.</description>
+    </item>
+    
+    <item>
+      <title>Office Hours Schedule</title>
+      <link>https://uvammm.github.io/officehours/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/officehours/</guid>
+      <description>The office hours schedule is now set:
+Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)
+Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)
+Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)
+David Evans, Fridays, 8:30-10:00am (Rice 507)
+You don&amp;rsquo;t need to make an appointment for office hours - the point of them is that you can just stop by and discuss whatever you want. If you do want to meet with one of us but can&amp;rsquo;t make an office hours time, best to send a message on slack to schedule another time (or for me, you can use https://davidevans.</description>
+    </item>
+    
+    <item>
+      <title>Survey Questions Answered</title>
+      <link>https://uvammm.github.io/surveyquestions/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/surveyquestions/</guid>
+      <description>Here are my (Dave) answers to questions you asked for the What question do you have for us? question on the Beginning of Semester Survey. If you missed your chance to ask a question on the survey, or want to follow-up on any of these, feel free to ask additional questions in slack.
+What was the reason to start this course at UVA?  Prof. Nekipelov and I have a long-term goal of building a joint Economics/Computer Science major here, and this course is the pilot course for the major.</description>
+    </item>
+    
+    <item>
+      <title>Class 4: Cost of Empirical Rick Minimization</title>
+      <link>https://uvammm.github.io/class4/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class4/</guid>
+      <description>Slides Slides (PDF)
+Schedule Project 2 is due Tuesday, 4 February (9:29am).</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://uvammm.github.io/project2posted/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project2posted/</guid>
+      <description>Project 2 is now posted, and is due Tuesday, 4 February (9:29am).
+For Project 2, you will develop your model from Project 1, with a goal of improving the the &amp;ldquo;Zestimate&amp;rdquo; residual error using the data for 2017 in the Kaggle Zillow prize competition. The Kaggle competition has been concluded, so you&amp;rsquo;ll have to settle for learning, wisdom, and glory in place of Zillow&amp;rsquo;s $1.2M prize.
+We will run a competition in class on February 4 to see which model works best on a (secret until then) testing data set.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Zesty Kaggle Challenge</title>
+      <link>https://uvammm.github.io/project2/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project2/</guid>
+      <description>Project 2 is due Tuesday, 4 February, 9:29am.  For this project you will work with the same team of four that you formed for the first project (DM instructors on Slack if you would like to switch teams announce teams in slack). All team members should fully understand everything you submit. If there are parts you understand quickly but are new to your partners, it is your responsibility to explain them to your partners until everyone understands.</description>
+    </item>
+    
+    <item>
+      <title>Class 3: Introduction to Statistical Learning Theory</title>
+      <link>https://uvammm.github.io/class3/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class3/</guid>
+      <description>Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 2: Why do we need causal inference?</title>
+      <link>https://uvammm.github.io/class2/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class2/</guid>
+      <description>Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Class 1: Introduction, Causation</title>
+      <link>https://uvammm.github.io/class1/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/class1/</guid>
+      <description>Schedule Everyone wanting to be in the class should:
+ Submit the MMM Pre-Semester Survey Join the Course Slack Start forming a team for Project 1 (you can use the #teaming channel in slack to find teammates). Your team should be 2 Econ majors and 2 CS majors. (If you don&amp;rsquo;t find a full team, we will help form teams at Thursday&amp;rsquo;s class.)  Slides Slides (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Housing Price Prediction</title>
+      <link>https://uvammm.github.io/project1/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/project1/</guid>
+      <description>Project 1 is due Tuesday, 21 January, 9:29am.  Communicate with your classmates to form teams of four. Each team should have at least one CS major and at least one Econ major. Your team should work together on this assignment. All team members should fully understand everything you submit. If there are parts you understand quickly but are new to your partner, it is your responsibility to explain them to your partner until everyone understands.</description>
+    </item>
+    
+    <item>
+      <title>Beginning of Semester Survey</title>
+      <link>https://uvammm.github.io/survey/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/survey/</guid>
+      <description>Please submit this survey to register for the class:
+https://forms.gle/5gmDkR5xnA6xFfst5
+(You should do this if you want to take the class, whether or not you are officially enrolled in it now.)</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://uvammm.github.io/schedule/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/schedule/</guid>
+      <description>Class Meetings Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
+Office Hours Cameron Lloyd, Mondays, 6-7:30pm (Rice 442)
+Denis Nekipelov, Tuesdays, 11am-12:30pm (Monroe 254)
+Kyeongtak Do, Thursdays, 11am-12:30pm (Monroe Basement)
+David Evans, Fridays, 8:30-10:00am (Rice 507)
+Projects Tuesday, 21 January: Project 1: Predictions from Data (warm-up)
+Tuesday, 4 February: Project 2: Market Predictions
+Tuesday, 18 February: Project 3: Allocating Kidneys
+Tuesday, 3 March: Project 4: On-Line Auctions
+Final Project Tuseday, 24 March: Team and General Idea (see Class 16)</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://uvammm.github.io/syllabus-draft/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/syllabus-draft/</guid>
+      <description>PDF for Printing CS 4501/ECON 4730: Markets, Mechanisms, and Machines
+University of Virginia, Spring 2020
+Meetings: Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
+Prerequisites: Computer Science majors should register for the CS 4501 course, which has CS 2150 as a prerequisite. Economics majors should register for the ECON 4730 course, which has ECON 3010 or 3110 and ECON 3720 or 4720 as a prerequisite.
+Communication: Course materials will be posted on the course website: https://uvammm.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://uvammm.github.io/syllabus/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/syllabus/</guid>
+      <description>PDF for Printing CS 4501/ECON 4730: Markets, Mechanisms, and Machines
+University of Virginia, Spring 2020
+Meetings: Tuesdays and Thursdays, 9:30-10:45AM, MEC 213.
+Prerequisites: Computer Science majors should register for the CS 4501 course, which has CS 2150 as a prerequisite. Economics majors should register for the ECON 4730 course, which has ECON 3010 or 3110 and ECON 3720 or 4720 as a prerequisite.
+Communication: Course materials will be posted on the course website: https://uvammm.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://uvammm.github.io/welcome/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/welcome/</guid>
+      <description>Welcome to the website for the joint Economics/Computer Science course, Markets, Mechanisms, and Machines.
+More information will be posted here soon. For now, you can get a rough idea what the course will be like by looking at the Spring 2019 version of the course.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uvammm.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvammm.github.io/</guid>
+      <description>Final Projects You can see the final projects from last year&amp;rsquo;s class here: https://uvammm.github.io/s19/finalreports/. You&amp;rsquo;ll have more time for the final project this year than they did, and we have higher expectations for what you&amp;rsquo;ll be able to do, but several of the projects there are quite</description>
     </item>
     
   </channel>

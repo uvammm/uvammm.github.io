@@ -26,7 +26,7 @@ and ECON 3720 or 4720 as a prerequisite.
 
 ## Course Staff and Office Hours
 
-<section style="display: table;width: 100%; align: center">
+<sectiaon style="display: table;width: 100%; align: center">
   <div style="display: table-row; padding: 0.5rem">
   <div style="display: table-cell; padding: 0.5rem; text-align: center;width: 49%"> 
   <img class="img-circle" src="/images/dave-2.jpg" height=250 width=200><br>
