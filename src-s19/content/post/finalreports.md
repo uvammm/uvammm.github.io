@@ -40,7 +40,7 @@ Connor Atkins, Maggie Hunter, Jae Jun, Nicole Quinn, TJ Sample
 Samantha Burr  
 
 [**Nowcasting measles outbreaks using Google Trends**](https://drive.google.com/drive/folders/1D9sY5qAHySU7yGfX1GXsHS2rx8t-CURK)  
-Cyrus Morshedi, Hunter Rockley, Sharon Liu, Vivian Kim  
+Anonymous, Hunter Rockley, Sharon Liu, Vivian Kim  
 [Colab Notebook](https://colab.research.google.com/drive/1vkTU4bNuZ4Bxzq9PmkaMMqffgAwc_jVk)
 
 [**Let's Redesign Food Recommendations**](/projects/mmmfood.zip) (.zip file with data and code)  
