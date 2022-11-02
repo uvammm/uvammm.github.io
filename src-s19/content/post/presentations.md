@@ -14,7 +14,7 @@ slug = "class29"
 Connor Atkins, Maggie Hunter, Jae Jun, Nicole Quinn, TJ Sample  
 [_How to Beat Your Friends in Poker_](/projects/presentations/poker.pdf)
 
-Cyrus Morshedi, Hunter Rockley, Sharon Liu, Vivian Kim  
+Anonymous, Hunter Rockley, Sharon Liu, Vivian Kim  
 [_Nowcasting measles outbreaks using Google Trends_](https://docs.google.com/presentation/d/1C7AdJuGKSw2gb6cRAo3MBH2eFEJC2212cU1pvfzseY4/edit)
 
 Ryan Dailey, Leo Dominguez, Logan King  
