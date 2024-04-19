@@ -17,20 +17,12 @@ CS 4501 / ECON 4730<br>
 Spring 2020
 </p>
 <p>
-<a href="https://virginia.zoom.us/j/97366214060"><b>Zoom Link</b>
-</p>
-<p>
 <b><a href="/syllabus/">Syllabus</a></b><br>
 <b><a href="/schedule/">Schedule</a></b><br>
 </p>
 </p>
-   <b><a href="/post/">Recent Posts</a></b>
+   <b><a href="/post/">Posts</a></b>
    </p>
-   {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
-   <div class="posttitle">
-      {{ partial "post-title" . }}
-   </div>
-   {{ end }}
 <!--   <div class="more"><a href="/posts/">More...</a></div>-->
    </p>
    <p>
@@ -52,20 +44,42 @@ Cameron Lloyd</a><br>
    </div>
 
 
-    <div class="content">
+
+   <div class="content">
+
+      <p>
+<h1>Markets, Mechanisms, Machines</h1>
+      
+This course was offered in <a href="/s19">Spring 2019</a> and 
+<a href="/syllabus">Spring 2020</a> (which was transformmed into an on-line class 
+when the University went into pandemic lockdown in March 2020), co-taught by 
+<a href="https://www.cs.virginia.edu/evans/">David Evans</a> (Computer Science)
+and <a href="http://people.virginia.edu/~dn4w/">Dennis Nekipelov</a>. Since then,
+a related course <em>Introduction to Algorithmic Economics</em> has been taught in 
+some semesters.
+
+</p>
+
+<hr style="height:5px;border:none;color:#018383;width:80%;background-color:#018383;">
+</hr>
+<hr style="height:20px;border:none;color:#018383;width:80%;background-color:#f5dea3;">
+</hr>
 
 
+</p>
 
-    {{ range .Site.Pages }}
-        {{ if eq .Type "index" }}
-           {{ .Content }}
-        {{ end }}
-    {{ end }}
-  
+   {{ range .Site.Pages }}
+       {{ if eq .Type "index" }}
+          {{ .Content }}
+       {{ end }}
+   {{ end }}
 
-    {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
-    {{ partial "post-full-summary" . }}
-    {{ end }}
+
+   
+   {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+   {{ partial "post-full-summary" . }}
+   {{ end }}
+
     <footer>
       <nav>
 	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
